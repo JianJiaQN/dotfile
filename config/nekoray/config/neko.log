@@ -1,0 +1,2007 @@
+ion to csdnimg.cn:443
+INFO[1520] [1795683396 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52456
+INFO[1520] [1795683396 0ms] inbound/mixed[mixed-in]: inbound connection to csdnimg.cn:443
+INFO[1520] [1795683396 1ms] outbound/direct[bypass]: outbound connection to csdnimg.cn:443
+INFO[1520] [2060264789 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52470
+INFO[1520] [2060264789 0ms] inbound/mixed[mixed-in]: inbound connection to csdnimg.cn:443
+INFO[1520] [2060264789 1ms] outbound/direct[bypass]: outbound connection to csdnimg.cn:443
+INFO[1520] [1442349889 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52484
+INFO[1520] [1164432604 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52488
+INFO[1520] [1164432604 0ms] inbound/mixed[mixed-in]: inbound connection to blog.csdn.net:443
+INFO[1520] [1164432604 4ms] outbound/direct[bypass]: outbound connection to blog.csdn.net:443
+INFO[1521] [1879518544 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52502
+INFO[1521] [1879518544 0ms] inbound/mixed[mixed-in]: inbound connection to cn.bing.com:443
+INFO[1521] [1879518544 1ms] outbound/shadowsocks[proxy]: outbound connection to cn.bing.com:443
+INFO[1521] [3545072061 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52508
+INFO[1521] [3545072061 0ms] inbound/mixed[mixed-in]: inbound connection to ts1.cn.mm.bing.net:443
+INFO[1521] [3545072061 1ms] outbound/shadowsocks[proxy]: outbound connection to ts1.cn.mm.bing.net:443
+INFO[1521] [138681483 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52510
+INFO[1521] [2023391523 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52526
+INFO[1521] [138681483 0ms] inbound/mixed[mixed-in]: inbound connection to cn.bing.com:443
+INFO[1521] [2023391523 2ms] inbound/mixed[mixed-in]: inbound connection to cn.bing.com:443
+INFO[1521] [2741634103 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52528
+INFO[1521] [138681483 2ms] outbound/shadowsocks[proxy]: outbound connection to cn.bing.com:443
+INFO[1521] [2410905685 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52544
+INFO[1521] [3481892528 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52554
+INFO[1521] [2023391523 4ms] outbound/shadowsocks[proxy]: outbound connection to cn.bing.com:443
+INFO[1521] [2741634103 2ms] inbound/mixed[mixed-in]: inbound connection to cn.bing.com:443
+INFO[1521] [3481892528 0ms] inbound/mixed[mixed-in]: inbound connection to cn.bing.com:443
+INFO[1521] [2410905685 0ms] inbound/mixed[mixed-in]: inbound connection to cn.bing.com:443
+INFO[1521] [2741634103 4ms] outbound/shadowsocks[proxy]: outbound connection to cn.bing.com:443
+INFO[1521] [3481892528 4ms] outbound/shadowsocks[proxy]: outbound connection to cn.bing.com:443
+INFO[1521] [2410905685 6ms] outbound/shadowsocks[proxy]: outbound connection to cn.bing.com:443
+INFO[1521] [766645508 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52564
+INFO[1521] [766645508 0ms] inbound/mixed[mixed-in]: inbound connection to cn.bing.com:443
+INFO[1521] [766645508 2ms] outbound/shadowsocks[proxy]: outbound connection to cn.bing.com:443
+INFO[1521] [2956618378 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52568
+INFO[1521] [2956618378 0ms] inbound/mixed[mixed-in]: inbound connection to cn.bing.com:443
+INFO[1521] [2798188106 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52574
+INFO[1521] [2956618378 2ms] outbound/shadowsocks[proxy]: outbound connection to cn.bing.com:443
+INFO[1521] [2798188106 2ms] inbound/mixed[mixed-in]: inbound connection to cn.bing.com:443
+INFO[1521] [2798188106 4ms] outbound/shadowsocks[proxy]: outbound connection to cn.bing.com:443
+INFO[1521] [2624442512 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52580
+INFO[1521] [3585762724 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52584
+INFO[1521] [2624442512 1ms] inbound/mixed[mixed-in]: inbound connection to cn.bing.com:443
+INFO[1521] [2647732388 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52598
+INFO[1521] [3633712421 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52612
+INFO[1521] [1426551062 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52614
+INFO[1521] [2624442512 2ms] outbound/shadowsocks[proxy]: outbound connection to cn.bing.com:443
+INFO[1521] [3585762724 1ms] inbound/mixed[mixed-in]: inbound connection to cn.bing.com:443
+INFO[1521] [1426551062 2ms] inbound/mixed[mixed-in]: inbound connection to cn.bing.com:443
+INFO[1521] [3633712421 2ms] inbound/mixed[mixed-in]: inbound connection to cn.bing.com:443
+INFO[1521] [3585762724 3ms] outbound/shadowsocks[proxy]: outbound connection to cn.bing.com:443
+INFO[1521] [2647732388 2ms] inbound/mixed[mixed-in]: inbound connection to cn.bing.com:443
+INFO[1521] [2647732388 3ms] outbound/shadowsocks[proxy]: outbound connection to cn.bing.com:443
+INFO[1521] [3633712421 3ms] outbound/shadowsocks[proxy]: outbound connection to cn.bing.com:443
+INFO[1521] [1426551062 3ms] outbound/shadowsocks[proxy]: outbound connection to cn.bing.com:443
+INFO[1522] [3753334574 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52618
+INFO[1522] [3753334574 0ms] inbound/mixed[mixed-in]: inbound connection to cn.bing.com:443
+INFO[1522] [3753334574 1ms] outbound/shadowsocks[proxy]: outbound connection to cn.bing.com:443
+INFO[1522] [3467473886 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52622
+INFO[1522] [3467473886 0ms] inbound/mixed[mixed-in]: inbound connection to cn.bing.com:443
+INFO[1522] [3467473886 2ms] outbound/shadowsocks[proxy]: outbound connection to cn.bing.com:443
+INFO[1522] [666676343 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52638
+INFO[1522] [666676343 0ms] inbound/mixed[mixed-in]: inbound connection to profile-avatar.csdnimg.cn:443
+INFO[1522] [666676343 2ms] outbound/direct[bypass]: outbound connection to profile-avatar.csdnimg.cn:443
+INFO[1522] [156135947 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52640
+INFO[1522] [3086426410 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52644
+INFO[1522] [1065949856 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52650
+INFO[1522] [60223310 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52660
+INFO[1522] [3086426410 0ms] inbound/mixed[mixed-in]: inbound connection to img-blog.csdnimg.cn:443
+INFO[1522] [156135947 0ms] inbound/mixed[mixed-in]: inbound connection to img-blog.csdnimg.cn:443
+INFO[1522] [3086426410 2ms] outbound/direct[bypass]: outbound connection to img-blog.csdnimg.cn:443
+INFO[1522] [60223310 3ms] inbound/mixed[mixed-in]: inbound connection to img-blog.csdnimg.cn:443
+INFO[1522] [1065949856 3ms] inbound/mixed[mixed-in]: inbound connection to img-blog.csdnimg.cn:443
+INFO[1522] [156135947 3ms] outbound/direct[bypass]: outbound connection to img-blog.csdnimg.cn:443
+INFO[1522] [1065949856 5ms] outbound/direct[bypass]: outbound connection to img-blog.csdnimg.cn:443
+INFO[1522] [60223310 5ms] outbound/direct[bypass]: outbound connection to img-blog.csdnimg.cn:443
+INFO[1522] [2029511902 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52666
+INFO[1522] [2029511902 0ms] inbound/mixed[mixed-in]: inbound connection to csdnimg.cn:443
+INFO[1522] [2029511902 2ms] outbound/direct[bypass]: outbound connection to csdnimg.cn:443
+INFO[1523] [2892567733 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52674
+INFO[1523] [2522710239 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52678
+INFO[1523] [2522710239 0ms] inbound/mixed[mixed-in]: inbound connection to img-home.csdnimg.cn:443
+INFO[1523] [2522710239 3ms] outbound/direct[bypass]: outbound connection to img-home.csdnimg.cn:443
+INFO[1523] [498311631 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52690
+INFO[1523] [498311631 0ms] inbound/mixed[mixed-in]: inbound connection to blog.csdn.net:443
+INFO[1523] [498311631 2ms] outbound/direct[bypass]: outbound connection to blog.csdn.net:443
+INFO[1524] [121809136 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52692
+INFO[1524] [121809136 0ms] inbound/mixed[mixed-in]: inbound connection to blog.csdn.net:443
+INFO[1524] [121809136 2ms] outbound/direct[bypass]: outbound connection to blog.csdn.net:443
+INFO[1524] [3348787767 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52700
+INFO[1524] [3348787767 0ms] inbound/mixed[mixed-in]: inbound connection to cdn-static-devbit.csdn.net:443
+INFO[1524] [3348787767 3ms] outbound/direct[bypass]: outbound connection to cdn-static-devbit.csdn.net:443
+INFO[1525] [1617119213 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:37874
+INFO[1525] [1617119213 0ms] inbound/mixed[mixed-in]: inbound connection to bizapi.csdn.net:443
+INFO[1525] [1617119213 2ms] outbound/direct[bypass]: outbound connection to bizapi.csdn.net:443
+INFO[1539] [1991232099 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58874
+INFO[1539] [1991232099 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1539] [1991232099 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1539] [1961106382 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58882
+INFO[1539] [1961106382 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1539] [1961106382 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1539] [523884487 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58886
+INFO[1539] [523884487 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1539] [1438764851 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58890
+INFO[1539] [523884487 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1539] [700457161 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58904
+INFO[1539] [3372177689 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58910
+INFO[1539] [1438764851 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1539] [700457161 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1539] [1438764851 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1539] [3372177689 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1539] [700457161 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1539] [3372177689 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1539] [1371269367 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58926
+INFO[1539] [1371269367 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1539] [1371269367 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1540] [3566481091 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58934
+INFO[1540] [3566481091 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1540] [3566481091 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1540] [499707735 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58948
+INFO[1540] [499707735 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1540] [499707735 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1540] [988667832 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58952
+INFO[1540] [988667832 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1540] [988667832 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1540] [642791584 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58958
+INFO[1540] [642791584 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1540] [642791584 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1540] [1928518330 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58964
+INFO[1540] [1928518330 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1540] [81377094 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58978
+INFO[1540] [1928518330 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1540] [81377094 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1540] [81377094 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1541] [838543071 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58984
+INFO[1541] [838543071 0ms] inbound/mixed[mixed-in]: inbound connection to www.gravatar.com:443
+INFO[1541] [838543071 2ms] outbound/shadowsocks[proxy]: outbound connection to www.gravatar.com:443
+INFO[1541] [3551416301 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58988
+INFO[1541] [3551416301 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1541] [3551416301 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1541] [2305741600 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:59000
+INFO[1541] [2305741600 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1541] [2305741600 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1543] [967913623 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:59006
+INFO[1543] [967913623 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1543] [967913623 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1543] [2765857780 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:59014
+INFO[1543] [2765857780 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1543] [2765857780 1ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1544] [2236876824 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:59028
+INFO[1544] [2236876824 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1544] [2236876824 1ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1545] [2277907877 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:59030
+INFO[1545] [2277907877 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1545] [2277907877 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1546] [1333843352 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:54482
+INFO[1546] [1333843352 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1546] [1333843352 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1546] [3378862351 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:54484
+INFO[1546] [3378862351 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1546] [3378862351 1ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1547] [36819913 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:54488
+INFO[1547] [36819913 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1547] [36819913 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1550] [4264050347 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:54504
+INFO[1550] [4264050347 39ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1550] [4264050347 39ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1555] [2529753076 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56414
+INFO[1555] [2529753076 43ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1555] [2529753076 44ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1556] [2572826103 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56430
+INFO[1556] [2572826103 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1556] [2572826103 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1556] [960349964 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56434
+INFO[1556] [960349964 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1556] [960349964 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1556] [3055744700 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56444
+INFO[1556] [3055744700 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1556] [3055744700 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1556] [1854872387 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56450
+INFO[1556] [1854872387 1ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1556] [1854872387 1ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1557] [4211002346 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56464
+INFO[1557] [4211002346 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1557] [4211002346 1ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1562] [584801808 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56468
+INFO[1562] [584801808 0ms] inbound/mixed[mixed-in]: [] inbound connection to 34.107.243.93:443
+INFO[1562] [584801808 1ms] outbound/shadowsocks[proxy]: outbound connection to 34.107.243.93:443
+INFO[1563] [3685679250 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56470
+INFO[1563] [3685679250 0ms] inbound/mixed[mixed-in]: [] inbound connection to 34.107.243.93:443
+INFO[1563] [3685679250 2ms] outbound/shadowsocks[proxy]: outbound connection to 34.107.243.93:443
+INFO[1563] [3837958667 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56484
+INFO[1563] [3837958667 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1563] [3837958667 1ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1563] [2669395299 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56498
+INFO[1563] [2669395299 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1563] [2669395299 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1563] [2540058635 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56514
+INFO[1563] [2540058635 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1563] [2540058635 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1564] [4260059268 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56524
+INFO[1564] [4260059268 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1564] [4260059268 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1574] [2258912803 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:40400
+INFO[1574] [2258912803 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1574] [2258912803 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1576] [1078702090 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56886
+INFO[1576] [1078702090 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1576] [1078702090 1ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1576] [1674626369 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56902
+INFO[1576] [1674626369 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1576] [1674626369 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1578] [432242931 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56906
+INFO[1578] [432242931 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1578] [432242931 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1593] [1208661824 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:50618
+INFO[1593] [1208661824 0ms] inbound/mixed[mixed-in]: inbound connection to safebrowsing.googleapis.com:443
+INFO[1593] [1208661824 1ms] outbound/shadowsocks[proxy]: outbound connection to safebrowsing.googleapis.com:443
+INFO[1626] [35469825 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47330
+INFO[1626] [35469825 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1626] [35469825 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1626] [437011693 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47334
+INFO[1626] [437011693 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1626] [437011693 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1626] [4004000619 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47348
+INFO[1626] [4004000619 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1626] [4004000619 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1626] [3230041975 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47356
+INFO[1626] [3230041975 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1626] [3230041975 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1626] [1287129964 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47372
+INFO[1626] [1287129964 0ms] inbound/mixed[mixed-in]: inbound connection to 10.39.15.252:80
+INFO[1626] [1287129964 0ms] outbound/direct[bypass]: outbound connection to 10.39.15.252:80
+INFO[1626] [2494250699 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47378
+INFO[1626] [2494250699 0ms] inbound/mixed[mixed-in]: inbound connection to www.gravatar.com:443
+INFO[1626] [2494250699 1ms] outbound/shadowsocks[proxy]: outbound connection to www.gravatar.com:443
+INFO[1862] [1148443496 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:46162
+INFO[1862] [1148443496 0ms] inbound/mixed[mixed-in]: inbound connection to contile.services.mozilla.com:443
+INFO[1862] [1148443496 7ms] outbound/shadowsocks[proxy]: outbound connection to contile.services.mozilla.com:443
+INFO[1873] [3193523401 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:46350
+INFO[1873] [3193523401 0ms] inbound/mixed[mixed-in]: inbound connection to images.unsplash.com:443
+INFO[1873] [3193523401 2ms] outbound/shadowsocks[proxy]: outbound connection to images.unsplash.com:443
+INFO[1873] [997241501 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:46364
+INFO[1873] [997241501 0ms] inbound/mixed[mixed-in]: inbound connection to quotes.rest:443
+INFO[1873] [997241501 3ms] outbound/shadowsocks[proxy]: outbound connection to quotes.rest:443
+INFO[1875] [440955139 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:57020
+INFO[1875] [440955139 0ms] inbound/mixed[mixed-in]: inbound connection to o113629.ingest.sentry.io:443
+INFO[1875] [440955139 1ms] outbound/shadowsocks[proxy]: outbound connection to o113629.ingest.sentry.io:443
+INFO[1875] [2774204680 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:57030
+INFO[1875] [2774204680 0ms] inbound/mixed[mixed-in]: inbound connection to www.bing.com:443
+INFO[1875] [2774204680 2ms] outbound/shadowsocks[proxy]: outbound connection to www.bing.com:443
+INFO[1878] [1089650007 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:57036
+INFO[1878] [1089650007 0ms] inbound/mixed[mixed-in]: inbound connection to profile.accounts.firefox.com:443
+INFO[1878] [1089650007 4ms] outbound/shadowsocks[proxy]: outbound connection to profile.accounts.firefox.com:443
+INFO[1878] [1058865149 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:57046
+INFO[1878] [1058865149 0ms] inbound/mixed[mixed-in]: inbound connection to sync-1-us-west1-g.sync.services.mozilla.com:443
+INFO[1878] [1058865149 3ms] outbound/shadowsocks[proxy]: outbound connection to sync-1-us-west1-g.sync.services.mozilla.com:443
+INFO[1881] [3201425789 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:57054
+INFO[1881] [3201425789 0ms] inbound/mixed[mixed-in]: inbound connection to o113629.ingest.sentry.io:443
+INFO[1881] [3201425789 2ms] outbound/shadowsocks[proxy]: outbound connection to o113629.ingest.sentry.io:443
+INFO[1881] [2437668285 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:57058
+INFO[1881] [2437668285 0ms] inbound/mixed[mixed-in]: inbound connection to quotes.rest:443
+INFO[1881] [2437668285 1ms] outbound/shadowsocks[proxy]: outbound connection to quotes.rest:443
+INFO[1883] [2227081281 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:57074
+INFO[1883] [2227081281 0ms] inbound/mixed[mixed-in]: inbound connection to o113629.ingest.sentry.io:443
+INFO[1883] [2227081281 2ms] outbound/shadowsocks[proxy]: outbound connection to o113629.ingest.sentry.io:443
+INFO[1889] outbound/shadowsocks[proxy]: outbound connection to cp.cloudflare.com:80
+2024/05/05 15:20:45 [Info] sing-box closed in 0 ms
+2024/05/06 10:07:16 nekobox_core grpc server listening at 127.0.0.1:36771
+INFO[0003] outbound/shadowsocks[proxy]: outbound connection to cp.cloudflare.com:80
+INFO[0004] outbound/shadowsocks[proxy]: outbound connection to cp.cloudflare.com:80
+INFO[0010] [2223352040 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:57282
+INFO[0010] [2223352040 6ms] inbound/mixed[mixed-in]: inbound connection to github.com:443
+INFO[0010] [2223352040 10ms] outbound/shadowsocks[proxy]: outbound connection to github.com:443
+INFO[0010] [3427025371 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:57284
+INFO[0010] [3427025371 8ms] inbound/mixed[mixed-in]: inbound connection to ocsp.sectigo.com:80
+INFO[0010] [3427025371 8ms] outbound/shadowsocks[proxy]: outbound connection to ocsp.sectigo.com:80
+INFO[0013] [575234894 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:50418
+INFO[0013] [3426021768 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:50422
+INFO[0013] [3672634580 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:50434
+INFO[0013] [575234894 0ms] inbound/mixed[mixed-in]: inbound connection to github.githubassets.com:443
+INFO[0013] [3159635739 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:50438
+INFO[0013] [3672634580 1ms] inbound/mixed[mixed-in]: inbound connection to github.githubassets.com:443
+INFO[0013] [3426021768 2ms] inbound/mixed[mixed-in]: inbound connection to github.githubassets.com:443
+INFO[0013] [575234894 2ms] outbound/shadowsocks[proxy]: outbound connection to github.githubassets.com:443
+INFO[0013] [3426021768 2ms] outbound/shadowsocks[proxy]: outbound connection to github.githubassets.com:443
+INFO[0013] [3672634580 2ms] outbound/shadowsocks[proxy]: outbound connection to github.githubassets.com:443
+INFO[0014] [3363610570 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:50444
+INFO[0014] [1429464529 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:50452
+INFO[0014] [1429464529 0ms] inbound/mixed[mixed-in]: inbound connection to github.githubassets.com:443
+INFO[0014] [1429464529 1ms] outbound/shadowsocks[proxy]: outbound connection to github.githubassets.com:443
+INFO[0014] [3031293318 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:50458
+INFO[0014] [1088223289 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:50474
+INFO[0014] [1088223289 0ms] inbound/mixed[mixed-in]: inbound connection to github.githubassets.com:443
+INFO[0014] [3031293318 0ms] inbound/mixed[mixed-in]: inbound connection to github.githubassets.com:443
+INFO[0014] [1088223289 2ms] outbound/shadowsocks[proxy]: outbound connection to github.githubassets.com:443
+INFO[0014] [3031293318 3ms] outbound/shadowsocks[proxy]: outbound connection to github.githubassets.com:443
+INFO[0014] [2493459836 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:50484
+INFO[0014] [2493459836 0ms] inbound/mixed[mixed-in]: inbound connection to github.githubassets.com:443
+INFO[0014] [2493459836 1ms] outbound/shadowsocks[proxy]: outbound connection to github.githubassets.com:443
+INFO[0014] [438197695 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:50498
+INFO[0014] [438197695 0ms] inbound/mixed[mixed-in]: inbound connection to github.githubassets.com:443
+INFO[0014] [438197695 1ms] outbound/shadowsocks[proxy]: outbound connection to github.githubassets.com:443
+INFO[0015] [3254848957 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:50510
+INFO[0015] [3254848957 0ms] inbound/mixed[mixed-in]: inbound connection to github.githubassets.com:443
+INFO[0015] [3254848957 1ms] outbound/shadowsocks[proxy]: outbound connection to github.githubassets.com:443
+INFO[0015] [680496788 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:50526
+INFO[0015] [680496788 0ms] inbound/mixed[mixed-in]: inbound connection to github.githubassets.com:443
+INFO[0015] [680496788 1ms] outbound/shadowsocks[proxy]: outbound connection to github.githubassets.com:443
+INFO[0015] [3041007833 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:50536
+INFO[0015] [3041007833 0ms] inbound/mixed[mixed-in]: inbound connection to github.githubassets.com:443
+INFO[0015] [3041007833 1ms] outbound/shadowsocks[proxy]: outbound connection to github.githubassets.com:443
+INFO[0015] [1299837009 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:50542
+INFO[0018] [1066232889 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:50546
+INFO[0018] [1066232889 0ms] inbound/mixed[mixed-in]: inbound connection to github.githubassets.com:443
+INFO[0018] [1066232889 2ms] outbound/shadowsocks[proxy]: outbound connection to github.githubassets.com:443
+INFO[0020] [4240382367 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60226
+INFO[0020] [4240382367 0ms] inbound/mixed[mixed-in]: inbound connection to avatars.githubusercontent.com:443
+INFO[0020] [4240382367 3ms] outbound/shadowsocks[proxy]: outbound connection to avatars.githubusercontent.com:443
+INFO[0021] [4048484036 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60238
+INFO[0021] [4048484036 0ms] inbound/mixed[mixed-in]: inbound connection to sync-1-us-west1-g.sync.services.mozilla.com:443
+INFO[0021] [4048484036 3ms] outbound/shadowsocks[proxy]: outbound connection to sync-1-us-west1-g.sync.services.mozilla.com:443
+INFO[0021] [1421573622 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60248
+INFO[0021] [1421573622 0ms] inbound/mixed[mixed-in]: inbound connection to github.githubassets.com:443
+INFO[0021] [1421573622 2ms] outbound/shadowsocks[proxy]: outbound connection to github.githubassets.com:443
+INFO[0021] [2965706662 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60254
+INFO[0021] [3943267477 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60268
+INFO[0021] [2965706662 0ms] inbound/mixed[mixed-in]: inbound connection to github.githubassets.com:443
+INFO[0021] [2844780376 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60280
+INFO[0021] [1006541988 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60296
+INFO[0021] [3238082400 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60302
+INFO[0021] [1006541988 2ms] inbound/mixed[mixed-in]: inbound connection to github.githubassets.com:443
+INFO[0021] [2844780376 2ms] inbound/mixed[mixed-in]: inbound connection to github.githubassets.com:443
+INFO[0021] [3238082400 2ms] inbound/mixed[mixed-in]: inbound connection to github.githubassets.com:443
+INFO[0021] [2965706662 4ms] outbound/shadowsocks[proxy]: outbound connection to github.githubassets.com:443
+INFO[0021] [3943267477 4ms] inbound/mixed[mixed-in]: inbound connection to github.githubassets.com:443
+INFO[0021] [1006541988 5ms] outbound/shadowsocks[proxy]: outbound connection to github.githubassets.com:443
+INFO[0021] [3943267477 7ms] outbound/shadowsocks[proxy]: outbound connection to github.githubassets.com:443
+INFO[0021] [3238082400 8ms] outbound/shadowsocks[proxy]: outbound connection to github.githubassets.com:443
+INFO[0021] [2844780376 10ms] outbound/shadowsocks[proxy]: outbound connection to github.githubassets.com:443
+INFO[0021] [1446189867 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60306
+INFO[0021] [1446189867 0ms] inbound/mixed[mixed-in]: inbound connection to camo.githubusercontent.com:443
+INFO[0021] [1446189867 2ms] outbound/shadowsocks[proxy]: outbound connection to camo.githubusercontent.com:443
+INFO[0021] [3862686491 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60326
+INFO[0021] [2862549703 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60314
+INFO[0021] [3862686491 0ms] inbound/mixed[mixed-in]: inbound connection to avatars.githubusercontent.com:443
+INFO[0021] [2862549703 0ms] inbound/mixed[mixed-in]: inbound connection to avatars.githubusercontent.com:443
+INFO[0021] [3862686491 1ms] outbound/shadowsocks[proxy]: outbound connection to avatars.githubusercontent.com:443
+INFO[0021] [2862549703 2ms] outbound/shadowsocks[proxy]: outbound connection to avatars.githubusercontent.com:443
+INFO[0021] [1286558520 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60330
+INFO[0021] [1286558520 0ms] inbound/mixed[mixed-in]: inbound connection to avatars.githubusercontent.com:443
+INFO[0021] [1286558520 1ms] outbound/shadowsocks[proxy]: outbound connection to avatars.githubusercontent.com:443
+INFO[0022] [2552288893 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60344
+INFO[0022] [2552288893 0ms] inbound/mixed[mixed-in]: inbound connection to safebrowsing.googleapis.com:443
+INFO[0022] [2552288893 3ms] outbound/shadowsocks[proxy]: outbound connection to safebrowsing.googleapis.com:443
+INFO[0022] [1949528788 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60354
+INFO[0022] [1949528788 0ms] inbound/mixed[mixed-in]: inbound connection to raw.githubusercontent.com:443
+INFO[0022] [1949528788 2ms] outbound/shadowsocks[proxy]: outbound connection to raw.githubusercontent.com:443
+INFO[0022] [1457050236 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60362
+INFO[0022] [243571658 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60366
+INFO[0022] [37413777 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60368
+INFO[0022] [1378493996 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60382
+INFO[0022] [1004790628 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60396
+INFO[0022] [1004790628 0ms] inbound/mixed[mixed-in]: inbound connection to raw.githubusercontent.com:443
+INFO[0022] [1378493996 0ms] inbound/mixed[mixed-in]: inbound connection to raw.githubusercontent.com:443
+INFO[0022] [37413777 0ms] inbound/mixed[mixed-in]: inbound connection to raw.githubusercontent.com:443
+INFO[0022] [243571658 0ms] inbound/mixed[mixed-in]: inbound connection to raw.githubusercontent.com:443
+INFO[0022] [1457050236 1ms] inbound/mixed[mixed-in]: inbound connection to raw.githubusercontent.com:443
+INFO[0022] [1004790628 2ms] outbound/shadowsocks[proxy]: outbound connection to raw.githubusercontent.com:443
+INFO[0022] [1378493996 4ms] outbound/shadowsocks[proxy]: outbound connection to raw.githubusercontent.com:443
+INFO[0022] [37413777 5ms] outbound/shadowsocks[proxy]: outbound connection to raw.githubusercontent.com:443
+INFO[0022] [243571658 7ms] outbound/shadowsocks[proxy]: outbound connection to raw.githubusercontent.com:443
+INFO[0022] [1457050236 8ms] outbound/shadowsocks[proxy]: outbound connection to raw.githubusercontent.com:443
+INFO[0025] [3655207377 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60410
+INFO[0025] [3655207377 0ms] inbound/mixed[mixed-in]: inbound connection to api.bilibili.com:443
+INFO[0025] [3655207377 2ms] outbound/direct[bypass]: outbound connection to api.bilibili.com:443
+INFO[0025] [2525892464 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60412
+INFO[0025] [2525892464 0ms] inbound/mixed[mixed-in]: inbound connection to api.bilibili.com:443
+INFO[0025] [2525892464 6ms] outbound/direct[bypass]: outbound connection to api.bilibili.com:443
+INFO[0026] [414685155 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60428
+INFO[0026] [414685155 0ms] inbound/mixed[mixed-in]: inbound connection to transmart.qq.com:443
+INFO[0026] [414685155 1ms] outbound/direct[bypass]: outbound connection to transmart.qq.com:443
+INFO[0026] [226889673 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60430
+INFO[0026] [226889673 0ms] inbound/mixed[mixed-in]: inbound connection to transmart.qq.com:443
+INFO[0026] [226889673 1ms] outbound/direct[bypass]: outbound connection to transmart.qq.com:443
+INFO[0026] [2745531496 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60434
+INFO[0026] [2745531496 0ms] inbound/mixed[mixed-in]: inbound connection to ocsp2.globalsign.com:80
+INFO[0026] [2745531496 0ms] outbound/shadowsocks[proxy]: outbound connection to ocsp2.globalsign.com:80
+INFO[0026] [131870992 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60442
+INFO[0026] [131870992 0ms] inbound/mixed[mixed-in]: inbound connection to ocsp2.globalsign.com:80
+INFO[0026] [131870992 0ms] outbound/shadowsocks[proxy]: outbound connection to ocsp2.globalsign.com:80
+INFO[0027] [3551480057 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60456
+INFO[0027] [3551480057 0ms] inbound/mixed[mixed-in]: inbound connection to transmart.qq.com:443
+INFO[0027] [3551480057 1ms] outbound/direct[bypass]: outbound connection to transmart.qq.com:443
+INFO[0027] [2477346685 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60468
+INFO[0027] [2477346685 0ms] inbound/mixed[mixed-in]: inbound connection to transmart.qq.com:443
+INFO[0027] [2477346685 2ms] outbound/direct[bypass]: outbound connection to transmart.qq.com:443
+INFO[0027] [1090262557 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60470
+INFO[0027] [1090262557 0ms] inbound/mixed[mixed-in]: inbound connection to transmart.qq.com:443
+INFO[0027] [520273713 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60474
+INFO[0027] [520273713 1ms] inbound/mixed[mixed-in]: inbound connection to transmart.qq.com:443
+INFO[0027] [1090262557 2ms] outbound/direct[bypass]: outbound connection to transmart.qq.com:443
+INFO[0027] [520273713 4ms] outbound/direct[bypass]: outbound connection to transmart.qq.com:443
+INFO[0027] [1767898298 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60478
+INFO[0027] [1040097737 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60482
+INFO[0027] [1767898298 0ms] inbound/mixed[mixed-in]: inbound connection to ocsp2.globalsign.com:80
+INFO[0027] [1767898298 0ms] outbound/shadowsocks[proxy]: outbound connection to ocsp2.globalsign.com:80
+INFO[0027] [1040097737 0ms] inbound/mixed[mixed-in]: inbound connection to ocsp2.globalsign.com:80
+INFO[0027] [1040097737 0ms] outbound/shadowsocks[proxy]: outbound connection to ocsp2.globalsign.com:80
+INFO[0027] [227812890 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60486
+INFO[0027] [227812890 0ms] inbound/mixed[mixed-in]: inbound connection to ocsp2.globalsign.com:80
+INFO[0027] [227812890 0ms] outbound/shadowsocks[proxy]: outbound connection to ocsp2.globalsign.com:80
+INFO[0057] [1355032628 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:55440
+INFO[0057] [1355032628 0ms] inbound/mixed[mixed-in]: inbound connection to cn.bing.com:443
+INFO[0057] [1355032628 1ms] outbound/shadowsocks[proxy]: outbound connection to cn.bing.com:443
+INFO[0063] [3452414339 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47162
+INFO[0063] [3452414339 0ms] inbound/mixed[mixed-in]: inbound connection to www.bing.com:443
+INFO[0063] [3452414339 4ms] outbound/shadowsocks[proxy]: outbound connection to www.bing.com:443
+INFO[0065] [549685772 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47168
+INFO[0065] [549685772 0ms] inbound/mixed[mixed-in]: inbound connection to th.bing.com:443
+INFO[0065] [549685772 2ms] outbound/shadowsocks[proxy]: outbound connection to th.bing.com:443
+INFO[0065] [1014264175 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47182
+INFO[0065] [3661747293 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47188
+INFO[0065] [1014264175 0ms] inbound/mixed[mixed-in]: inbound connection to th.bing.com:443
+INFO[0065] [1846177631 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47200
+INFO[0065] [329221173 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47214
+INFO[0065] [3579567251 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47220
+INFO[0065] [3661747293 2ms] inbound/mixed[mixed-in]: inbound connection to th.bing.com:443
+INFO[0065] [1014264175 3ms] outbound/shadowsocks[proxy]: outbound connection to th.bing.com:443
+INFO[0065] [3579567251 4ms] inbound/mixed[mixed-in]: inbound connection to th.bing.com:443
+INFO[0065] [329221173 4ms] inbound/mixed[mixed-in]: inbound connection to th.bing.com:443
+INFO[0065] [1846177631 4ms] inbound/mixed[mixed-in]: inbound connection to th.bing.com:443
+INFO[0065] [3661747293 5ms] outbound/shadowsocks[proxy]: outbound connection to th.bing.com:443
+INFO[0065] [3579567251 7ms] outbound/shadowsocks[proxy]: outbound connection to th.bing.com:443
+INFO[0065] [329221173 8ms] outbound/shadowsocks[proxy]: outbound connection to th.bing.com:443
+INFO[0065] [1846177631 10ms] outbound/shadowsocks[proxy]: outbound connection to th.bing.com:443
+INFO[0066] [447793399 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47222
+INFO[0066] [447793399 0ms] inbound/mixed[mixed-in]: inbound connection to ayouth.top:443
+INFO[0066] [447793399 2ms] outbound/shadowsocks[proxy]: outbound connection to ayouth.top:443
+INFO[0068] [1250744510 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47228
+INFO[0068] [1250744510 0ms] inbound/mixed[mixed-in]: inbound connection to www2.bing.com:443
+INFO[0068] [1250744510 2ms] outbound/shadowsocks[proxy]: outbound connection to www2.bing.com:443
+INFO[0071] [3043789575 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:44322
+INFO[0071] [3043789575 0ms] inbound/mixed[mixed-in]: inbound connection to byronhe.com:443
+INFO[0071] [3043789575 2ms] outbound/shadowsocks[proxy]: outbound connection to byronhe.com:443
+INFO[0099] [1970766828 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:34180
+INFO[0099] [1970766828 0ms] inbound/mixed[mixed-in]: inbound connection to profile.accounts.firefox.com:443
+INFO[0099] [1970766828 1ms] outbound/shadowsocks[proxy]: outbound connection to profile.accounts.firefox.com:443
+INFO[0111] [2955721660 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:49584
+INFO[0111] [2955721660 0ms] inbound/mixed[mixed-in]: inbound connection to github.com:443
+INFO[0111] [2955721660 2ms] outbound/shadowsocks[proxy]: outbound connection to github.com:443
+INFO[0134] [332976081 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:54568
+INFO[0134] [332976081 0ms] inbound/mixed[mixed-in]: inbound connection to incoming.telemetry.mozilla.org:443
+INFO[0134] [332976081 3ms] outbound/shadowsocks[proxy]: outbound connection to incoming.telemetry.mozilla.org:443
+INFO[0144] [2080991524 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:34292
+INFO[0144] [2080991524 0ms] inbound/mixed[mixed-in]: inbound connection to incoming.telemetry.mozilla.org:443
+INFO[0144] [2080991524 2ms] outbound/shadowsocks[proxy]: outbound connection to incoming.telemetry.mozilla.org:443
+INFO[0150] [299154230 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:34296
+INFO[0150] [299154230 0ms] inbound/mixed[mixed-in]: inbound connection to github.com:443
+INFO[0150] [299154230 4ms] outbound/shadowsocks[proxy]: outbound connection to github.com:443
+INFO[0154] [1461727676 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:54270
+INFO[0154] [1461727676 0ms] inbound/mixed[mixed-in]: inbound connection to incoming.telemetry.mozilla.org:443
+INFO[0154] [1461727676 3ms] outbound/shadowsocks[proxy]: outbound connection to incoming.telemetry.mozilla.org:443
+INFO[0360] [413560085 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:34272
+INFO[0360] [413560085 0ms] inbound/mixed[mixed-in]: inbound connection to shavar.services.mozilla.com:443
+INFO[0360] [413560085 5ms] outbound/shadowsocks[proxy]: outbound connection to shavar.services.mozilla.com:443
+INFO[0360] [580221900 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:50236
+INFO[0360] [580221900 0ms] inbound/mixed[mixed-in]: inbound connection to api.accounts.firefox.com:443
+INFO[0360] [580221900 1ms] outbound/shadowsocks[proxy]: outbound connection to api.accounts.firefox.com:443
+INFO[0361] [1694792478 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:50242
+INFO[0361] [1694792478 0ms] inbound/mixed[mixed-in]: inbound connection to r3.o.lencr.org:80
+INFO[0361] [1694792478 1ms] outbound/shadowsocks[proxy]: outbound connection to r3.o.lencr.org:80
+INFO[0397] [1964458181 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58898
+INFO[0397] [1964458181 0ms] inbound/mixed[mixed-in]: [] inbound connection to 34.107.243.93:443
+INFO[0397] [1964458181 52ms] outbound/shadowsocks[proxy]: outbound connection to 34.107.243.93:443
+INFO[0398] [169333047 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58906
+INFO[0398] [169333047 0ms] inbound/mixed[mixed-in]: [] inbound connection to 34.107.243.93:443
+INFO[0398] [169333047 8ms] outbound/shadowsocks[proxy]: outbound connection to 34.107.243.93:443
+INFO[0399] [2902174138 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58918
+INFO[0399] [2902174138 0ms] inbound/mixed[mixed-in]: inbound connection to firefox.settings.services.mozilla.com:443
+INFO[0399] [2902174138 0ms] outbound/shadowsocks[proxy]: outbound connection to firefox.settings.services.mozilla.com:443
+INFO[0431] [1312594150 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:35846
+INFO[0431] [1312594150 0ms] inbound/mixed[mixed-in]: inbound connection to incoming.telemetry.mozilla.org:443
+INFO[0431] [1312594150 0ms] outbound/shadowsocks[proxy]: outbound connection to incoming.telemetry.mozilla.org:443
+INFO[0477] [3462933691 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60338
+INFO[0477] [3462933691 0ms] inbound/mixed[mixed-in]: inbound connection to profile.accounts.firefox.com:443
+INFO[0477] [3462933691 2ms] outbound/shadowsocks[proxy]: outbound connection to profile.accounts.firefox.com:443
+INFO[0477] [3310014907 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60350
+INFO[0477] [3310014907 0ms] inbound/mixed[mixed-in]: inbound connection to sync-1-us-west1-g.sync.services.mozilla.com:443
+INFO[0477] [3310014907 2ms] outbound/shadowsocks[proxy]: outbound connection to sync-1-us-west1-g.sync.services.mozilla.com:443
+INFO[0477] [1516032529 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60362
+INFO[0477] [1516032529 0ms] inbound/mixed[mixed-in]: inbound connection to contile.services.mozilla.com:443
+INFO[0477] [1516032529 2ms] outbound/shadowsocks[proxy]: outbound connection to contile.services.mozilla.com:443
+INFO[0504] [3016321687 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:42770
+INFO[0504] [3016321687 0ms] inbound/mixed[mixed-in]: inbound connection to cdn.jsdelivr.net:443
+INFO[0504] [3016321687 1ms] outbound/shadowsocks[proxy]: outbound connection to cdn.jsdelivr.net:443
+INFO[1082] [2829991812 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58696
+INFO[1082] [2829991812 0ms] inbound/mixed[mixed-in]: inbound connection to profile.accounts.firefox.com:443
+INFO[1082] [2829991812 1ms] outbound/shadowsocks[proxy]: outbound connection to profile.accounts.firefox.com:443
+INFO[1082] [1316754520 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58706
+INFO[1082] [1316754520 0ms] inbound/mixed[mixed-in]: inbound connection to sync-1-us-west1-g.sync.services.mozilla.com:443
+INFO[1082] [1316754520 2ms] outbound/shadowsocks[proxy]: outbound connection to sync-1-us-west1-g.sync.services.mozilla.com:443
+INFO[1375] [3770830849 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:42254
+INFO[1375] [3770830849 0ms] inbound/mixed[mixed-in]: inbound connection to safebrowsing.googleapis.com:443
+INFO[1375] [3770830849 2ms] outbound/shadowsocks[proxy]: outbound connection to safebrowsing.googleapis.com:443
+INFO[1427] [3284011361 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56554
+INFO[1427] [3284011361 0ms] inbound/mixed[mixed-in]: inbound connection to contile.services.mozilla.com:443
+INFO[1427] [3284011361 4ms] outbound/shadowsocks[proxy]: outbound connection to contile.services.mozilla.com:443
+INFO[1427] [1833755261 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56566
+INFO[1427] [1833755261 0ms] inbound/mixed[mixed-in]: [] inbound connection to 34.107.243.93:443
+INFO[1427] [1833755261 1ms] outbound/shadowsocks[proxy]: outbound connection to 34.107.243.93:443
+INFO[1428] [849167851 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56570
+INFO[1428] [849167851 0ms] inbound/mixed[mixed-in]: [] inbound connection to 34.107.243.93:443
+INFO[1428] [849167851 6ms] outbound/shadowsocks[proxy]: outbound connection to 34.107.243.93:443
+INFO[1550] [2451962139 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56268
+INFO[1550] [2451962139 0ms] inbound/mixed[mixed-in]: inbound connection to profile.accounts.firefox.com:443
+INFO[1550] [2451962139 3ms] outbound/shadowsocks[proxy]: outbound connection to profile.accounts.firefox.com:443
+INFO[1550] [3786251187 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56278
+INFO[1550] [3786251187 0ms] inbound/mixed[mixed-in]: inbound connection to sync-1-us-west1-g.sync.services.mozilla.com:443
+INFO[1550] [3786251187 3ms] outbound/shadowsocks[proxy]: outbound connection to sync-1-us-west1-g.sync.services.mozilla.com:443
+INFO[1552] [726593923 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58438
+INFO[1552] [726593923 0ms] inbound/mixed[mixed-in]: inbound connection to eva2.csdn.net:443
+INFO[1552] [726593923 1ms] outbound/direct[bypass]: outbound connection to eva2.csdn.net:443
+INFO[1552] [2035081811 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58454
+INFO[1552] [2035081811 0ms] inbound/mixed[mixed-in]: inbound connection to ocsp.digicert.com:80
+INFO[1552] [2035081811 0ms] outbound/shadowsocks[proxy]: outbound connection to ocsp.digicert.com:80
+INFO[1630] [751995011 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:45952
+INFO[1630] [751995011 0ms] inbound/mixed[mixed-in]: inbound connection to www.bing.com:443
+INFO[1630] [751995011 2ms] outbound/shadowsocks[proxy]: outbound connection to www.bing.com:443
+2024/05/06 10:39:53 [Info] sing-box closed in 0 ms
+2024/05/06 10:39:54 nekobox_core grpc server listening at 127.0.0.1:37065
+INFO[0000] [462695848 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54806
+INFO[0000] [462695848 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0000] [1830444795 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50613
+INFO[0000] [1830444795 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0000] [3169694601 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:42541
+INFO[0000] [3169694601 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0000] outbound/shadowsocks[proxy]: outbound connection to 8.8.8.8:443
+INFO[0000] outbound/shadowsocks[proxy]: outbound connection to 8.8.8.8:443
+INFO[0000] outbound/shadowsocks[proxy]: outbound connection to 8.8.8.8:443
+INFO[0000] [3183251396 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:43678
+INFO[0000] [3183251396 0ms] inbound/tun[tun-in]: inbound connection to 95.216.195.133:80
+INFO[0000] [3183251396 0ms] outbound/shadowsocks[proxy]: outbound connection to 95.216.195.133:80
+INFO[0000] [3272253671 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:43692
+INFO[0000] [3272253671 0ms] inbound/tun[tun-in]: inbound connection to 95.216.195.133:80
+INFO[0000] [3272253671 0ms] outbound/shadowsocks[proxy]: outbound connection to 95.216.195.133:80
+INFO[0000] [3239231725 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:43700
+INFO[0000] [3239231725 0ms] inbound/tun[tun-in]: inbound connection to 95.216.195.133:80
+INFO[0000] [3239231725 0ms] outbound/shadowsocks[proxy]: outbound connection to 95.216.195.133:80
+INFO[0001] [3237498384 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:41145
+INFO[0001] [3237498384 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0001] [2194634009 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:35079
+INFO[0001] [2194634009 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0001] outbound/shadowsocks[proxy]: outbound connection to 8.8.8.8:443
+INFO[0001] outbound/shadowsocks[proxy]: outbound connection to 8.8.8.8:443
+INFO[0001] [2216113433 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:37579
+INFO[0001] [2216113433 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0001] [3266746890 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51561
+INFO[0001] [3266746890 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0001] outbound/shadowsocks[proxy]: outbound connection to 8.8.8.8:443
+INFO[0001] outbound/shadowsocks[proxy]: outbound connection to 8.8.8.8:443
+INFO[0001] [2753348401 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:44419
+INFO[0001] [1487342965 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:36981
+INFO[0001] [2753348401 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0001] [1487342965 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0001] outbound/shadowsocks[proxy]: outbound connection to 8.8.8.8:443
+INFO[0001] outbound/shadowsocks[proxy]: outbound connection to 8.8.8.8:443
+INFO[0001] [1739412279 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:43704
+INFO[0001] [1739412279 0ms] inbound/tun[tun-in]: inbound connection to 95.216.195.133:80
+INFO[0001] [1739412279 0ms] outbound/shadowsocks[proxy]: outbound connection to 95.216.195.133:80
+INFO[0001] [4096610866 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:43950
+INFO[0001] [4096610866 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0001] outbound/shadowsocks[proxy]: outbound connection to 8.8.8.8:443
+INFO[0001] [2917522124 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:43861
+INFO[0001] [2917522124 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0001] outbound/shadowsocks[proxy]: outbound connection to 8.8.8.8:443
+INFO[0002] dns: exchanged prod.detectportal.prod.cloudops.mozgcp.net AAAA prod.detectportal.prod.cloudops.mozgcp.net. 216 IN AAAA 2600:1901:0:38d7::
+INFO[0002] dns: exchanged prod.detectportal.prod.cloudops.mozgcp.net OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x00d8, udp: 512
+INFO[0002] dns: exchanged prod.detectportal.prod.cloudops.mozgcp.net. AAAA prod.detectportal.prod.cloudops.mozgcp.net. 216 IN AAAA 2600:1901:0:38d7::
+INFO[0002] dns: exchanged prod.detectportal.prod.cloudops.mozgcp.net A prod.detectportal.prod.cloudops.mozgcp.net. 171 IN A 34.107.221.82
+INFO[0002] dns: exchanged detectportal.firefox.com CNAME detectportal.firefox.com. 9 IN CNAME detectportal.prod.mozaws.net.
+INFO[0002] dns: exchanged prod.detectportal.prod.cloudops.mozgcp.net OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x00ab, udp: 512
+INFO[0002] dns: exchanged detectportal.firefox.com CNAME detectportal.prod.mozaws.net. 9 IN CNAME prod.detectportal.prod.cloudops.mozgcp.net.
+INFO[0002] dns: exchanged detectportal.firefox.com CNAME detectportal.firefox.com. 9 IN CNAME detectportal.prod.mozaws.net.
+INFO[0002] dns: exchanged detectportal.firefox.com AAAA prod.detectportal.prod.cloudops.mozgcp.net. 9 IN AAAA 2600:1901:0:38d7::
+INFO[0002] dns: exchanged prod.detectportal.prod.cloudops.mozgcp.net. A prod.detectportal.prod.cloudops.mozgcp.net. 171 IN A 34.107.221.82
+INFO[0002] dns: exchanged ipv4only.arpa A ipv4only.arpa. 15217 IN A 192.0.0.170
+INFO[0002] dns: exchanged detectportal.firefox.com OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x0009, udp: 512
+INFO[0002] dns: exchanged ipv4only.arpa SOA ipv4only.arpa. 471 IN SOA sns.dns.icann.org. noc.dns.icann.org. 2022072100 7200 3600 604800 3600
+INFO[0002] dns: exchanged detectportal.firefox.com CNAME detectportal.prod.mozaws.net. 9 IN CNAME prod.detectportal.prod.cloudops.mozgcp.net.
+INFO[0002] dns: exchanged ipv4only.arpa A ipv4only.arpa. 15217 IN A 192.0.0.171
+INFO[0002] dns: exchanged ipv4only.arpa OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x01d7, udp: 512
+INFO[0002] dns: exchanged detectportal.firefox.com. CNAME detectportal.firefox.com. 9 IN CNAME detectportal.prod.mozaws.net.
+INFO[0002] dns: exchanged ipv4only.arpa OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x3b71, udp: 512
+INFO[0002] dns: exchanged detectportal.firefox.com. CNAME detectportal.prod.mozaws.net. 9 IN CNAME prod.detectportal.prod.cloudops.mozgcp.net.
+INFO[0002] dns: exchanged ipv4only.arpa. A ipv4only.arpa. 15217 IN A 192.0.0.170
+INFO[0002] dns: exchanged detectportal.firefox.com A prod.detectportal.prod.cloudops.mozgcp.net. 9 IN A 34.107.221.82
+INFO[0002] dns: exchanged ipv4only.arpa. A ipv4only.arpa. 15217 IN A 192.0.0.171
+INFO[0002] dns: exchanged detectportal.firefox.com OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x0009, udp: 512
+INFO[0002] dns: exchanged detectportal.firefox.com. AAAA prod.detectportal.prod.cloudops.mozgcp.net. 9 IN AAAA 2600:1901:0:38d7::
+INFO[0002] dns: exchanged detectportal.firefox.com. CNAME detectportal.firefox.com. 9 IN CNAME detectportal.prod.mozaws.net.
+INFO[0002] dns: exchanged detectportal.firefox.com. CNAME detectportal.prod.mozaws.net. 9 IN CNAME prod.detectportal.prod.cloudops.mozgcp.net.
+INFO[0002] dns: exchanged detectportal.firefox.com. A prod.detectportal.prod.cloudops.mozgcp.net. 9 IN A 34.107.221.82
+INFO[0002] dns: exchanged ping.archlinux.org CNAME ping.archlinux.org. 425 IN CNAME redirect.archlinux.org.
+INFO[0002] dns: exchanged ping.archlinux.org AAAA redirect.archlinux.org. 425 IN AAAA 2a01:4f9:c010:2636::1
+INFO[0002] dns: exchanged example.org AAAA example.org. 2189 IN AAAA 2606:2800:21f:cb07:6820:80da:af6b:8b2c
+INFO[0002] dns: exchanged ping.archlinux.org OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x01a9, udp: 512
+INFO[0002] dns: exchanged example.org OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x088d, udp: 512
+INFO[0002] dns: exchanged ping.archlinux.org. CNAME ping.archlinux.org. 425 IN CNAME redirect.archlinux.org.
+INFO[0002] dns: exchanged ping.archlinux.org CNAME ping.archlinux.org. 425 IN CNAME redirect.archlinux.org.
+INFO[0002] dns: exchanged example.org A example.org. 461 IN A 93.184.215.14
+INFO[0002] dns: exchanged example.org. AAAA example.org. 2189 IN AAAA 2606:2800:21f:cb07:6820:80da:af6b:8b2c
+INFO[0002] dns: exchanged ping.archlinux.org. AAAA redirect.archlinux.org. 425 IN AAAA 2a01:4f9:c010:2636::1
+INFO[0002] dns: exchanged redirect.archlinux.org A redirect.archlinux.org. 3159 IN A 95.216.195.133
+INFO[0002] dns: exchanged example.org OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x01cd, udp: 512
+INFO[0002] dns: exchanged redirect.archlinux.org OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x0c57, udp: 512
+INFO[0002] dns: exchanged example.org. A example.org. 461 IN A 93.184.215.14
+INFO[0002] dns: exchanged redirect.archlinux.org. A redirect.archlinux.org. 3159 IN A 95.216.195.133
+INFO[0002] dns: exchanged ping.archlinux.org A redirect.archlinux.org. 425 IN A 95.216.195.133
+INFO[0002] dns: exchanged ping.archlinux.org OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x01a9, udp: 512
+INFO[0002] dns: exchanged ping.archlinux.org. CNAME ping.archlinux.org. 425 IN CNAME redirect.archlinux.org.
+INFO[0002] dns: exchanged ping.archlinux.org. A redirect.archlinux.org. 425 IN A 95.216.195.133
+INFO[0015] [3742876841 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:45770
+INFO[0015] [1810302701 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:59731
+INFO[0015] [1810302701 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0015] [3742876841 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0015] [2726704251 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:36741
+INFO[0015] [118906658 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:56532
+INFO[0015] [2726704251 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0015] [118906658 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0015] [1738551127 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:49852
+INFO[0015] [1738551127 0ms] inbound/tun[tun-in]: inbound connection to 35.244.181.201:443
+INFO[0015] [1738551127 0ms] outbound/shadowsocks[proxy]: outbound connection to 35.244.181.201:443
+INFO[0016] dns: exchanged aus5.mozilla.org CNAME aus5.mozilla.org. 3 IN CNAME balrog-aus5.r53-2.services.mozilla.com.
+INFO[0016] dns: exchanged aus5.mozilla.org CNAME balrog-aus5.r53-2.services.mozilla.com. 3 IN CNAME prod.balrog.prod.cloudops.mozgcp.net.
+INFO[0016] dns: exchanged aus5.mozilla.org A prod.balrog.prod.cloudops.mozgcp.net. 3 IN A 35.244.181.201
+INFO[0016] dns: exchanged aus5.mozilla.org CNAME aus5.mozilla.org. 56 IN CNAME balrog-aus5.r53-2.services.mozilla.com.
+INFO[0016] dns: exchanged prod.balrog.prod.cloudops.mozgcp.net SOA balrog.prod.cloudops.mozgcp.net. 111 IN SOA ns-cloud-d1.googledomains.com. cloud-dns-hostmaster.google.com. 1 21600 3600 259200 300
+INFO[0016] dns: exchanged aus5.mozilla.org OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x0003, udp: 512
+INFO[0016] dns: exchanged aus5.mozilla.org CNAME balrog-aus5.r53-2.services.mozilla.com. 56 IN CNAME prod.balrog.prod.cloudops.mozgcp.net.
+INFO[0016] dns: exchanged prod.balrog.prod.cloudops.mozgcp.net OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x006f, udp: 512
+INFO[0016] dns: exchanged aus5.mozilla.org SOA balrog.prod.cloudops.mozgcp.net. 56 IN SOA ns-cloud-d1.googledomains.com. cloud-dns-hostmaster.google.com. 1 21600 3600 259200 300
+INFO[0016] dns: exchanged aus5.mozilla.org. CNAME aus5.mozilla.org. 3 IN CNAME balrog-aus5.r53-2.services.mozilla.com.
+INFO[0016] dns: exchanged aus5.mozilla.org OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x0038, udp: 512
+INFO[0016] dns: exchanged aus5.mozilla.org. CNAME balrog-aus5.r53-2.services.mozilla.com. 3 IN CNAME prod.balrog.prod.cloudops.mozgcp.net.
+INFO[0016] dns: exchanged aus5.mozilla.org. CNAME aus5.mozilla.org. 56 IN CNAME balrog-aus5.r53-2.services.mozilla.com.
+INFO[0016] dns: exchanged prod.balrog.prod.cloudops.mozgcp.net A prod.balrog.prod.cloudops.mozgcp.net. 57 IN A 35.244.181.201
+INFO[0016] dns: exchanged aus5.mozilla.org. CNAME balrog-aus5.r53-2.services.mozilla.com. 56 IN CNAME prod.balrog.prod.cloudops.mozgcp.net.
+INFO[0016] dns: exchanged prod.balrog.prod.cloudops.mozgcp.net OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x0039, udp: 512
+INFO[0016] dns: exchanged prod.balrog.prod.cloudops.mozgcp.net. A prod.balrog.prod.cloudops.mozgcp.net. 57 IN A 35.244.181.201
+INFO[0016] dns: exchanged aus5.mozilla.org. A prod.balrog.prod.cloudops.mozgcp.net. 3 IN A 35.244.181.201
+INFO[0016] [2776355725 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53353
+INFO[0016] [2776355725 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0016] [3607587576 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:35716
+INFO[0016] [3607587576 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0016] [1615756102 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:38311
+INFO[0016] [1615756102 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0016] [2402918928 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:45127
+INFO[0016] [2402918928 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0016] [3180349407 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:38396
+INFO[0016] [3180349407 0ms] inbound/tun[tun-in]: inbound connection to 34.160.144.191:443
+INFO[0016] [3180349407 1ms] outbound/shadowsocks[proxy]: outbound connection to 34.160.144.191:443
+INFO[0017] dns: exchanged content-signature-2.cdn.mozilla.net CNAME content-signature-2.cdn.mozilla.net. 53 IN CNAME content-signature-chains.prod.autograph.services.mozaws.net.
+INFO[0017] dns: exchanged content-signature-2.cdn.mozilla.net CNAME content-signature-chains.prod.autograph.services.mozaws.net. 53 IN CNAME prod.content-signature-chains.prod.webservices.mozgcp.net.
+INFO[0017] dns: exchanged content-signature-2.cdn.mozilla.net A prod.content-signature-chains.prod.webservices.mozgcp.net. 53 IN A 34.160.144.191
+INFO[0017] dns: exchanged content-signature-2.cdn.mozilla.net OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x0035, udp: 512
+INFO[0017] dns: exchanged content-signature-2.cdn.mozilla.net CNAME content-signature-2.cdn.mozilla.net. 54 IN CNAME content-signature-chains.prod.autograph.services.mozaws.net.
+INFO[0017] dns: exchanged prod.content-signature-chains.prod.webservices.mozgcp.net AAAA prod.content-signature-chains.prod.webservices.mozgcp.net. 76 IN AAAA 2600:1901:0:92a9::
+INFO[0017] dns: exchanged content-signature-2.cdn.mozilla.net. CNAME content-signature-2.cdn.mozilla.net. 53 IN CNAME content-signature-chains.prod.autograph.services.mozaws.net.
+INFO[0017] dns: exchanged content-signature-2.cdn.mozilla.net CNAME content-signature-chains.prod.autograph.services.mozaws.net. 54 IN CNAME prod.content-signature-chains.prod.webservices.mozgcp.net.
+INFO[0017] dns: exchanged prod.content-signature-chains.prod.webservices.mozgcp.net OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x004c, udp: 512
+INFO[0017] dns: exchanged content-signature-2.cdn.mozilla.net AAAA prod.content-signature-chains.prod.webservices.mozgcp.net. 54 IN AAAA 2600:1901:0:92a9::
+INFO[0017] dns: exchanged prod.content-signature-chains.prod.webservices.mozgcp.net A prod.content-signature-chains.prod.webservices.mozgcp.net. 130 IN A 34.160.144.191
+INFO[0017] dns: exchanged prod.content-signature-chains.prod.webservices.mozgcp.net. AAAA prod.content-signature-chains.prod.webservices.mozgcp.net. 76 IN AAAA 2600:1901:0:92a9::
+INFO[0017] dns: exchanged content-signature-2.cdn.mozilla.net. CNAME content-signature-chains.prod.autograph.services.mozaws.net. 53 IN CNAME prod.content-signature-chains.prod.webservices.mozgcp.net.
+INFO[0017] dns: exchanged prod.content-signature-chains.prod.webservices.mozgcp.net OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x0082, udp: 512
+INFO[0017] dns: exchanged content-signature-2.cdn.mozilla.net. A prod.content-signature-chains.prod.webservices.mozgcp.net. 53 IN A 34.160.144.191
+INFO[0017] dns: exchanged content-signature-2.cdn.mozilla.net OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x0036, udp: 512
+INFO[0017] dns: exchanged prod.content-signature-chains.prod.webservices.mozgcp.net. A prod.content-signature-chains.prod.webservices.mozgcp.net. 130 IN A 34.160.144.191
+INFO[0017] dns: exchanged content-signature-2.cdn.mozilla.net. CNAME content-signature-2.cdn.mozilla.net. 54 IN CNAME content-signature-chains.prod.autograph.services.mozaws.net.
+INFO[0017] dns: exchanged content-signature-2.cdn.mozilla.net. CNAME content-signature-chains.prod.autograph.services.mozaws.net. 54 IN CNAME prod.content-signature-chains.prod.webservices.mozgcp.net.
+INFO[0017] dns: exchanged content-signature-2.cdn.mozilla.net. AAAA prod.content-signature-chains.prod.webservices.mozgcp.net. 54 IN AAAA 2600:1901:0:92a9::
+INFO[0024] outbound/shadowsocks[proxy]: outbound connection to cp.cloudflare.com:80
+INFO[0025] [4157174789 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:32933
+INFO[0025] [3167228193 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:59436
+INFO[0025] [4157174789 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0025] [3167228193 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0025] outbound/direct[direct]: outbound packet connection to 10.10.0.21:53
+INFO[0025] outbound/direct[direct]: outbound packet connection to 10.10.0.21:53
+INFO[0025] dns: exchanged tpstelemetry.tencent.com. AAAA tpstelemetry.tencent.com. 600 IN AAAA 240e:97c:2f:2::5c
+INFO[0025] dns: cached tpstelemetry.tencent.com AAAA tpstelemetry.tencent.com. 599 IN AAAA 240e:97c:2f:2::5c
+INFO[0025] dns: exchanged tpstelemetry.tencent.com. AAAA tpstelemetry.tencent.com. 599 IN AAAA 240e:97c:2f:2::5c
+INFO[0025] dns: exchanged tpstelemetry.tencent.com. A tpstelemetry.tencent.com. 600 IN A 113.240.75.252
+INFO[0025] dns: exchanged tpstelemetry.tencent.com. A tpstelemetry.tencent.com. 600 IN A 113.240.75.249
+INFO[0025] dns: cached tpstelemetry.tencent.com A tpstelemetry.tencent.com. 599 IN A 113.240.75.252
+INFO[0025] dns: cached tpstelemetry.tencent.com A tpstelemetry.tencent.com. 599 IN A 113.240.75.249
+INFO[0025] dns: exchanged tpstelemetry.tencent.com. A tpstelemetry.tencent.com. 599 IN A 113.240.75.252
+INFO[0025] dns: exchanged tpstelemetry.tencent.com. A tpstelemetry.tencent.com. 599 IN A 113.240.75.249
+INFO[0025] [1886972563 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:51418
+INFO[0025] [1886972563 0ms] inbound/tun[tun-in]: inbound connection to 113.240.75.252:443
+INFO[0025] [1886972563 1ms] outbound/direct[bypass]: outbound connection to 113.240.75.252:443
+INFO[0028] [968810169 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:44028
+INFO[0028] [968810169 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0028] [4245356753 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54468
+INFO[0028] [4245356753 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0028] dns: exchanged www.google.com AAAA www.google.com. 270 IN AAAA 2404:6800:4012:3::2004
+INFO[0028] dns: exchanged www.google.com A www.google.com. 175 IN A 142.251.43.4
+INFO[0028] dns: exchanged www.google.com. AAAA www.google.com. 270 IN AAAA 2404:6800:4012:3::2004
+INFO[0028] dns: exchanged www.google.com. A www.google.com. 175 IN A 142.251.43.4
+INFO[0028] [562185524 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:44044
+INFO[0028] [562185524 0ms] inbound/tun[tun-in]: inbound connection to 142.251.43.4:443
+INFO[0028] [562185524 2ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.43.4:443
+INFO[0028] [445777140 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:44052
+INFO[0028] [445777140 0ms] inbound/tun[tun-in]: inbound connection to 142.251.43.4:443
+INFO[0028] [445777140 5ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.43.4:443
+INFO[0028] [3164388022 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:44060
+INFO[0028] [3164388022 0ms] inbound/tun[tun-in]: inbound connection to 142.251.43.4:443
+INFO[0028] [3164388022 2ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.43.4:443
+INFO[0028] [4284716916 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:40989
+INFO[0028] [4284716916 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0028] [2299336002 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:32878
+INFO[0028] [2299336002 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0029] dns: exchanged safebrowsing.googleapis.com AAAA safebrowsing.googleapis.com. 244 IN AAAA 2404:6800:4012:3::200a
+INFO[0029] dns: exchanged safebrowsing.googleapis.com. AAAA safebrowsing.googleapis.com. 244 IN AAAA 2404:6800:4012:3::200a
+INFO[0029] dns: exchanged safebrowsing.googleapis.com A safebrowsing.googleapis.com. 235 IN A 142.251.42.234
+INFO[0029] dns: exchanged safebrowsing.googleapis.com. A safebrowsing.googleapis.com. 235 IN A 142.251.42.234
+INFO[0029] [2400548805 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:58950
+INFO[0029] [2400548805 0ms] inbound/tun[tun-in]: inbound connection to 142.251.42.234:443
+INFO[0029] [2400548805 5ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.42.234:443
+INFO[0029] [2609422356 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:46232
+INFO[0029] [787391051 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54937
+INFO[0029] [787391051 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0029] [2609422356 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0029] dns: exchanged ocsp.pki.goog CNAME ocsp.pki.goog. 287 IN CNAME pki-goog.l.google.com.
+INFO[0029] dns: exchanged ocsp.pki.goog CNAME ocsp.pki.goog. 160 IN CNAME pki-goog.l.google.com.
+INFO[0029] dns: exchanged ocsp.pki.goog AAAA pki-goog.l.google.com. 287 IN AAAA 2404:6800:4012:3::2003
+INFO[0029] dns: exchanged ocsp.pki.goog A pki-goog.l.google.com. 160 IN A 142.251.43.3
+INFO[0029] dns: exchanged ocsp.pki.goog. CNAME ocsp.pki.goog. 287 IN CNAME pki-goog.l.google.com.
+INFO[0029] dns: exchanged ocsp.pki.goog. AAAA pki-goog.l.google.com. 287 IN AAAA 2404:6800:4012:3::2003
+INFO[0029] dns: exchanged ocsp.pki.goog. CNAME ocsp.pki.goog. 160 IN CNAME pki-goog.l.google.com.
+INFO[0029] dns: exchanged ocsp.pki.goog. A pki-goog.l.google.com. 160 IN A 142.251.43.3
+INFO[0029] [1873224840 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:33924
+INFO[0029] [1873224840 0ms] inbound/tun[tun-in]: inbound connection to 142.251.43.3:80
+INFO[0029] [1873224840 0ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.43.3:80
+INFO[0029] [3399461465 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:33932
+INFO[0029] [3399461465 0ms] inbound/tun[tun-in]: inbound connection to 142.251.43.3:80
+INFO[0029] [3399461465 0ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.43.3:80
+INFO[0030] [3441597768 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58814
+INFO[0030] [3441597768 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0030] dns: cached ping.archlinux.org CNAME ping.archlinux.org. 396 IN CNAME redirect.archlinux.org.
+INFO[0030] dns: cached ping.archlinux.org AAAA redirect.archlinux.org. 396 IN AAAA 2a01:4f9:c010:2636::1
+INFO[0030] dns: cached ping.archlinux.org OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x018c, udp: 512
+INFO[0030] dns: exchanged ping.archlinux.org. CNAME ping.archlinux.org. 396 IN CNAME redirect.archlinux.org.
+INFO[0030] dns: exchanged ping.archlinux.org. AAAA redirect.archlinux.org. 396 IN AAAA 2a01:4f9:c010:2636::1
+INFO[0030] [1359483040 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:37300
+INFO[0030] [1359483040 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.43.4:443
+INFO[0030] [1359483040 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.43.4:443
+INFO[0030] [1359483040 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.43.4:443
+INFO[0030] [1629437390 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:35986
+INFO[0030] [1629437390 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.234:443
+INFO[0030] [1629437390 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.234:443
+INFO[0030] [1629437390 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.234:443
+INFO[0030] [1916400581 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:37300
+INFO[0030] [1916400581 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.43.4:443
+INFO[0030] [1916400581 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.43.4:443
+INFO[0030] [1916400581 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.43.4:443
+INFO[0030] [1021970604 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52605
+INFO[0030] [1021970604 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0030] [3669872806 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:39419
+INFO[0030] [3669872806 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0030] [3552325240 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:35986
+INFO[0030] [3552325240 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.234:443
+INFO[0030] [142172672 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:37300
+INFO[0030] [142172672 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.43.4:443
+INFO[0030] [3552325240 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.234:443
+INFO[0030] [3552325240 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.234:443
+INFO[0030] [142172672 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.43.4:443
+INFO[0030] [142172672 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.43.4:443
+INFO[0030] dns: exchanged ssl.gstatic.com A ssl.gstatic.com. 259 IN A 172.217.163.35
+INFO[0030] dns: exchanged ssl.gstatic.com AAAA ssl.gstatic.com. 156 IN AAAA 2404:6800:4012:2::2003
+INFO[0030] dns: exchanged ssl.gstatic.com. A ssl.gstatic.com. 259 IN A 172.217.163.35
+INFO[0030] dns: exchanged ssl.gstatic.com. AAAA ssl.gstatic.com. 156 IN AAAA 2404:6800:4012:2::2003
+INFO[0030] [654203031 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:44824
+INFO[0030] [654203031 0ms] inbound/tun[tun-in]: inbound connection to 172.217.163.35:443
+INFO[0030] [2394758026 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:44826
+INFO[0030] [2394758026 0ms] inbound/tun[tun-in]: inbound connection to 172.217.163.35:443
+INFO[0030] [654203031 1ms] outbound/shadowsocks[proxy]: outbound connection to 172.217.163.35:443
+INFO[0030] [2394758026 2ms] outbound/shadowsocks[proxy]: outbound connection to 172.217.163.35:443
+INFO[0030] [2596477421 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:44832
+INFO[0030] [2596477421 0ms] inbound/tun[tun-in]: inbound connection to 172.217.163.35:443
+INFO[0030] [2596477421 1ms] outbound/shadowsocks[proxy]: outbound connection to 172.217.163.35:443
+INFO[0030] [1492611364 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:36057
+INFO[0030] [1492611364 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0030] [151778138 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:39396
+INFO[0030] [151778138 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0030] [3869776450 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:44062
+INFO[0030] [3869776450 0ms] inbound/tun[tun-in]: inbound connection to 142.251.43.4:443
+INFO[0030] [3869776450 1ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.43.4:443
+INFO[0031] dns: exchanged www.gstatic.com A www.gstatic.com. 197 IN A 142.251.42.227
+INFO[0031] dns: exchanged www.gstatic.com. A www.gstatic.com. 197 IN A 142.251.42.227
+INFO[0031] dns: exchanged www.gstatic.com AAAA www.gstatic.com. 292 IN AAAA 2404:6800:4012:2::2003
+INFO[0031] dns: exchanged www.gstatic.com. AAAA www.gstatic.com. 292 IN AAAA 2404:6800:4012:2::2003
+INFO[0031] [3037309154 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:33768
+INFO[0031] [3037309154 0ms] inbound/tun[tun-in]: inbound connection to 142.251.42.227:443
+INFO[0031] [3037309154 6ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.42.227:443
+INFO[0031] [3482693706 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:33780
+INFO[0031] [3482693706 0ms] inbound/tun[tun-in]: inbound connection to 142.251.42.227:443
+INFO[0031] [402720345 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:33796
+INFO[0031] [402720345 0ms] inbound/tun[tun-in]: inbound connection to 142.251.42.227:443
+INFO[0031] [3482693706 7ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.42.227:443
+INFO[0031] [402720345 11ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.42.227:443
+INFO[0031] [867149717 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:33938
+INFO[0031] [867149717 0ms] inbound/tun[tun-in]: inbound connection to 142.251.43.3:80
+INFO[0031] [867149717 0ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.43.3:80
+INFO[0031] [2681950764 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:33952
+INFO[0031] [2681950764 0ms] inbound/tun[tun-in]: inbound connection to 142.251.43.3:80
+INFO[0031] [2681950764 0ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.43.3:80
+INFO[0031] [1912835595 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:33956
+INFO[0031] [1912835595 0ms] inbound/tun[tun-in]: inbound connection to 142.251.43.3:80
+INFO[0031] [1912835595 0ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.43.3:80
+INFO[0031] [630347019 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:35986
+INFO[0031] [630347019 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.234:443
+INFO[0031] [380067144 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:37300
+INFO[0031] [380067144 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.43.4:443
+INFO[0031] [630347019 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.234:443
+INFO[0031] [630347019 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.234:443
+INFO[0031] [380067144 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.43.4:443
+INFO[0031] [380067144 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.43.4:443
+INFO[0031] [2667419998 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:33970
+INFO[0031] [2667419998 0ms] inbound/tun[tun-in]: inbound connection to 142.251.43.3:80
+INFO[0031] [2667419998 1ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.43.3:80
+INFO[0031] [1024315766 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53911
+INFO[0031] [1024315766 0ms] inbound/tun[tun-in]: inbound packet connection to 172.217.163.35:443
+INFO[0031] [1024315766 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.163.35:443
+INFO[0031] [1024315766 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.163.35:443
+INFO[0031] [4290208838 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:47699
+INFO[0031] [4290208838 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.227:443
+INFO[0031] [4290208838 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.227:443
+INFO[0031] [4290208838 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.227:443
+INFO[0032] [1191297375 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55938
+INFO[0032] [1191297375 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.43.4:443
+INFO[0032] [1191297375 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.43.4:443
+INFO[0032] [1191297375 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.43.4:443
+INFO[0032] [2901755526 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:46736
+INFO[0032] [2901755526 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.227:443
+INFO[0032] [2901755526 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.227:443
+INFO[0032] [2901755526 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.227:443
+INFO[0032] [38377393 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50684
+INFO[0032] [38377393 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0032] [1329748577 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55951
+INFO[0032] [1329748577 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0032] [3050664001 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:44277
+INFO[0032] [3050664001 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0032] [505407170 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:39877
+INFO[0032] [505407170 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0032] dns: exchanged fonts.gstatic.com AAAA fonts.gstatic.com. 105 IN AAAA 2404:6800:4012:3::2003
+INFO[0032] dns: exchanged i.ytimg.com AAAA i.ytimg.com. 215 IN AAAA 2404:6800:4012::2016
+INFO[0032] dns: exchanged fonts.gstatic.com. AAAA fonts.gstatic.com. 105 IN AAAA 2404:6800:4012:3::2003
+INFO[0032] dns: exchanged i.ytimg.com AAAA i.ytimg.com. 215 IN AAAA 2404:6800:4012:2::2016
+INFO[0032] dns: exchanged i.ytimg.com AAAA i.ytimg.com. 215 IN AAAA 2404:6800:4012:4::2016
+INFO[0032] dns: exchanged i.ytimg.com AAAA i.ytimg.com. 215 IN AAAA 2404:6800:4012:3::2016
+INFO[0032] dns: exchanged i.ytimg.com. AAAA i.ytimg.com. 215 IN AAAA 2404:6800:4012::2016
+INFO[0032] dns: exchanged i.ytimg.com. AAAA i.ytimg.com. 215 IN AAAA 2404:6800:4012:2::2016
+INFO[0032] dns: exchanged i.ytimg.com A i.ytimg.com. 95 IN A 172.217.160.86
+INFO[0032] dns: exchanged i.ytimg.com. AAAA i.ytimg.com. 215 IN AAAA 2404:6800:4012:4::2016
+INFO[0032] dns: exchanged i.ytimg.com A i.ytimg.com. 95 IN A 142.251.42.246
+INFO[0032] dns: exchanged i.ytimg.com A i.ytimg.com. 95 IN A 172.217.163.54
+INFO[0032] dns: exchanged i.ytimg.com. AAAA i.ytimg.com. 215 IN AAAA 2404:6800:4012:3::2016
+INFO[0032] dns: exchanged i.ytimg.com A i.ytimg.com. 95 IN A 142.251.43.22
+INFO[0032] dns: exchanged i.ytimg.com. A i.ytimg.com. 95 IN A 172.217.160.86
+INFO[0032] dns: exchanged i.ytimg.com. A i.ytimg.com. 95 IN A 142.251.42.246
+INFO[0032] dns: exchanged i.ytimg.com. A i.ytimg.com. 95 IN A 172.217.163.54
+INFO[0032] dns: exchanged i.ytimg.com. A i.ytimg.com. 95 IN A 142.251.43.22
+INFO[0032] dns: exchanged fonts.gstatic.com A fonts.gstatic.com. 262 IN A 172.217.160.99
+INFO[0032] dns: exchanged fonts.gstatic.com. A fonts.gstatic.com. 262 IN A 172.217.160.99
+INFO[0032] [2461142587 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:43806
+INFO[0032] [655219807 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:43822
+INFO[0032] [2461142587 0ms] inbound/tun[tun-in]: inbound connection to 172.217.160.99:443
+INFO[0032] [655219807 0ms] inbound/tun[tun-in]: inbound connection to 172.217.160.99:443
+INFO[0032] [655219807 1ms] outbound/shadowsocks[proxy]: outbound connection to 172.217.160.99:443
+INFO[0032] [2461142587 3ms] outbound/shadowsocks[proxy]: outbound connection to 172.217.160.99:443
+INFO[0032] [3598775290 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:43856
+INFO[0032] [3598775290 0ms] inbound/tun[tun-in]: inbound connection to 142.251.42.246:443
+INFO[0032] [3664754782 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:43842
+INFO[0032] [3664754782 0ms] inbound/tun[tun-in]: inbound connection to 142.251.42.246:443
+INFO[0032] [3598775290 2ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.42.246:443
+INFO[0032] [3664754782 3ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.42.246:443
+INFO[0032] [3652612347 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:35986
+INFO[0032] [3652612347 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.234:443
+INFO[0032] [282203079 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:37300
+INFO[0032] [282203079 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.43.4:443
+INFO[0032] [282203079 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.43.4:443
+INFO[0032] [282203079 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.43.4:443
+INFO[0032] [3652612347 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.234:443
+INFO[0032] [3652612347 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.234:443
+INFO[0032] [4149226114 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:47699
+INFO[0032] [4149226114 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.227:443
+INFO[0032] [4149226114 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.227:443
+INFO[0032] [4149226114 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.227:443
+INFO[0033] [3741752114 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:56026
+INFO[0033] [3741752114 0ms] inbound/tun[tun-in]: inbound connection to 142.251.42.234:443
+INFO[0033] [3741752114 1ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.42.234:443
+INFO[0033] [1219233090 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:46129
+INFO[0033] [1219233090 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0033] [1377333008 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:48102
+INFO[0033] [1377333008 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0033] [3724707192 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:40762
+INFO[0033] [3724707192 0ms] inbound/tun[tun-in]: inbound packet connection to 172.217.160.99:443
+INFO[0033] [3724707192 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.99:443
+INFO[0033] [3724707192 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.99:443
+INFO[0033] [709612864 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:39479
+INFO[0033] [709612864 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0033] [670605073 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49323
+INFO[0033] [670605073 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0033] [3220970348 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55065
+INFO[0033] [3220970348 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0033] [2675648053 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:59480
+INFO[0033] [2675648053 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0033] [3606788137 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:47603
+INFO[0033] [3606788137 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0033] [2793299705 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58261
+INFO[0033] [2793299705 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0033] dns: exchanged github.com SOA github.com. 1054 IN SOA dns1.p08.nsone.net. hostmaster.nsone.net. 1656468023 43200 7200 1209600 3600
+INFO[0033] dns: exchanged github.com A github.com. 8 IN A 20.27.177.113
+INFO[0033] dns: exchanged github.com. A github.com. 8 IN A 20.27.177.113
+INFO[0033] [1785275609 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34072
+INFO[0033] [1785275609 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [1785275609 5ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [2396470976 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34292
+INFO[0033] [2396470976 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [3662221857 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34310
+INFO[0033] [3662221857 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [2698964560 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34286
+INFO[0033] [2698964560 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [798667652 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34092
+INFO[0033] [798667652 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [813668598 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34194
+INFO[0033] [813668598 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [2521727991 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34130
+INFO[0033] [2521727991 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [1439126312 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34252
+INFO[0033] [1439126312 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [1464149261 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34074
+INFO[0033] [1464149261 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [1838280866 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34186
+INFO[0033] [1838280866 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [527138944 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34240
+INFO[0033] [527138944 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [1583471233 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34078
+INFO[0033] [1583471233 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [3380428676 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34104
+INFO[0033] [3380428676 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [3461961235 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34110
+INFO[0033] [3461961235 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [4243284743 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34154
+INFO[0033] [4243284743 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [129930736 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34290
+INFO[0033] [129930736 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [2565069483 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34278
+INFO[0033] [2565069483 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [2650394312 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34322
+INFO[0033] [2650394312 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [3974046193 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34302
+INFO[0033] [3974046193 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [128322819 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34218
+INFO[0033] [128322819 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [1993765736 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34236
+INFO[0033] [1993765736 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [1436395285 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34164
+INFO[0033] [1436395285 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [3675848047 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34142
+INFO[0033] [3675848047 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [1093409717 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34150
+INFO[0033] [1093409717 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [2046389310 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34206
+INFO[0033] [2046389310 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [2046389310 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [776462467 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34180
+INFO[0033] [776462467 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [4155595003 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34124
+INFO[0033] [4155595003 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [2089952939 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34268
+INFO[0033] [2089952939 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [3520583713 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34234
+INFO[0033] [3520583713 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [3672512981 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34338
+INFO[0033] [3672512981 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [3672512981 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [2089952939 63ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [798667652 68ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [1436395285 65ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [3693401088 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34462
+INFO[0033] [3693401088 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [1093409717 65ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [813668598 68ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [3693401088 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [128322819 67ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [2565069483 69ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [1438579188 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34414
+INFO[0033] [1438579188 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [1438579188 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [3067414050 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34438
+INFO[0033] [3067414050 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [3067414050 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [3473741802 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34486
+INFO[0033] [3473741802 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [3675848047 74ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [1993765736 75ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [1583189749 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34342
+INFO[0033] [1583189749 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [2269719812 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34506
+INFO[0033] [2269719812 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [1745414507 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34522
+INFO[0033] [1745414507 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [1393887037 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34510
+INFO[0033] [1393887037 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [160202836 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34556
+INFO[0033] [160202836 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [3016230277 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34514
+INFO[0033] [3016230277 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [2645927132 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34538
+INFO[0033] [2645927132 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [2645927132 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [1731856932 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34424
+INFO[0033] [1731856932 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [1731856932 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [1462792497 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34394
+INFO[0033] [1462792497 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [1462792497 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [829394652 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34558
+INFO[0033] [829394652 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [829394652 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [776462467 87ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [2830664303 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34578
+INFO[0033] [2830664303 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [1991303956 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34586
+INFO[0033] [1991303956 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [2830664303 74ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [1991303956 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [1583189749 97ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [3456103421 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34352
+INFO[0033] [3456103421 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [3456103421 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [340583770 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34356
+INFO[0033] [340583770 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [340583770 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [2793275038 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34358
+INFO[0033] [2793275038 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [2793275038 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [1440691703 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34570
+INFO[0033] [1440691703 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [527138944 182ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [1440691703 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [1000987672 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34402
+INFO[0033] [1000987672 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [1000987672 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [3662221857 185ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [3473741802 113ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [3520863370 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34640
+INFO[0033] [3520863370 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [1439126312 182ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [4243284743 180ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [1509887362 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34488
+INFO[0033] [1509887362 32ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [1838280866 213ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [1464149261 213ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [3219580928 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34554
+INFO[0033] [3219580928 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [3219580928 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [4070282521 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34374
+INFO[0033] [4070282521 34ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [4070282521 34ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [21463502 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34382
+INFO[0033] [21463502 34ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [21463502 35ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [1509887362 35ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [2739443126 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34476
+INFO[0033] [2739443126 35ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [2739443126 36ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [3520863370 27ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [2698964560 180ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [2065569160 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34450
+INFO[0033] [2065569160 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [2396470976 217ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [2065569160 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [2654060522 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51610
+INFO[0033] [2654060522 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.246:443
+INFO[0033] [2252834284 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34420
+INFO[0033] [2252834284 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [2654060522 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.246:443
+INFO[0033] [2654060522 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.246:443
+INFO[0033] [2252834284 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [3974046193 217ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [3520583713 214ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [3380428676 181ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [4155595003 214ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [2650394312 217ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [3461961235 180ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [2269719812 132ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [1745414507 132ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [1267622742 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34632
+INFO[0033] [1267622742 39ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [160202836 132ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [1267622742 39ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [3016230277 133ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [2994309008 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34606
+INFO[0033] [2994309008 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [2406969642 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34600
+INFO[0033] [2406969642 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [2994309008 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [2406969642 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [2521727991 220ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [129930736 182ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] dns: exchanged encrypted-tbn2.gstatic.com A encrypted-tbn2.gstatic.com. 294 IN A 142.251.42.238
+INFO[0033] dns: exchanged encrypted-tbn2.gstatic.com. A encrypted-tbn2.gstatic.com. 294 IN A 142.251.42.238
+INFO[0033] dns: exchanged encrypted-tbn1.gstatic.com A encrypted-tbn1.gstatic.com. 119 IN A 142.251.42.238
+INFO[0033] dns: exchanged encrypted-tbn1.gstatic.com. A encrypted-tbn1.gstatic.com. 119 IN A 142.251.42.238
+INFO[0033] dns: exchanged encrypted-tbn3.gstatic.com A encrypted-tbn3.gstatic.com. 108 IN A 172.217.160.110
+INFO[0033] dns: exchanged encrypted-tbn3.gstatic.com. A encrypted-tbn3.gstatic.com. 108 IN A 172.217.160.110
+INFO[0033] dns: exchanged encrypted-tbn2.gstatic.com AAAA encrypted-tbn2.gstatic.com. 300 IN AAAA 2404:6800:4012:3::200e
+INFO[0033] dns: exchanged encrypted-tbn2.gstatic.com. AAAA encrypted-tbn2.gstatic.com. 300 IN AAAA 2404:6800:4012:3::200e
+INFO[0033] dns: exchanged encrypted-tbn3.gstatic.com AAAA encrypted-tbn3.gstatic.com. 154 IN AAAA 2404:6800:4012:4::200e
+INFO[0033] dns: exchanged encrypted-tbn1.gstatic.com AAAA encrypted-tbn1.gstatic.com. 300 IN AAAA 2404:6800:4012::200e
+INFO[0033] dns: exchanged encrypted-tbn3.gstatic.com. AAAA encrypted-tbn3.gstatic.com. 154 IN AAAA 2404:6800:4012:4::200e
+INFO[0033] dns: exchanged encrypted-tbn1.gstatic.com. AAAA encrypted-tbn1.gstatic.com. 300 IN AAAA 2404:6800:4012::200e
+INFO[0033] [1583471233 180ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [2524303027 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34520
+INFO[0033] [2524303027 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [3848858628 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34498
+INFO[0033] [3848858628 41ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [2524303027 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [2828806943 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34610
+INFO[0033] [2828806943 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [3848858628 41ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [2828806943 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [3204563714 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34620
+INFO[0033] [3204563714 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0033] [1393887037 136ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [3204563714 6ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0033] [3359502793 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:41248
+INFO[0033] [3359502793 0ms] inbound/tun[tun-in]: inbound connection to 142.251.42.238:443
+INFO[0033] [3582460451 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:41260
+INFO[0033] [3582460451 0ms] inbound/tun[tun-in]: inbound connection to 142.251.42.238:443
+INFO[0033] [959157222 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:41990
+INFO[0033] [959157222 0ms] inbound/tun[tun-in]: inbound connection to 172.217.160.110:443
+INFO[0033] [3582460451 2ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.42.238:443
+INFO[0033] [3359502793 4ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.42.238:443
+INFO[0033] [3735221336 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:41272
+INFO[0033] [3735221336 0ms] inbound/tun[tun-in]: inbound connection to 142.251.42.238:443
+INFO[0033] [959157222 5ms] outbound/shadowsocks[proxy]: outbound connection to 172.217.160.110:443
+INFO[0033] [298721205 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:41992
+INFO[0033] [298721205 0ms] inbound/tun[tun-in]: inbound connection to 172.217.160.110:443
+INFO[0033] [700148073 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:41278
+INFO[0033] [700148073 0ms] inbound/tun[tun-in]: inbound connection to 142.251.42.238:443
+INFO[0033] [3735221336 2ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.42.238:443
+INFO[0033] [700148073 3ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.42.238:443
+INFO[0033] [298721205 4ms] outbound/shadowsocks[proxy]: outbound connection to 172.217.160.110:443
+INFO[0033] [3079293295 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51610
+INFO[0033] [3079293295 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.246:443
+INFO[0033] [3079293295 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.246:443
+INFO[0033] [3079293295 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.246:443
+INFO[0033] [1845150822 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51432
+INFO[0033] [3090435881 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:33660
+INFO[0033] [1845150822 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0033] [3090435881 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0034] [2136742324 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49478
+INFO[0034] [2136742324 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.238:443
+INFO[0034] [2136742324 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.238:443
+INFO[0034] [2136742324 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.238:443
+INFO[0034] [18820865 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52376
+INFO[0034] [18820865 0ms] inbound/tun[tun-in]: inbound packet connection to 172.217.160.110:443
+INFO[0034] [18820865 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.110:443
+INFO[0034] [18820865 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.110:443
+INFO[0034] dns: exchanged www.youtube.com CNAME www.youtube.com. 80 IN CNAME youtube-ui.l.google.com.
+INFO[0034] dns: exchanged www.youtube.com A youtube-ui.l.google.com. 80 IN A 142.251.43.14
+INFO[0034] dns: exchanged www.youtube.com A youtube-ui.l.google.com. 80 IN A 172.217.160.78
+INFO[0034] dns: exchanged www.youtube.com A youtube-ui.l.google.com. 80 IN A 142.251.42.238
+INFO[0034] dns: exchanged www.youtube.com A youtube-ui.l.google.com. 80 IN A 172.217.163.46
+INFO[0034] dns: exchanged www.youtube.com A youtube-ui.l.google.com. 80 IN A 172.217.160.110
+INFO[0034] dns: exchanged www.youtube.com. CNAME www.youtube.com. 80 IN CNAME youtube-ui.l.google.com.
+INFO[0034] dns: exchanged www.youtube.com. A youtube-ui.l.google.com. 80 IN A 142.251.43.14
+INFO[0034] dns: exchanged www.youtube.com. A youtube-ui.l.google.com. 80 IN A 172.217.160.78
+INFO[0034] dns: exchanged www.youtube.com. A youtube-ui.l.google.com. 80 IN A 142.251.42.238
+INFO[0034] dns: exchanged www.youtube.com. A youtube-ui.l.google.com. 80 IN A 172.217.163.46
+INFO[0034] dns: exchanged www.youtube.com. A youtube-ui.l.google.com. 80 IN A 172.217.160.110
+INFO[0034] [3382556853 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55197
+INFO[0034] [3382556853 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.238:443
+INFO[0034] [3382556853 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.238:443
+INFO[0034] [3382556853 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.238:443
+INFO[0034] dns: exchanged www.youtube.com CNAME www.youtube.com. 80 IN CNAME youtube-ui.l.google.com.
+INFO[0034] dns: exchanged www.youtube.com AAAA youtube-ui.l.google.com. 80 IN AAAA 2404:6800:4012:1::200e
+INFO[0034] dns: exchanged www.youtube.com AAAA youtube-ui.l.google.com. 80 IN AAAA 2404:6800:4012:3::200e
+INFO[0034] dns: exchanged www.youtube.com AAAA youtube-ui.l.google.com. 80 IN AAAA 2404:6800:4012::200e
+INFO[0034] dns: exchanged www.youtube.com AAAA youtube-ui.l.google.com. 80 IN AAAA 2404:6800:4012:2::200e
+INFO[0034] dns: exchanged www.youtube.com. CNAME www.youtube.com. 80 IN CNAME youtube-ui.l.google.com.
+INFO[0034] dns: exchanged www.youtube.com. AAAA youtube-ui.l.google.com. 80 IN AAAA 2404:6800:4012:1::200e
+INFO[0034] dns: exchanged www.youtube.com. AAAA youtube-ui.l.google.com. 80 IN AAAA 2404:6800:4012:3::200e
+INFO[0034] dns: exchanged www.youtube.com. AAAA youtube-ui.l.google.com. 80 IN AAAA 2404:6800:4012::200e
+INFO[0034] dns: exchanged www.youtube.com. AAAA youtube-ui.l.google.com. 80 IN AAAA 2404:6800:4012:2::200e
+INFO[0034] [1559567758 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:48052
+INFO[0034] [1559567758 0ms] inbound/tun[tun-in]: inbound connection to 172.217.160.78:443
+INFO[0034] [1559567758 6ms] outbound/shadowsocks[proxy]: outbound connection to 172.217.160.78:443
+INFO[0034] [2536298209 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34644
+INFO[0034] [2536298209 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0034] [2536298209 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0034] [4210034368 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:40762
+INFO[0034] [4210034368 0ms] inbound/tun[tun-in]: inbound packet connection to 172.217.160.99:443
+INFO[0034] [4210034368 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.99:443
+INFO[0034] [4210034368 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.99:443
+INFO[0035] [1675537928 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:35503
+INFO[0035] [1675537928 0ms] inbound/tun[tun-in]: inbound packet connection to 172.217.160.78:443
+INFO[0035] [1675537928 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.78:443
+INFO[0035] [1675537928 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.78:443
+INFO[0035] [2101107900 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49787
+INFO[0035] [2101107900 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0035] dns: exchanged sync-1-us-west1-g.sync.services.mozilla.com A sync-1-us-west1-g.sync.services.mozilla.com. 1747 IN A 35.186.227.140
+INFO[0035] dns: exchanged sync-1-us-west1-g.sync.services.mozilla.com. A sync-1-us-west1-g.sync.services.mozilla.com. 1747 IN A 35.186.227.140
+INFO[0035] [1134711203 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39552
+INFO[0035] [1134711203 0ms] inbound/tun[tun-in]: inbound connection to 35.186.227.140:443
+INFO[0035] [1134711203 1ms] outbound/shadowsocks[proxy]: outbound connection to 35.186.227.140:443
+INFO[0035] [120305460 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34654
+INFO[0035] [120305460 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0035] [120305460 2ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0035] [4261974459 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34658
+INFO[0035] [4261974459 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0035] [4261974459 2ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0035] [1761118583 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34664
+INFO[0035] [1761118583 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0035] [1761118583 4ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0035] [2641941121 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34674
+INFO[0035] [2641941121 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0035] [2641941121 3ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0035] [2955939206 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34686
+INFO[0035] [2955939206 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0035] [2955939206 3ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0036] [1535156435 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34698
+INFO[0036] [1535156435 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0036] [1535156435 3ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0036] [1000739442 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34708
+INFO[0036] [1000739442 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0036] [1000739442 3ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0036] [3565284434 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51610
+INFO[0036] [3565284434 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.246:443
+INFO[0036] [3565284434 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.246:443
+INFO[0036] [3565284434 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.246:443
+INFO[0037] [2964734312 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49478
+INFO[0037] [2964734312 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.238:443
+INFO[0037] [2964734312 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.238:443
+INFO[0037] [2964734312 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.238:443
+INFO[0038] [2410151815 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:35701
+INFO[0038] [2410151815 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0038] [1763502963 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:40635
+INFO[0038] [1763502963 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0038] dns: exchanged jnn-pa.googleapis.com AAAA jnn-pa.googleapis.com. 234 IN AAAA 2404:6800:4012:3::200a
+INFO[0038] dns: exchanged jnn-pa.googleapis.com AAAA jnn-pa.googleapis.com. 234 IN AAAA 2404:6800:4012::200a
+INFO[0038] dns: exchanged jnn-pa.googleapis.com AAAA jnn-pa.googleapis.com. 234 IN AAAA 2404:6800:4012:2::200a
+INFO[0038] dns: exchanged jnn-pa.googleapis.com AAAA jnn-pa.googleapis.com. 234 IN AAAA 2404:6800:4012:4::200a
+INFO[0038] dns: exchanged jnn-pa.googleapis.com. AAAA jnn-pa.googleapis.com. 234 IN AAAA 2404:6800:4012:3::200a
+INFO[0038] dns: exchanged jnn-pa.googleapis.com. AAAA jnn-pa.googleapis.com. 234 IN AAAA 2404:6800:4012::200a
+INFO[0038] dns: exchanged jnn-pa.googleapis.com. AAAA jnn-pa.googleapis.com. 234 IN AAAA 2404:6800:4012:2::200a
+INFO[0038] dns: exchanged jnn-pa.googleapis.com. AAAA jnn-pa.googleapis.com. 234 IN AAAA 2404:6800:4012:4::200a
+INFO[0038] dns: exchanged jnn-pa.googleapis.com A jnn-pa.googleapis.com. 75 IN A 142.251.43.10
+INFO[0038] dns: exchanged jnn-pa.googleapis.com A jnn-pa.googleapis.com. 75 IN A 172.217.160.74
+INFO[0038] dns: exchanged jnn-pa.googleapis.com A jnn-pa.googleapis.com. 75 IN A 142.251.42.234
+INFO[0038] dns: exchanged jnn-pa.googleapis.com A jnn-pa.googleapis.com. 75 IN A 172.217.163.42
+INFO[0038] dns: exchanged jnn-pa.googleapis.com A jnn-pa.googleapis.com. 75 IN A 172.217.160.106
+INFO[0038] dns: exchanged jnn-pa.googleapis.com. A jnn-pa.googleapis.com. 75 IN A 142.251.43.10
+INFO[0038] dns: exchanged jnn-pa.googleapis.com. A jnn-pa.googleapis.com. 75 IN A 172.217.160.74
+INFO[0038] dns: exchanged jnn-pa.googleapis.com. A jnn-pa.googleapis.com. 75 IN A 142.251.42.234
+INFO[0038] dns: exchanged jnn-pa.googleapis.com. A jnn-pa.googleapis.com. 75 IN A 172.217.163.42
+INFO[0038] dns: exchanged jnn-pa.googleapis.com. A jnn-pa.googleapis.com. 75 IN A 172.217.160.106
+INFO[0038] [751782327 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:46660
+INFO[0038] [751782327 0ms] inbound/tun[tun-in]: inbound connection to 172.217.160.106:443
+INFO[0038] [751782327 1ms] outbound/shadowsocks[proxy]: outbound connection to 172.217.160.106:443
+INFO[0038] [970693560 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34718
+INFO[0038] [970693560 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0038] [970693560 2ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0039] [1396881112 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34726
+INFO[0039] [1396881112 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0039] [3543165929 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34740
+INFO[0039] [3543165929 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0039] [1396881112 3ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0039] [888102207 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34748
+INFO[0039] [888102207 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0039] [3543165929 3ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0039] [888102207 3ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0039] [1038214552 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34750
+INFO[0039] [1038214552 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0039] [1038214552 2ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0039] [3046751379 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34758
+INFO[0039] [3046751379 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0039] [3046751379 4ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0039] [2576795304 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34766
+INFO[0039] [2576795304 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0039] [2576795304 3ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0039] [4123363867 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34778
+INFO[0039] [4123363867 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0039] [4123363867 3ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0039] [1016935594 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:34780
+INFO[0039] [1016935594 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0039] [1016935594 3ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0039] [3373083105 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:48978
+INFO[0039] [3373083105 0ms] inbound/tun[tun-in]: inbound packet connection to 172.217.160.106:443
+INFO[0039] [3373083105 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.106:443
+INFO[0039] [3373083105 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.106:443
+INFO[0039] [3456394459 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:48978
+INFO[0039] [3456394459 0ms] inbound/tun[tun-in]: inbound packet connection to 172.217.160.106:443
+INFO[0039] [3456394459 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.106:443
+INFO[0039] [3456394459 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.106:443
+INFO[0039] [1432906993 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60376
+INFO[0039] [1432906993 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0039] [3735665375 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:41627
+INFO[0039] [3735665375 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0040] dns: exchanged codeload.github.com SOA github.com. 344 IN SOA ns-1707.awsdns-21.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+INFO[0040] dns: exchanged codeload.github.com A codeload.github.com. 60 IN A 20.27.177.114
+INFO[0040] dns: exchanged codeload.github.com. A codeload.github.com. 60 IN A 20.27.177.114
+INFO[0040] [3505381446 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:44526
+INFO[0040] [3505381446 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.114:443
+INFO[0040] [1662667814 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:44498
+INFO[0040] [1662667814 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.114:443
+INFO[0040] [1843480529 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:44538
+INFO[0040] [1843480529 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.114:443
+INFO[0040] [2581012582 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:44546
+INFO[0040] [2581012582 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.114:443
+INFO[0040] [688435507 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:44552
+INFO[0040] [2231452801 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:44488
+INFO[0040] [688435507 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.114:443
+INFO[0040] [2231452801 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.114:443
+INFO[0040] [1937573074 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:44514
+INFO[0040] [742098700 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:44564
+INFO[0040] [1937573074 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.114:443
+INFO[0040] [742098700 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.114:443
+INFO[0040] [2231452801 1ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.114:443
+INFO[0040] [3505381446 2ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.114:443
+INFO[0040] [1937573074 1ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.114:443
+INFO[0040] [1662667814 2ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.114:443
+INFO[0040] [1843480529 2ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.114:443
+INFO[0040] [2581012582 2ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.114:443
+INFO[0040] [688435507 2ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.114:443
+INFO[0040] [742098700 3ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.114:443
+INFO[0040] [2050830475 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:35986
+INFO[0040] [2050830475 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.234:443
+INFO[0040] [2050830475 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.234:443
+INFO[0040] [2050830475 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.234:443
+INFO[0040] [960112996 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:44574
+INFO[0040] [960112996 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.114:443
+INFO[0040] [960112996 3ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.114:443
+INFO[0041] [1721960939 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:46736
+INFO[0041] [1721960939 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.227:443
+INFO[0041] [1721960939 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.227:443
+INFO[0041] [1721960939 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.227:443
+INFO[0042] [3659135533 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52924
+INFO[0042] [1253271989 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:46014
+INFO[0042] [3659135533 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0042] [1253271989 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0042] dns: exchanged blacklist.tampermonkey.net A blacklist.tampermonkey.net. 75 IN A 81.169.152.96
+INFO[0042] dns: exchanged blacklist.tampermonkey.net. A blacklist.tampermonkey.net. 75 IN A 81.169.152.96
+INFO[0042] dns: exchanged blacklist.tampermonkey.net SOA tampermonkey.net. 26 IN SOA shades19.rzone.de. hostmaster.strato-rz.de. 2020051553 86400 7200 604800 300
+INFO[0042] [1360411926 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:46112
+INFO[0042] [1360411926 0ms] inbound/tun[tun-in]: inbound connection to 81.169.152.96:443
+INFO[0042] [1360411926 2ms] outbound/shadowsocks[proxy]: outbound connection to 81.169.152.96:443
+INFO[0044] [1119600293 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:40762
+INFO[0044] [1119600293 0ms] inbound/tun[tun-in]: inbound packet connection to 172.217.160.99:443
+INFO[0044] [1119600293 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.99:443
+INFO[0044] [1119600293 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.99:443
+INFO[0045] [445235070 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:48978
+INFO[0045] [1500937599 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:35986
+INFO[0045] [1500937599 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.234:443
+INFO[0045] [1500937599 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.234:443
+INFO[0045] [1500937599 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.234:443
+INFO[0045] [445235070 0ms] inbound/tun[tun-in]: inbound packet connection to 172.217.160.106:443
+INFO[0045] [445235070 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.106:443
+INFO[0045] [445235070 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.106:443
+INFO[0048] [438912161 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:40762
+INFO[0048] [2987226138 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51610
+INFO[0048] [438912161 0ms] inbound/tun[tun-in]: inbound packet connection to 172.217.160.99:443
+INFO[0048] [2987226138 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.246:443
+INFO[0048] [2987226138 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.246:443
+INFO[0048] [438912161 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.99:443
+INFO[0048] [2987226138 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.246:443
+INFO[0048] [438912161 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.99:443
+INFO[0051] [3794879237 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:40762
+INFO[0051] [3794879237 0ms] inbound/tun[tun-in]: inbound packet connection to 172.217.160.99:443
+INFO[0051] [3794879237 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.99:443
+INFO[0051] [3794879237 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.99:443
+INFO[0053] [2810094926 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51610
+INFO[0053] [2810094926 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.246:443
+INFO[0053] [2810094926 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.246:443
+INFO[0053] [2810094926 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.246:443
+INFO[0053] [393705490 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:47699
+INFO[0053] [393705490 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.227:443
+INFO[0053] [393705490 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.227:443
+INFO[0053] [393705490 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.227:443
+INFO[0054] [3222975855 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:48978
+INFO[0054] [3222975855 0ms] inbound/tun[tun-in]: inbound packet connection to 172.217.160.106:443
+INFO[0054] [3222975855 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.106:443
+INFO[0054] [3222975855 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.106:443
+INFO[0055] [250354885 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52376
+INFO[0055] [250354885 0ms] inbound/tun[tun-in]: inbound packet connection to 172.217.160.110:443
+INFO[0055] [250354885 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.110:443
+INFO[0055] [250354885 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.110:443
+INFO[0056] [4183537961 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:40762
+INFO[0056] [4183537961 0ms] inbound/tun[tun-in]: inbound packet connection to 172.217.160.99:443
+INFO[0056] [4183537961 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.99:443
+INFO[0056] [4183537961 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.99:443
+INFO[0058] [2461326999 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51610
+INFO[0058] [2461326999 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.246:443
+INFO[0058] [2461326999 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.246:443
+INFO[0058] [2461326999 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.246:443
+INFO[0059] [4144409721 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:50904
+INFO[0059] [4144409721 0ms] inbound/tun[tun-in]: inbound connection to 113.240.75.252:443
+INFO[0059] [4144409721 47ms] outbound/direct[bypass]: outbound connection to 113.240.75.252:443
+INFO[0060] [4041525027 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:35986
+INFO[0060] [4041525027 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.234:443
+INFO[0060] [4041525027 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.234:443
+INFO[0060] [4041525027 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.234:443
+INFO[0061] [2961359288 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53911
+INFO[0061] [2961359288 0ms] inbound/tun[tun-in]: inbound packet connection to 172.217.163.35:443
+INFO[0061] [2961359288 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.163.35:443
+INFO[0061] [2961359288 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.163.35:443
+INFO[0063] [2150967984 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51610
+INFO[0063] [2150967984 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.42.246:443
+INFO[0063] [2150967984 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.246:443
+INFO[0063] [2150967984 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 142.251.42.246:443
+INFO[0063] [277559725 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:43258
+INFO[0063] [277559725 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0063] dns: exchanged github.com A github.com. 60 IN A 20.27.177.113
+INFO[0063] dns: exchanged github.com. A github.com. 60 IN A 20.27.177.113
+INFO[0063] [3341549332 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39254
+INFO[0063] [3341549332 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [3734359288 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39262
+INFO[0063] [3734359288 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [714605405 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39276
+INFO[0063] [714605405 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [1245294790 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39290
+INFO[0063] [1245294790 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [3756872267 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39398
+INFO[0063] [3756872267 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [2631541341 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39560
+INFO[0063] [2631541341 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [4038064818 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39514
+INFO[0063] [4038064818 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [3756872267 21ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [357792291 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39460
+INFO[0063] [357792291 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [2434852385 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39344
+INFO[0063] [2434852385 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [1432215496 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39488
+INFO[0063] [1432215496 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [1383044230 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39436
+INFO[0063] [756900621 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39350
+INFO[0063] [1383044230 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [756900621 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [1638753721 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39542
+INFO[0063] [1638753721 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [75224295 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39362
+INFO[0063] [75224295 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [3129719371 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39304
+INFO[0063] [3129719371 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [1597251568 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39518
+INFO[0063] [1597251568 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [2295345943 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39390
+INFO[0063] [2295345943 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [364203921 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39500
+INFO[0063] [364203921 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [240305118 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39370
+INFO[0063] [240305118 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [4017720090 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39438
+INFO[0063] [4017720090 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [3129719371 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [2729165646 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39424
+INFO[0063] [2729165646 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [2370225521 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39446
+INFO[0063] [2370225521 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [3222509171 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39412
+INFO[0063] [3222509171 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [3029825803 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39376
+INFO[0063] [3029825803 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [2373028580 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39530
+INFO[0063] [2373028580 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [4201239223 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39316
+INFO[0063] [4201239223 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [3734359288 87ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [1354050264 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39328
+INFO[0063] [1354050264 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [3440500969 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39330
+INFO[0063] [3440500969 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [2876283844 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39616
+INFO[0063] [2876283844 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [2876283844 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [41613397 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39468
+INFO[0063] [41613397 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [41613397 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [270217861 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39478
+INFO[0063] [270217861 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [270217861 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [2434552344 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39554
+INFO[0063] [2434552344 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [2434552344 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [4052525866 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39664
+INFO[0063] [4052525866 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [92955962 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39648
+INFO[0063] [92955962 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [3341549332 92ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [1400561884 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39688
+INFO[0063] [1400561884 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [4052525866 22ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [3047743783 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39702
+INFO[0063] [3047743783 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [1636558789 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39666
+INFO[0063] [1636558789 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [3047743783 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [1594957932 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39786
+INFO[0063] [1594957932 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [1400561884 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [3734437423 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39680
+INFO[0063] [3734437423 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [757122725 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39742
+INFO[0063] [757122725 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [757122725 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [1597251568 94ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [756900621 95ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [2482898273 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39652
+INFO[0063] [2482898273 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [2482898273 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [3407620257 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39568
+INFO[0063] [3407620257 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [1432215496 96ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [75224295 97ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [2434852385 97ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [3440500969 36ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [1354050264 36ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [3407620257 3ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [525370424 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39580
+INFO[0063] [525370424 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [525370424 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [9792530 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39588
+INFO[0063] [9792530 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [9792530 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [1330820988 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39630
+INFO[0063] [1330820988 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [1330820988 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [2631541341 101ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [885912370 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39718
+INFO[0063] [885912370 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [885912370 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [1383044230 101ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [714605405 124ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [3041497668 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39788
+INFO[0063] [3041497668 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [2958372867 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39758
+INFO[0063] [2958372867 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [3734437423 10ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [1610603009 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39566
+INFO[0063] [1610603009 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [2729165646 103ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [1610603009 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [2370225521 103ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [1768357791 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39734
+INFO[0063] [1768357791 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [1245294790 125ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [3211848115 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39604
+INFO[0063] [3211848115 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [1768357791 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [3040604389 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39740
+INFO[0063] [3040604389 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [3211848115 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [3040604389 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [2295345943 105ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [357792291 105ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [4017720090 105ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [4201239223 44ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [2855289275 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39596
+INFO[0063] [2855289275 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [2855289275 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [3607633958 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39598
+INFO[0063] [3607633958 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [3607633958 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [852964218 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39640
+INFO[0063] [852964218 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [852964218 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [1700128225 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39636
+INFO[0063] [1700128225 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [1700128225 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [240305118 107ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [2764269538 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39562
+INFO[0063] [2764269538 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [2764269538 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [2168406775 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39696
+INFO[0063] [2168406775 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [2168406775 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [1868361477 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39762
+INFO[0063] [1868361477 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [1868361477 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [2465110978 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39810
+INFO[0063] [2465110978 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [3707601093 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39778
+INFO[0063] [3707601093 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [3707601093 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [2646973675 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39780
+INFO[0063] [2646973675 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [2646973675 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [1569441029 110ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39312
+INFO[0063] [1569441029 110ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [1569441029 110ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [4038064818 111ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [3029825803 50ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [1594957932 24ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [3222509171 55ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [1636558789 25ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [3041497668 10ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [3643967718 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39578
+INFO[0063] [3643967718 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [3643967718 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [1341103683 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39800
+INFO[0063] [1341103683 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [2359783402 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39784
+INFO[0063] [2359783402 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0063] [1341103683 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [2359783402 0ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [364203921 116ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [2465110978 9ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [1638753721 129ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [2373028580 76ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [92955962 73ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0063] [2958372867 36ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0064] [2396309767 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:35503
+INFO[0064] [2396309767 0ms] inbound/tun[tun-in]: inbound packet connection to 172.217.160.78:443
+INFO[0064] [2396309767 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.78:443
+INFO[0064] [2396309767 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.78:443
+INFO[0065] [1861510601 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39826
+INFO[0065] [1861510601 3ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0065] [1861510601 4ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0065] [1110168139 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:35503
+INFO[0065] [1110168139 0ms] inbound/tun[tun-in]: inbound packet connection to 172.217.160.78:443
+INFO[0065] [1110168139 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.78:443
+INFO[0065] [1110168139 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.217.160.78:443
+INFO[0066] [786681588 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39832
+INFO[0066] [786681588 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0066] [786681588 8ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0069] [521892167 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:36988
+INFO[0069] [521892167 0ms] inbound/tun[tun-in]: inbound connection to 142.251.42.238:443
+INFO[0069] [521892167 1ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.42.238:443
+INFO[0071] [1058378724 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:42286
+INFO[0071] [1058378724 0ms] inbound/tun[tun-in]: inbound connection to 142.251.43.4:443
+INFO[0071] [1058378724 2ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.43.4:443
+INFO[0071] [1881832716 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:42296
+INFO[0071] [1881832716 0ms] inbound/tun[tun-in]: inbound connection to 142.251.43.4:443
+INFO[0071] [1881832716 6ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.43.4:443
+INFO[0079] [2553982509 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:33330
+INFO[0079] [2553982509 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0079] dns: cached redirect.archlinux.org A redirect.archlinux.org. 3081 IN A 95.216.195.133
+INFO[0079] dns: cached redirect.archlinux.org OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x0c09, udp: 512
+INFO[0079] dns: exchanged redirect.archlinux.org. A redirect.archlinux.org. 3081 IN A 95.216.195.133
+INFO[0082] outbound/shadowsocks[proxy]: outbound connection to cp.cloudflare.com:80
+INFO[0095] [2537452424 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:48766
+INFO[0095] [2537452424 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0095] [1945464927 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60214
+INFO[0095] [1945464927 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0095] outbound/direct[direct]: outbound packet connection to 10.10.0.21:53
+INFO[0095] outbound/direct[direct]: outbound packet connection to 10.10.0.21:53
+ERROR[0095] dns: exchange failed for leetcode.cn. IN AAAA: name error
+INFO[0095] dns: exchanged leetcode.cn. A leetcode.cn. 600 IN A 42.193.72.66
+INFO[0100] [837955798 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:48766
+INFO[0100] [837955798 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0100] outbound/direct[direct]: outbound packet connection to 10.10.0.21:53
+INFO[0101] [4294950429 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:48051
+INFO[0101] [4294950429 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0101] [300161166 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:47913
+INFO[0101] [300161166 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0101] dns: exchanged images.unsplash.com CNAME images.unsplash.com. 2 IN CNAME unsplash.imgix.net.
+INFO[0101] dns: exchanged images.unsplash.com CNAME unsplash.imgix.net. 2 IN CNAME dualstack.com.imgix.map.fastly.net.
+INFO[0101] dns: exchanged images.unsplash.com A dualstack.com.imgix.map.fastly.net. 2 IN A 151.101.2.208
+INFO[0101] dns: exchanged images.unsplash.com A dualstack.com.imgix.map.fastly.net. 2 IN A 151.101.66.208
+INFO[0101] dns: exchanged images.unsplash.com A dualstack.com.imgix.map.fastly.net. 2 IN A 151.101.130.208
+INFO[0101] dns: exchanged images.unsplash.com A dualstack.com.imgix.map.fastly.net. 2 IN A 151.101.194.208
+INFO[0101] dns: exchanged images.unsplash.com. CNAME images.unsplash.com. 2 IN CNAME unsplash.imgix.net.
+INFO[0101] dns: exchanged images.unsplash.com. CNAME unsplash.imgix.net. 2 IN CNAME dualstack.com.imgix.map.fastly.net.
+INFO[0101] dns: exchanged images.unsplash.com. A dualstack.com.imgix.map.fastly.net. 2 IN A 151.101.2.208
+INFO[0101] dns: exchanged images.unsplash.com. A dualstack.com.imgix.map.fastly.net. 2 IN A 151.101.66.208
+INFO[0101] dns: exchanged images.unsplash.com. A dualstack.com.imgix.map.fastly.net. 2 IN A 151.101.130.208
+INFO[0101] dns: exchanged images.unsplash.com. A dualstack.com.imgix.map.fastly.net. 2 IN A 151.101.194.208
+INFO[0101] [869793299 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:53676
+INFO[0101] [869793299 0ms] inbound/tun[tun-in]: inbound connection to 151.101.2.208:443
+INFO[0101] [869793299 5ms] outbound/shadowsocks[proxy]: outbound connection to 151.101.2.208:443
+ERROR[0101] dns: exchange failed for leetcode.cn. IN AAAA: name error
+INFO[0101] dns: exchanged quotes.rest A quotes.rest. 300 IN A 208.113.163.159
+INFO[0101] dns: exchanged quotes.rest. A quotes.rest. 300 IN A 208.113.163.159
+INFO[0101] [3313161175 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:59078
+INFO[0101] [3313161175 0ms] inbound/tun[tun-in]: inbound connection to 208.113.163.159:443
+INFO[0101] [3313161175 13ms] outbound/shadowsocks[proxy]: outbound connection to 208.113.163.159:443
+INFO[0103] [3473284641 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54341
+INFO[0103] [3473284641 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0103] [956094907 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:32820
+INFO[0103] [956094907 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0103] dns: exchanged o113629.ingest.sentry.io SOA sentry.io. 867 IN SOA ns-cloud-d1.googledomains.com. cloud-dns-hostmaster.google.com. 1 3600 600 604800 1800
+INFO[0103] dns: exchanged o113629.ingest.sentry.io A o113629.ingest.sentry.io. 300 IN A 34.120.195.249
+INFO[0103] dns: exchanged o113629.ingest.sentry.io. A o113629.ingest.sentry.io. 300 IN A 34.120.195.249
+INFO[0103] [3273157790 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60899
+INFO[0103] [3273157790 0ms] inbound/tun[tun-in]: inbound packet connection to 34.120.195.249:443
+INFO[0103] [3273157790 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 34.120.195.249:443
+INFO[0103] [3273157790 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 34.120.195.249:443
+INFO[0103] [966822831 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:33342
+INFO[0103] [966822831 0ms] inbound/tun[tun-in]: inbound connection to 34.120.195.249:443
+INFO[0103] [966822831 1ms] outbound/shadowsocks[proxy]: outbound connection to 34.120.195.249:443
+INFO[0103] [3907870873 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60899
+INFO[0103] [3907870873 0ms] inbound/tun[tun-in]: inbound packet connection to 34.120.195.249:443
+INFO[0103] [3907870873 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 34.120.195.249:443
+INFO[0103] [3907870873 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 34.120.195.249:443
+INFO[0103] [3155651860 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:33344
+INFO[0103] [3155651860 0ms] inbound/tun[tun-in]: inbound connection to 34.120.195.249:443
+INFO[0103] [3155651860 2ms] outbound/shadowsocks[proxy]: outbound connection to 34.120.195.249:443
+INFO[0104] [3560537977 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50559
+INFO[0104] [3560537977 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0104] dns: exchanged www.bing.com CNAME www.bing.com. 11 IN CNAME wwwprod.www-bing-com.akadns.net.
+INFO[0104] dns: exchanged www.bing.com CNAME wwwprod.www-bing-com.akadns.net. 11 IN CNAME www.bing.com.edgekey.net.
+INFO[0104] dns: exchanged www.bing.com CNAME www.bing.com.edgekey.net. 11 IN CNAME e86303.dscx.akamaiedge.net.
+INFO[0104] dns: exchanged www.bing.com A e86303.dscx.akamaiedge.net. 11 IN A 210.71.227.210
+INFO[0104] dns: exchanged www.bing.com A e86303.dscx.akamaiedge.net. 11 IN A 210.71.227.203
+INFO[0104] dns: exchanged www.bing.com A e86303.dscx.akamaiedge.net. 11 IN A 210.71.227.218
+INFO[0104] dns: exchanged www.bing.com A e86303.dscx.akamaiedge.net. 11 IN A 210.71.227.209
+INFO[0104] dns: exchanged www.bing.com A e86303.dscx.akamaiedge.net. 11 IN A 210.71.227.202
+INFO[0104] dns: exchanged www.bing.com A e86303.dscx.akamaiedge.net. 11 IN A 210.71.227.211
+INFO[0104] dns: exchanged www.bing.com. CNAME www.bing.com. 11 IN CNAME wwwprod.www-bing-com.akadns.net.
+INFO[0104] dns: exchanged www.bing.com. CNAME wwwprod.www-bing-com.akadns.net. 11 IN CNAME www.bing.com.edgekey.net.
+INFO[0104] dns: exchanged www.bing.com. CNAME www.bing.com.edgekey.net. 11 IN CNAME e86303.dscx.akamaiedge.net.
+INFO[0104] dns: exchanged www.bing.com. A e86303.dscx.akamaiedge.net. 11 IN A 210.71.227.210
+INFO[0104] dns: exchanged www.bing.com. A e86303.dscx.akamaiedge.net. 11 IN A 210.71.227.203
+INFO[0104] dns: exchanged www.bing.com. A e86303.dscx.akamaiedge.net. 11 IN A 210.71.227.218
+INFO[0104] dns: exchanged www.bing.com. A e86303.dscx.akamaiedge.net. 11 IN A 210.71.227.209
+INFO[0104] dns: exchanged www.bing.com. A e86303.dscx.akamaiedge.net. 11 IN A 210.71.227.202
+INFO[0104] dns: exchanged www.bing.com. A e86303.dscx.akamaiedge.net. 11 IN A 210.71.227.211
+INFO[0104] [2429700744 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:53116
+INFO[0104] [2429700744 0ms] inbound/tun[tun-in]: inbound connection to 210.71.227.210:443
+INFO[0104] [2429700744 5ms] outbound/shadowsocks[proxy]: outbound connection to 210.71.227.210:443
+INFO[0105] [1518660546 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:48766
+INFO[0105] [1518660546 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0105] outbound/direct[direct]: outbound packet connection to 10.10.0.21:53
+ERROR[0105] dns: exchange failed for leetcode.cn. IN AAAA: name error
+INFO[0105] [4225011889 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49542
+INFO[0105] [4225011889 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0105] [1103759689 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:33354
+INFO[0105] [1103759689 0ms] inbound/tun[tun-in]: inbound connection to 34.120.195.249:443
+INFO[0105] [1103759689 2ms] outbound/shadowsocks[proxy]: outbound connection to 34.120.195.249:443
+INFO[0105] dns: exchanged e86303.dscx.akamaiedge.net AAAA e86303.dscx.akamaiedge.net. 20 IN AAAA 2600:1417:1b::cb45:8a67
+INFO[0105] dns: exchanged e86303.dscx.akamaiedge.net AAAA e86303.dscx.akamaiedge.net. 20 IN AAAA 2600:1417:1b::cb45:8a38
+INFO[0105] dns: exchanged e86303.dscx.akamaiedge.net AAAA e86303.dscx.akamaiedge.net. 20 IN AAAA 2600:1417:1b::cb45:8a61
+INFO[0105] dns: exchanged e86303.dscx.akamaiedge.net AAAA e86303.dscx.akamaiedge.net. 20 IN AAAA 2600:1417:1b::cb45:8a39
+INFO[0105] dns: exchanged e86303.dscx.akamaiedge.net AAAA e86303.dscx.akamaiedge.net. 20 IN AAAA 2600:1417:1b::cb45:8a8b
+INFO[0105] dns: exchanged e86303.dscx.akamaiedge.net. AAAA e86303.dscx.akamaiedge.net. 20 IN AAAA 2600:1417:1b::cb45:8a67
+INFO[0105] dns: exchanged e86303.dscx.akamaiedge.net. AAAA e86303.dscx.akamaiedge.net. 20 IN AAAA 2600:1417:1b::cb45:8a38
+INFO[0105] dns: exchanged e86303.dscx.akamaiedge.net. AAAA e86303.dscx.akamaiedge.net. 20 IN AAAA 2600:1417:1b::cb45:8a61
+INFO[0105] dns: exchanged e86303.dscx.akamaiedge.net. AAAA e86303.dscx.akamaiedge.net. 20 IN AAAA 2600:1417:1b::cb45:8a39
+INFO[0105] dns: exchanged e86303.dscx.akamaiedge.net. AAAA e86303.dscx.akamaiedge.net. 20 IN AAAA 2600:1417:1b::cb45:8a8b
+INFO[0105] [3663797434 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:39203
+INFO[0105] [3663797434 0ms] inbound/tun[tun-in]: inbound packet connection to 210.71.227.218:443
+INFO[0105] [3663797434 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.218:443
+INFO[0105] [3663797434 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.218:443
+INFO[0105] [3755756393 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:35445
+INFO[0105] [3755756393 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0105] [1322765872 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51864
+INFO[0105] [1322765872 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0106] [248527418 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:39203
+INFO[0106] [248527418 0ms] inbound/tun[tun-in]: inbound packet connection to 210.71.227.218:443
+INFO[0106] [248527418 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.218:443
+INFO[0106] [248527418 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.218:443
+INFO[0106] dns: exchanged profile.accounts.firefox.com A profile.accounts.firefox.com. 3469 IN A 34.110.207.168
+INFO[0106] dns: exchanged profile.accounts.firefox.com. A profile.accounts.firefox.com. 3469 IN A 34.110.207.168
+INFO[0106] dns: exchanged profile.accounts.firefox.com SOA accounts.firefox.com. 391 IN SOA ns-766.awsdns-31.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+INFO[0106] [3467673970 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:44599
+INFO[0106] [3467673970 0ms] inbound/tun[tun-in]: inbound packet connection to 34.110.207.168:443
+INFO[0106] [3467673970 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 34.110.207.168:443
+INFO[0106] [3467673970 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 34.110.207.168:443
+INFO[0106] [3253298738 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39132
+INFO[0106] [3253298738 0ms] inbound/tun[tun-in]: inbound connection to 34.110.207.168:443
+INFO[0106] [3253298738 1ms] outbound/shadowsocks[proxy]: outbound connection to 34.110.207.168:443
+INFO[0106] [1026435933 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58697
+INFO[0106] [1026435933 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0106] [827069810 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:33385
+INFO[0106] [827069810 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0106] [1005273627 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:39203
+INFO[0106] [1005273627 0ms] inbound/tun[tun-in]: inbound packet connection to 210.71.227.218:443
+INFO[0106] [1005273627 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.218:443
+INFO[0106] [1005273627 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.218:443
+INFO[0106] [574649414 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:60904
+INFO[0106] [574649414 0ms] inbound/tun[tun-in]: inbound connection to 142.251.42.234:443
+INFO[0106] [574649414 1ms] outbound/shadowsocks[proxy]: outbound connection to 142.251.42.234:443
+INFO[0106] [4059477064 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:44599
+INFO[0106] [4059477064 0ms] inbound/tun[tun-in]: inbound packet connection to 34.110.207.168:443
+INFO[0106] [4059477064 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 34.110.207.168:443
+INFO[0106] [4059477064 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 34.110.207.168:443
+INFO[0106] dns: exchanged th.bing.com CNAME th.bing.com. 13 IN CNAME p-th.bing.com.trafficmanager.net.
+INFO[0106] dns: exchanged th.bing.com CNAME p-th.bing.com.trafficmanager.net. 13 IN CNAME th.bing.com.edgekey.net.
+INFO[0106] dns: exchanged th.bing.com CNAME th.bing.com.edgekey.net. 13 IN CNAME e86303.dscx.akamaiedge.net.
+INFO[0106] dns: exchanged th.bing.com A e86303.dscx.akamaiedge.net. 13 IN A 210.71.227.210
+INFO[0106] dns: exchanged th.bing.com A e86303.dscx.akamaiedge.net. 13 IN A 210.71.227.218
+INFO[0106] dns: exchanged th.bing.com A e86303.dscx.akamaiedge.net. 13 IN A 210.71.227.202
+INFO[0106] dns: exchanged th.bing.com A e86303.dscx.akamaiedge.net. 13 IN A 210.71.227.203
+INFO[0106] dns: exchanged th.bing.com A e86303.dscx.akamaiedge.net. 13 IN A 210.71.227.209
+INFO[0106] dns: exchanged th.bing.com A e86303.dscx.akamaiedge.net. 13 IN A 210.71.227.211
+INFO[0106] dns: exchanged th.bing.com. CNAME th.bing.com. 13 IN CNAME p-th.bing.com.trafficmanager.net.
+INFO[0106] dns: exchanged th.bing.com. CNAME p-th.bing.com.trafficmanager.net. 13 IN CNAME th.bing.com.edgekey.net.
+INFO[0106] dns: exchanged th.bing.com. CNAME th.bing.com.edgekey.net. 13 IN CNAME e86303.dscx.akamaiedge.net.
+INFO[0106] dns: exchanged th.bing.com. A e86303.dscx.akamaiedge.net. 13 IN A 210.71.227.210
+INFO[0106] dns: exchanged th.bing.com. A e86303.dscx.akamaiedge.net. 13 IN A 210.71.227.218
+INFO[0106] dns: exchanged th.bing.com. A e86303.dscx.akamaiedge.net. 13 IN A 210.71.227.202
+INFO[0106] dns: exchanged th.bing.com. A e86303.dscx.akamaiedge.net. 13 IN A 210.71.227.203
+INFO[0106] dns: exchanged th.bing.com. A e86303.dscx.akamaiedge.net. 13 IN A 210.71.227.209
+INFO[0106] dns: exchanged th.bing.com. A e86303.dscx.akamaiedge.net. 13 IN A 210.71.227.211
+INFO[0106] dns: exchanged th.bing.com CNAME th.bing.com. 20 IN CNAME p-th.bing.com.trafficmanager.net.
+INFO[0106] dns: exchanged th.bing.com CNAME p-th.bing.com.trafficmanager.net. 20 IN CNAME th.bing.com.edgekey.net.
+INFO[0106] dns: exchanged th.bing.com CNAME th.bing.com.edgekey.net. 20 IN CNAME e86303.dscx.akamaiedge.net.
+INFO[0106] dns: exchanged th.bing.com AAAA e86303.dscx.akamaiedge.net. 20 IN AAAA 2600:1417:1b::cb45:8a8b
+INFO[0106] dns: exchanged th.bing.com AAAA e86303.dscx.akamaiedge.net. 20 IN AAAA 2600:1417:1b::cb45:8a38
+INFO[0106] dns: exchanged th.bing.com AAAA e86303.dscx.akamaiedge.net. 20 IN AAAA 2600:1417:1b::cb45:8a39
+INFO[0106] dns: exchanged th.bing.com AAAA e86303.dscx.akamaiedge.net. 20 IN AAAA 2600:1417:1b::cb45:8a61
+INFO[0106] dns: exchanged th.bing.com. CNAME th.bing.com. 20 IN CNAME p-th.bing.com.trafficmanager.net.
+INFO[0106] dns: exchanged th.bing.com. CNAME p-th.bing.com.trafficmanager.net. 20 IN CNAME th.bing.com.edgekey.net.
+INFO[0106] dns: exchanged th.bing.com. CNAME th.bing.com.edgekey.net. 20 IN CNAME e86303.dscx.akamaiedge.net.
+INFO[0106] dns: exchanged th.bing.com. AAAA e86303.dscx.akamaiedge.net. 20 IN AAAA 2600:1417:1b::cb45:8a8b
+INFO[0106] dns: exchanged th.bing.com. AAAA e86303.dscx.akamaiedge.net. 20 IN AAAA 2600:1417:1b::cb45:8a38
+INFO[0106] dns: exchanged th.bing.com. AAAA e86303.dscx.akamaiedge.net. 20 IN AAAA 2600:1417:1b::cb45:8a39
+INFO[0106] dns: exchanged th.bing.com. AAAA e86303.dscx.akamaiedge.net. 20 IN AAAA 2600:1417:1b::cb45:8a61
+INFO[0106] [1778624296 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:39146
+INFO[0106] [1778624296 0ms] inbound/tun[tun-in]: inbound connection to 34.110.207.168:443
+INFO[0106] [1778624296 1ms] outbound/shadowsocks[proxy]: outbound connection to 34.110.207.168:443
+INFO[0106] [3391521042 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:38932
+INFO[0106] [3391521042 0ms] inbound/tun[tun-in]: inbound connection to 210.71.227.202:443
+INFO[0106] [3304694706 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:38938
+INFO[0106] [3304694706 0ms] inbound/tun[tun-in]: inbound connection to 210.71.227.202:443
+INFO[0106] [807564514 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:38944
+INFO[0106] [807564514 0ms] inbound/tun[tun-in]: inbound connection to 210.71.227.202:443
+INFO[0106] [3982414778 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:38960
+INFO[0106] [3982414778 0ms] inbound/tun[tun-in]: inbound connection to 210.71.227.202:443
+INFO[0106] [3790303568 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:38988
+INFO[0106] [1854935096 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:38974
+INFO[0106] [3790303568 0ms] inbound/tun[tun-in]: inbound connection to 210.71.227.202:443
+INFO[0106] [1854935096 0ms] inbound/tun[tun-in]: inbound connection to 210.71.227.202:443
+INFO[0106] [3790303568 2ms] outbound/shadowsocks[proxy]: outbound connection to 210.71.227.202:443
+INFO[0106] [1854935096 3ms] outbound/shadowsocks[proxy]: outbound connection to 210.71.227.202:443
+INFO[0106] [3982414778 5ms] outbound/shadowsocks[proxy]: outbound connection to 210.71.227.202:443
+INFO[0106] [807564514 7ms] outbound/shadowsocks[proxy]: outbound connection to 210.71.227.202:443
+INFO[0106] [3304694706 8ms] outbound/shadowsocks[proxy]: outbound connection to 210.71.227.202:443
+INFO[0106] [3391521042 10ms] outbound/shadowsocks[proxy]: outbound connection to 210.71.227.202:443
+INFO[0107] [3430826901 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:39203
+INFO[0107] [3430826901 0ms] inbound/tun[tun-in]: inbound packet connection to 210.71.227.218:443
+INFO[0107] [3430826901 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.218:443
+INFO[0107] [3430826901 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.218:443
+INFO[0107] [3470990606 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50426
+INFO[0107] [3470990606 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0107] [1392907854 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57145
+INFO[0107] [1392907854 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0107] [3811672362 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:34331
+INFO[0107] [3811672362 0ms] inbound/tun[tun-in]: inbound packet connection to 210.71.227.202:443
+INFO[0107] [3811672362 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.202:443
+INFO[0107] [3811672362 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.202:443
+INFO[0107] dns: exchanged ayouth.top AAAA ayouth.top. 300 IN AAAA 2606:4700:3031::ac43:db9a
+INFO[0107] dns: exchanged ayouth.top AAAA ayouth.top. 300 IN AAAA 2606:4700:3037::6815:18a3
+INFO[0107] dns: exchanged ayouth.top. AAAA ayouth.top. 300 IN AAAA 2606:4700:3031::ac43:db9a
+INFO[0107] dns: exchanged ayouth.top. AAAA ayouth.top. 300 IN AAAA 2606:4700:3037::6815:18a3
+INFO[0107] dns: exchanged ayouth.top A ayouth.top. 300 IN A 172.67.219.154
+INFO[0107] dns: exchanged ayouth.top A ayouth.top. 300 IN A 104.21.24.163
+INFO[0107] dns: exchanged ayouth.top. A ayouth.top. 300 IN A 172.67.219.154
+INFO[0107] dns: exchanged ayouth.top. A ayouth.top. 300 IN A 104.21.24.163
+INFO[0107] [3119338539 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:39616
+INFO[0107] [3119338539 0ms] inbound/tun[tun-in]: inbound packet connection to 172.67.219.154:443
+INFO[0107] [3119338539 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.67.219.154:443
+INFO[0107] [3119338539 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 172.67.219.154:443
+INFO[0107] [2575219051 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:52464
+INFO[0107] [2575219051 0ms] inbound/tun[tun-in]: inbound connection to 172.67.219.154:443
+INFO[0107] [2575219051 2ms] outbound/shadowsocks[proxy]: outbound connection to 172.67.219.154:443
+INFO[0108] [2292100692 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:52472
+INFO[0108] [2292100692 0ms] inbound/tun[tun-in]: inbound connection to 172.67.219.154:443
+INFO[0108] [2292100692 2ms] outbound/shadowsocks[proxy]: outbound connection to 172.67.219.154:443
+INFO[0108] [1345951750 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:39203
+INFO[0108] [1345951750 0ms] inbound/tun[tun-in]: inbound packet connection to 210.71.227.218:443
+INFO[0108] [1345951750 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.218:443
+INFO[0108] [1345951750 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.218:443
+INFO[0108] [3020375378 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54891
+INFO[0108] [3020375378 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0108] dns: exchanged www2.bing.com CNAME www2.bing.com. 28 IN CNAME www.bing.com.cdn.cloudflare.net.
+INFO[0108] dns: exchanged www2.bing.com A www.bing.com.cdn.cloudflare.net. 28 IN A 172.64.154.167
+INFO[0108] dns: exchanged www2.bing.com A www.bing.com.cdn.cloudflare.net. 28 IN A 104.18.33.89
+INFO[0108] dns: exchanged www2.bing.com. CNAME www2.bing.com. 28 IN CNAME www.bing.com.cdn.cloudflare.net.
+INFO[0108] dns: exchanged www2.bing.com. A www.bing.com.cdn.cloudflare.net. 28 IN A 172.64.154.167
+INFO[0108] dns: exchanged www2.bing.com. A www.bing.com.cdn.cloudflare.net. 28 IN A 104.18.33.89
+INFO[0108] [3031506864 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:45212
+INFO[0108] [3031506864 0ms] inbound/tun[tun-in]: inbound connection to 172.64.154.167:443
+INFO[0108] [3031506864 4ms] outbound/shadowsocks[proxy]: outbound connection to 172.64.154.167:443
+INFO[0110] [3375191099 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:34331
+INFO[0110] [3375191099 0ms] inbound/tun[tun-in]: inbound packet connection to 210.71.227.202:443
+INFO[0110] [3375191099 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.202:443
+INFO[0110] [3375191099 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.202:443
+INFO[0110] [1701200635 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:48766
+INFO[0110] [1701200635 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0110] outbound/direct[direct]: outbound packet connection to 10.10.0.21:53
+ERROR[0110] dns: exchange failed for leetcode.cn. IN AAAA: name error
+INFO[0111] [1295916927 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:38997
+INFO[0111] [1295916927 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0111] [304682783 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:39106
+INFO[0111] [304682783 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0112] dns: exchanged api.mason-registry.dev CNAME api.mason-registry.dev. 35 IN CNAME cname.vercel-dns.com.
+INFO[0112] dns: exchanged api.mason-registry.dev SOA vercel-dns.com. 35 IN SOA dns1.p07.nsone.net. hostmaster.nsone.net. 1657560353 43200 7200 1209600 3600
+INFO[0112] dns: exchanged api.mason-registry.dev CNAME api.mason-registry.dev. 600 IN CNAME cname.vercel-dns.com.
+INFO[0112] dns: exchanged api.mason-registry.dev. CNAME api.mason-registry.dev. 35 IN CNAME cname.vercel-dns.com.
+INFO[0112] dns: exchanged api.mason-registry.dev A cname.vercel-dns.com. 600 IN A 76.76.21.164
+INFO[0112] dns: exchanged api.mason-registry.dev A cname.vercel-dns.com. 600 IN A 76.76.21.22
+INFO[0112] dns: exchanged api.mason-registry.dev. CNAME api.mason-registry.dev. 600 IN CNAME cname.vercel-dns.com.
+INFO[0112] dns: exchanged api.mason-registry.dev. A cname.vercel-dns.com. 600 IN A 76.76.21.164
+INFO[0112] dns: exchanged api.mason-registry.dev. A cname.vercel-dns.com. 600 IN A 76.76.21.22
+INFO[0112] [1209118161 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50796
+INFO[0112] [1209118161 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0112] dns: exchanged cname.vercel-dns.com SOA vercel-dns.com. 58 IN SOA dns1.p07.nsone.net. hostmaster.nsone.net. 1657560353 43200 7200 1209600 3600
+INFO[0112] [1168375949 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:54750
+INFO[0112] [1168375949 0ms] inbound/tun[tun-in]: inbound connection to 76.76.21.164:443
+INFO[0112] [1168375949 7ms] outbound/shadowsocks[proxy]: outbound connection to 76.76.21.164:443
+INFO[0113] [2166871306 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:34331
+INFO[0113] [2166871306 0ms] inbound/tun[tun-in]: inbound packet connection to 210.71.227.202:443
+INFO[0113] [3162429559 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:51176
+INFO[0113] [3162429559 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0113] [2166871306 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.202:443
+INFO[0113] [2166871306 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.202:443
+INFO[0113] [3162429559 10ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0114] [3627967133 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51694
+INFO[0114] [445640184 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:46332
+INFO[0114] [3627967133 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0114] [445640184 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0114] dns: exchanged objects.githubusercontent.com A objects.githubusercontent.com. 1472 IN A 185.199.108.133
+INFO[0114] dns: exchanged objects.githubusercontent.com SOA githubusercontent.com. 1713 IN SOA dns1.p01.nsone.net. hostmaster.nsone.net. 1656467272 43200 7200 1209600 3600
+INFO[0114] dns: exchanged objects.githubusercontent.com A objects.githubusercontent.com. 1472 IN A 185.199.109.133
+INFO[0114] dns: exchanged objects.githubusercontent.com A objects.githubusercontent.com. 1472 IN A 185.199.110.133
+INFO[0114] dns: exchanged objects.githubusercontent.com A objects.githubusercontent.com. 1472 IN A 185.199.111.133
+INFO[0114] dns: exchanged objects.githubusercontent.com. A objects.githubusercontent.com. 1472 IN A 185.199.108.133
+INFO[0114] dns: exchanged objects.githubusercontent.com. A objects.githubusercontent.com. 1472 IN A 185.199.109.133
+INFO[0114] dns: exchanged objects.githubusercontent.com. A objects.githubusercontent.com. 1472 IN A 185.199.110.133
+INFO[0114] dns: exchanged objects.githubusercontent.com. A objects.githubusercontent.com. 1472 IN A 185.199.111.133
+INFO[0114] [5616424 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:44148
+INFO[0114] [5616424 0ms] inbound/tun[tun-in]: inbound connection to 185.199.108.133:443
+INFO[0114] [5616424 11ms] outbound/shadowsocks[proxy]: outbound connection to 185.199.108.133:443
+INFO[0115] [736057340 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:48766
+INFO[0115] [736057340 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0115] outbound/direct[direct]: outbound packet connection to 10.10.0.21:53
+ERROR[0115] dns: exchange failed for leetcode.cn. IN AAAA: name error
+INFO[0117] [273364748 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:51186
+INFO[0117] [273364748 0ms] inbound/tun[tun-in]: inbound connection to 20.27.177.113:443
+INFO[0117] [273364748 2ms] outbound/shadowsocks[proxy]: outbound connection to 20.27.177.113:443
+INFO[0117] [2095028797 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:34331
+INFO[0117] [2095028797 0ms] inbound/tun[tun-in]: inbound packet connection to 210.71.227.202:443
+INFO[0117] [3979410690 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:39203
+INFO[0117] [3979410690 0ms] inbound/tun[tun-in]: inbound packet connection to 210.71.227.218:443
+INFO[0117] [2095028797 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.202:443
+INFO[0117] [2095028797 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.202:443
+INFO[0117] [3979410690 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.218:443
+INFO[0117] [3979410690 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.218:443
+INFO[0118] [425005530 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:44150
+INFO[0118] [425005530 0ms] inbound/tun[tun-in]: inbound connection to 185.199.108.133:443
+INFO[0118] [425005530 2ms] outbound/shadowsocks[proxy]: outbound connection to 185.199.108.133:443
+INFO[0119] [1213022930 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:47917
+INFO[0119] [1213022930 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0119] [2406717941 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:37447
+INFO[0119] [2406717941 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0119] outbound/direct[direct]: outbound packet connection to 10.10.0.21:53
+INFO[0119] outbound/direct[direct]: outbound packet connection to 10.10.0.21:53
+INFO[0119] dns: exchanged otheve.beacon.qq.com. AAAA otheve.beacon.qq.com. 600 IN AAAA 2409:8c20:818:111::192
+INFO[0119] dns: exchanged otheve.beacon.qq.com. AAAA otheve.beacon.qq.com. 600 IN AAAA 2409:8c20:818:111::166
+INFO[0119] dns: exchanged otheve.beacon.qq.com. A otheve.beacon.qq.com. 600 IN A 39.173.121.98
+INFO[0119] dns: exchanged otheve.beacon.qq.com. A otheve.beacon.qq.com. 600 IN A 183.247.246.72
+INFO[0119] [1491773047 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53048
+INFO[0119] [1491773047 0ms] inbound/tun[tun-in]: inbound packet connection to 39.173.121.98:443
+INFO[0119] [1491773047 1ms] outbound/direct[bypass]: outbound packet connection
+INFO[0121] [1630478794 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:48766
+INFO[0121] [1630478794 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0121] outbound/direct[direct]: outbound packet connection to 10.10.0.21:53
+ERROR[0121] dns: exchange failed for leetcode.cn. IN AAAA: name error
+INFO[0122] [737359305 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:34331
+INFO[0122] [3625366829 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:39203
+INFO[0122] [3625366829 0ms] inbound/tun[tun-in]: inbound packet connection to 210.71.227.218:443
+INFO[0122] [737359305 0ms] inbound/tun[tun-in]: inbound packet connection to 210.71.227.202:443
+INFO[0122] [3625366829 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.218:443
+INFO[0122] [3625366829 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.218:443
+INFO[0122] [737359305 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.202:443
+INFO[0122] [737359305 1ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.202:443
+INFO[0126] [2441397204 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:48766
+INFO[0126] [2441397204 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0126] outbound/direct[direct]: outbound packet connection to 10.10.0.21:53
+ERROR[0126] dns: exchange failed for leetcode.cn. IN AAAA: name error
+INFO[0131] [284186794 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:48766
+INFO[0131] [284186794 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0131] outbound/direct[direct]: outbound packet connection to 10.10.0.21:53
+ERROR[0131] dns: exchange failed for leetcode.cn. IN AAAA: name error
+INFO[0131] outbound/shadowsocks[proxy]: outbound connection to cp.cloudflare.com:80
+INFO[0132] [213490346 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:34331
+INFO[0132] [213490346 0ms] inbound/tun[tun-in]: inbound packet connection to 210.71.227.202:443
+INFO[0132] [4248788610 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:39203
+INFO[0132] [4248788610 0ms] inbound/tun[tun-in]: inbound packet connection to 210.71.227.218:443
+INFO[0132] [213490346 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.202:443
+INFO[0132] [213490346 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.202:443
+INFO[0132] [4248788610 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.218:443
+INFO[0132] [4248788610 0ms] outbound/shadowsocks[proxy]: outbound packet connection to 210.71.227.218:443
+INFO[0135] outbound/shadowsocks[proxy]: outbound connection to cp.cloudflare.com:80
+INFO[0136] [1002865713 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:48766
+INFO[0136] [1002865713 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0136] outbound/direct[direct]: outbound packet connection to 10.10.0.21:53
+ERROR[0136] dns: exchange failed for leetcode.cn. IN AAAA: name error
+2024/05/06 10:42:47 [Info] sing-box closed in 8 ms
+2024/05/06 10:42:49 [Info] sing-box closed in 0 ms

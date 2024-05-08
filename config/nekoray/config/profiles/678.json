@@ -1,0 +1,25 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "185.242.86.156",
+        "method": "chacha20-ietf-poly1305",
+        "name": "🇷🇺 github.com/freefq - 俄罗斯  1",
+        "pass": "36ZCHeabUSfKjfQEvJ4HDV",
+        "port": 54170,
+        "stream": {
+            "ed_len": 0,
+            "insecure": false,
+            "mux_s": 0,
+            "net": "tcp"
+        },
+        "uot": 0
+    },
+    "gid": 3,
+    "id": 678,
+    "traffic": {
+        "dl": 0,
+        "ul": 0
+    },
+    "type": "shadowsocks",
+    "yc": 0
+}

@@ -1,0 +1,29 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "202.78.162.5",
+        "aid": 0,
+        "id": "716eded6-2201-4dbd-9d63-1638c9e8e677",
+        "name": "🇮🇳 github.com/freefq - 印度  10",
+        "port": 443,
+        "sec": "auto",
+        "stream": {
+            "ed_len": 0,
+            "host": "pendar.onthewifi.com",
+            "insecure": false,
+            "mux_s": 0,
+            "net": "ws",
+            "path": "/",
+            "sec": "tls",
+            "sni": "pendar.onthewifi.com"
+        }
+    },
+    "gid": 3,
+    "id": 258,
+    "traffic": {
+        "dl": 0,
+        "ul": 0
+    },
+    "type": "vmess",
+    "yc": -1
+}

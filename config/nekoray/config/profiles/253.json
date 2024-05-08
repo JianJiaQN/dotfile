@@ -1,0 +1,25 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "193.243.147.128",
+        "method": "aes-256-gcm",
+        "name": "🇵🇱 github.com/freefq - 波兰  5",
+        "pass": "7BcLdsO1WweoGD0X",
+        "port": 40368,
+        "stream": {
+            "ed_len": 0,
+            "insecure": false,
+            "mux_s": 0,
+            "net": "tcp"
+        },
+        "uot": 0
+    },
+    "gid": 3,
+    "id": 253,
+    "traffic": {
+        "dl": 0,
+        "ul": 0
+    },
+    "type": "shadowsocks",
+    "yc": -1
+}

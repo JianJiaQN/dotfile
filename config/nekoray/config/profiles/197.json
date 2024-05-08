@@ -1,0 +1,30 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "gov.uk",
+        "aid": 0,
+        "id": "77848824-93b7-4b89-ffd0-e91afff406ce",
+        "name": "美国测试节点",
+        "port": 443,
+        "sec": "auto",
+        "stream": {
+            "ed_len": 0,
+            "h_type": "none",
+            "host": "zheshiscp.com",
+            "insecure": false,
+            "mux_s": 0,
+            "net": "ws",
+            "path": "/77848824",
+            "sec": "tls",
+            "sni": "gov.uk"
+        }
+    },
+    "gid": 1,
+    "id": 197,
+    "traffic": {
+        "dl": 0,
+        "ul": 0
+    },
+    "type": "vmess",
+    "yc": -1
+}

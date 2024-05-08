@@ -1,0 +1,100 @@
+-- Options are automatically loaded before lazy.nvim startup
+-- Default options that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/options.lua
+-- Add any additional options here
+
+local options = {
+  -- utf-8
+  encoding = "UTF-8",
+  fileencoding = "utf-8", -- the encoding written to a file
+
+  -- hjkl 移动时光标周围保留8行
+  scrolloff = 8, -- is one of my fav
+  sidescrolloff = 8,
+
+  -- 相对行号
+  number = true, -- set numbered lines
+  relativenumber = true, -- set relative numbered lines
+  numberwidth = 4, -- set number column width to 2 {default 4}
+
+  -- 高亮所在行
+  cursorline = true, -- highlight the current line
+
+  -- 显示左侧图标指示列
+  signcolumn = "yes", -- always show the sign column, otherwise it would shift the text each time
+
+  -- 右侧参考线，超过表示代码太长了
+  -- colorcolumn = "80",
+
+  -- 缩进，tab = 两个空格
+  showtabline = 2, -- always show tabs
+  tabstop = 2, -- insert 2 spaces for a tab
+  shiftwidth = 2, -- the number of spaces inserted for each indentation
+  expandtab = true, -- convert tabs to spaces
+
+  -- 新行对齐当前行
+  autoindent = true,
+  smartindent = true, -- make indenting smarter again
+
+  -- 搜索大小写不敏感（除非包含大写）
+  ignorecase = true, -- ignore case in search patterns
+  smartcase = true, -- smart case
+
+  -- 搜索
+  hlsearch = true, -- highlight all matches on previous search pattern
+  incsearch = true,
+
+  -- 命令行
+  cmdheight = 2, -- more space in the neovim command line for displaying messages
+
+  -- 自动加载
+  autoread = true,
+
+  -- 禁止拆行
+  wrap = false, -- display lines as one long line
+
+  -- 允许隐藏被修改过的buffer
+  hidden = true,
+
+  -- 禁止创建备份文件
+  backup = false, -- creates a backup file
+  writebackup = false, -- if a file is being edited by another program (or was written to file while editing with another program), it is not allowed to be edited
+  swapfile = false, -- creates a swapfile
+
+  -- split window
+  splitbelow = true, -- force all horizontal splits to go below current window
+  splitright = true, -- force all vertical splits to go to the right of current window
+
+  -- 不可见字符的显示
+  list = true,
+  -- listchars = "space:.",
+
+  -- 补全增强
+  wildmenu = true,
+  completeopt = { "menu", "menuone", "noselect", "noinsert" }, -- mostly just for cmp
+
+  --
+  -- showmode = false,                        -- we don't need to see things like -- INSERT -- anymore
+  pumheight = 10, -- pop up menu height
+  mouse = "a", -- allow the mouse to be used in neovim
+  clipboard = "unnamedplus", -- allows neovim to access the system clipboard
+  updatetime = 300, -- faster completion (4000ms default)
+  timeoutlen = 1000, -- time to wait for a mapped sequence to complete (in milliseconds)
+
+  background = "dark",
+  conceallevel = 0, -- so that `` is visible in markdown files
+  termguicolors = true, -- set term gui colors (most terminals support this)
+  undofile = true, -- enable persistent undo
+  -- guifont = "monospace:h17",               -- the font used in graphical neovim applications
+}
+
+vim.opt.shortmess:append("c")
+
+for k, v in pairs(options) do
+  vim.opt[k] = v
+end
+
+-- 光标在行首/尾时，可以跳到下一行
+vim.cmd("set whichwrap+=<,>,[,],h,l")
+
+-- vim.cmd [[set iskeyword+=-]]
+-- vim.cmd [[set formatoptions-=cro]] -- TODO: this doesn't seem to work

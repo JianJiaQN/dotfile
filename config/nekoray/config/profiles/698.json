@@ -1,0 +1,26 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "724c889.t2.gladns.com",
+        "method": "chacha20-ietf-poly1305",
+        "name": "GLaDOS-TW-02",
+        "pass": "t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv",
+        "plugin": "obfs-local;obfs=tls;obfs-host=724c889.dl.nintendo.jp:28494",
+        "port": 2377,
+        "stream": {
+            "ed_len": 0,
+            "insecure": false,
+            "mux_s": 0,
+            "net": "tcp"
+        },
+        "uot": 0
+    },
+    "gid": 4,
+    "id": 698,
+    "traffic": {
+        "dl": 32824999,
+        "ul": 1187357
+    },
+    "type": "shadowsocks",
+    "yc": 476
+}

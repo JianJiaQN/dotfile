@@ -1,0 +1,26 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "724c889.f1.gladns.com",
+        "method": "chacha20-ietf-poly1305",
+        "name": "GLaDOS-S1-01",
+        "pass": "t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv",
+        "plugin": "obfs-local;obfs=tls;obfs-host=724c889.dl.microsoft.ge.net:28494",
+        "port": 2377,
+        "stream": {
+            "ed_len": 0,
+            "insecure": false,
+            "mux_s": 0,
+            "net": "tcp"
+        },
+        "uot": 0
+    },
+    "gid": 4,
+    "id": 715,
+    "traffic": {
+        "dl": 0,
+        "ul": 0
+    },
+    "type": "shadowsocks",
+    "yc": 756
+}

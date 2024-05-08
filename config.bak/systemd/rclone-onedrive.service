@@ -1,0 +1,10 @@
+[Unit]
+Description=Mount OneDrive directory using rclone
+After=network-online.target
+   
+[Service]
+Type=simple
+ExecStart=/usr/bin/rclone mount onedrive:/ /home/jianjia/mnt/onedrive --cache-dir /home/jianjia/.cache/rclone  --vfs-cache-mode writes --allow-non-empty
+   
+[Install]
+WantedBy=default.target

@@ -1,0 +1,27 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "data-us-v1.shwjfkw.cn",
+        "aid": 0,
+        "id": "b1478e24-4916-3abe-8f17-15931012ecbe",
+        "name": "🇨🇳 github.com/freefq - 广东省移动 7",
+        "port": 20401,
+        "sec": "auto",
+        "stream": {
+            "ed_len": 0,
+            "host": "data-us-v1.shwjfkw.cn",
+            "insecure": false,
+            "mux_s": 0,
+            "net": "ws",
+            "path": "/debian"
+        }
+    },
+    "gid": 3,
+    "id": 255,
+    "traffic": {
+        "dl": 0,
+        "ul": 0
+    },
+    "type": "vmess",
+    "yc": 2555
+}

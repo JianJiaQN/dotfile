@@ -1,0 +1,29 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "202.78.162.5",
+        "aid": 0,
+        "id": "2ff97c6d-8557-42a4-b43f-19c77c5959ea",
+        "name": "🇮🇳 github.com/freefq - 印度  2",
+        "port": 443,
+        "sec": "auto",
+        "stream": {
+            "ed_len": 0,
+            "host": "irsoft.sytes.net",
+            "insecure": false,
+            "mux_s": 0,
+            "net": "ws",
+            "path": "/",
+            "sec": "tls",
+            "sni": "irsoft.sytes.net"
+        }
+    },
+    "gid": 3,
+    "id": 250,
+    "traffic": {
+        "dl": 0,
+        "ul": 0
+    },
+    "type": "vmess",
+    "yc": -1
+}

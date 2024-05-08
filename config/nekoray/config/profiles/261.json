@@ -1,0 +1,28 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "gov.uk",
+        "aid": 0,
+        "id": "77848824-93b7-4b89-ffd0-e91afff406ce",
+        "name": "🇺🇸 github.com/freefq - 美国Fastly全球Anycast节点 13",
+        "port": 443,
+        "sec": "auto",
+        "stream": {
+            "ed_len": 0,
+            "host": "zheshiscp.com",
+            "insecure": false,
+            "mux_s": 0,
+            "net": "ws",
+            "path": "/77848824",
+            "sec": "tls"
+        }
+    },
+    "gid": 3,
+    "id": 261,
+    "traffic": {
+        "dl": 0,
+        "ul": 0
+    },
+    "type": "vmess",
+    "yc": -1
+}

@@ -1,0 +1,27 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "server31.beheshtbaneh.com",
+        "aid": 0,
+        "id": "4154143c-bbba-47a4-9f79-c2ed087cbcc9",
+        "name": "🇺🇸 github.com/freefq - 美国CloudFlare公司CDN节点 6",
+        "port": 8880,
+        "sec": "auto",
+        "stream": {
+            "ed_len": 0,
+            "host": "server31.beheshtbaneh.com",
+            "insecure": false,
+            "mux_s": 0,
+            "net": "ws",
+            "path": "/"
+        }
+    },
+    "gid": 3,
+    "id": 254,
+    "traffic": {
+        "dl": 0,
+        "ul": 0
+    },
+    "type": "vmess",
+    "yc": -1
+}
