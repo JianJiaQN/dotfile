@@ -1,300 +1,4 @@
-s] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52146
-INFO[5975] [1742907687 0ms] inbound/mixed[mixed-in]: inbound connection to www.youtube.com:443
-INFO[5975] [1742907687 2ms] outbound/shadowsocks[proxy]: outbound connection to www.youtube.com:443
-INFO[5978] [282824873 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52154
-INFO[5978] [282824873 0ms] inbound/mixed[mixed-in]: inbound connection to report.idqqimg.com:443
-INFO[5978] [282824873 6ms] outbound/direct[bypass]: outbound connection to report.idqqimg.com:443
-INFO[5980] [345698440 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52166
-INFO[5980] [345698440 0ms] inbound/mixed[mixed-in]: inbound connection to fonts.gstatic.com:443
-INFO[5980] [345698440 0ms] outbound/shadowsocks[proxy]: outbound connection to fonts.gstatic.com:443
-INFO[5980] [1857619393 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52180
-INFO[5980] [1857619393 0ms] inbound/mixed[mixed-in]: inbound connection to jnn-pa.googleapis.com:443
-INFO[5980] [1857619393 2ms] outbound/shadowsocks[proxy]: outbound connection to jnn-pa.googleapis.com:443
-INFO[5982] [2017247216 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52194
-INFO[5982] [2017247216 0ms] inbound/mixed[mixed-in]: inbound connection to docsavatar.gtimg.com:443
-INFO[5982] [2017247216 6ms] outbound/direct[bypass]: outbound connection to docsavatar.gtimg.com:443
-INFO[5982] [2485922452 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:52206
-INFO[5982] [2485922452 0ms] inbound/mixed[mixed-in]: inbound connection to ocsp.digicert.cn:80
-INFO[5982] [2485922452 0ms] outbound/direct[bypass]: outbound connection to ocsp.digicert.cn:80
-INFO[5982] outbound/shadowsocks[proxy]: outbound connection to cp.cloudflare.com:80
-INFO[5984] outbound/shadowsocks[proxy]: outbound connection to cp.cloudflare.com:80
-INFO[5985] [3824474749 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:37232
-INFO[5985] [3824474749 0ms] inbound/mixed[mixed-in]: inbound connection to incoming.telemetry.mozilla.org:443
-INFO[5985] [3824474749 1ms] outbound/shadowsocks[proxy]: outbound connection to incoming.telemetry.mozilla.org:443
-INFO[5986] outbound/shadowsocks[proxy]: outbound connection to cp.cloudflare.com:80
-INFO[5995] [2575343758 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:53072
-INFO[5995] [2575343758 0ms] inbound/mixed[mixed-in]: inbound connection to incoming.telemetry.mozilla.org:443
-INFO[5995] [2575343758 2ms] outbound/shadowsocks[proxy]: outbound connection to incoming.telemetry.mozilla.org:443
-INFO[6005] [4074707810 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:38980
-INFO[6005] [4074707810 0ms] inbound/mixed[mixed-in]: inbound connection to incoming.telemetry.mozilla.org:443
-INFO[6005] [4074707810 2ms] outbound/shadowsocks[proxy]: outbound connection to incoming.telemetry.mozilla.org:443
-INFO[6032] [69635106 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:54656
-INFO[6032] [69635106 0ms] inbound/mixed[mixed-in]: inbound connection to dl.acm.org:443
-INFO[6032] [69635106 3ms] outbound/shadowsocks[proxy]: outbound connection to dl.acm.org:443
-INFO[6035] [2998340160 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:59964
-INFO[6035] [2998340160 0ms] inbound/mixed[mixed-in]: inbound connection to scholar.google.com:443
-INFO[6035] [2998340160 3ms] outbound/shadowsocks[proxy]: outbound connection to scholar.google.com:443
-INFO[6035] [3648967394 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:59970
-INFO[6035] [3648967394 0ms] inbound/mixed[mixed-in]: inbound connection to consentcdn.cookiebot.com:443
-INFO[6035] [3310094993 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:59976
-INFO[6035] [3310094993 0ms] inbound/mixed[mixed-in]: inbound connection to imgsct.cookiebot.com:443
-INFO[6035] [3648967394 2ms] outbound/shadowsocks[proxy]: outbound connection to consentcdn.cookiebot.com:443
-INFO[6035] [3310094993 2ms] outbound/shadowsocks[proxy]: outbound connection to imgsct.cookiebot.com:443
-INFO[6035] [3663422576 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:59978
-INFO[6035] [3663422576 0ms] inbound/mixed[mixed-in]: inbound connection to consentcdn.cookiebot.com:443
-INFO[6035] [3663422576 4ms] outbound/shadowsocks[proxy]: outbound connection to consentcdn.cookiebot.com:443
-INFO[6036] [4244294296 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:59980
-INFO[6036] [3562977554 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:59994
-INFO[6036] [3562977554 0ms] inbound/mixed[mixed-in]: inbound connection to static.addtoany.com:443
-INFO[6036] [3562977554 0ms] outbound/shadowsocks[proxy]: outbound connection to static.addtoany.com:443
-INFO[6036] [3392786367 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60010
-INFO[6036] [3392786367 0ms] inbound/mixed[mixed-in]: inbound connection to static.addtoany.com:443
-INFO[6036] [274829390 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60026
-INFO[6036] [3392786367 3ms] outbound/shadowsocks[proxy]: outbound connection to static.addtoany.com:443
-INFO[6036] [274829390 1ms] inbound/mixed[mixed-in]: inbound connection to static.addtoany.com:443
-INFO[6036] [274829390 1ms] outbound/shadowsocks[proxy]: outbound connection to static.addtoany.com:443
-INFO[6036] [3111589435 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60030
-INFO[6037] [3803284360 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60046
-INFO[6037] [3803284360 0ms] inbound/mixed[mixed-in]: inbound connection to consent.cookiebot.com:443
-INFO[6037] [3803284360 2ms] outbound/shadowsocks[proxy]: outbound connection to consent.cookiebot.com:443
-INFO[6056] [2748679245 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58036
-INFO[6056] [1961371374 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58046
-INFO[6056] [1481358878 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58056
-INFO[6083] [3410433716 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:60428
-INFO[6083] [3410433716 0ms] inbound/mixed[mixed-in]: inbound connection to doi.org:443
-INFO[6083] [3410433716 1ms] outbound/shadowsocks[proxy]: outbound connection to doi.org:443
-INFO[6089] [692988480 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:59152
-INFO[6089] [692988480 0ms] inbound/mixed[mixed-in]: inbound connection to transmart.qq.com:443
-INFO[6089] [692988480 1ms] outbound/direct[bypass]: outbound connection to transmart.qq.com:443
-INFO[6162] [891507218 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58846
-INFO[6162] [891507218 0ms] inbound/mixed[mixed-in]: inbound connection to services.addons.mozilla.org:443
-INFO[6162] [891507218 2ms] outbound/shadowsocks[proxy]: outbound connection to services.addons.mozilla.org:443
-INFO[6162] [1734528398 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58848
-INFO[6162] [1734528398 0ms] inbound/mixed[mixed-in]: inbound connection to addons.mozilla.org:443
-INFO[6162] [1734528398 2ms] outbound/shadowsocks[proxy]: outbound connection to addons.mozilla.org:443
-INFO[6162] [689936873 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58860
-INFO[6162] [689936873 0ms] inbound/mixed[mixed-in]: inbound connection to addons.mozilla.org:443
-INFO[6162] [689936873 2ms] outbound/shadowsocks[proxy]: outbound connection to addons.mozilla.org:443
-INFO[6162] [709612858 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58872
-INFO[6162] [709612858 0ms] inbound/mixed[mixed-in]: inbound connection to addons.mozilla.org:443
-INFO[6162] [709612858 1ms] outbound/shadowsocks[proxy]: outbound connection to addons.mozilla.org:443
-INFO[6162] [3004477859 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58886
-INFO[6162] [3004477859 0ms] inbound/mixed[mixed-in]: inbound connection to addons.mozilla.org:443
-INFO[6162] [3004477859 2ms] outbound/shadowsocks[proxy]: outbound connection to addons.mozilla.org:443
-INFO[6162] [2408339378 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58900
-INFO[6162] [2408339378 0ms] inbound/mixed[mixed-in]: inbound connection to addons.mozilla.org:443
-INFO[6162] [2408339378 2ms] outbound/shadowsocks[proxy]: outbound connection to addons.mozilla.org:443
-INFO[6162] [2066027695 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58904
-INFO[6162] [2066027695 0ms] inbound/mixed[mixed-in]: inbound connection to addons.mozilla.org:443
-INFO[6162] [2066027695 1ms] outbound/shadowsocks[proxy]: outbound connection to addons.mozilla.org:443
-INFO[6162] [1894832694 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58920
-INFO[6162] [1894832694 0ms] inbound/mixed[mixed-in]: inbound connection to addons.mozilla.org:443
-INFO[6162] [1894832694 1ms] outbound/shadowsocks[proxy]: outbound connection to addons.mozilla.org:443
-INFO[6162] [2278663297 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58934
-INFO[6162] [2278663297 0ms] inbound/mixed[mixed-in]: inbound connection to addons.mozilla.org:443
-INFO[6162] [2278663297 1ms] outbound/shadowsocks[proxy]: outbound connection to addons.mozilla.org:443
-INFO[6162] [2461168507 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58942
-INFO[6162] [2461168507 0ms] inbound/mixed[mixed-in]: inbound connection to addons.mozilla.org:443
-INFO[6162] [2461168507 1ms] outbound/shadowsocks[proxy]: outbound connection to addons.mozilla.org:443
-INFO[6162] [3030175225 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58956
-INFO[6162] [3030175225 0ms] inbound/mixed[mixed-in]: inbound connection to addons.mozilla.org:443
-INFO[6162] [3030175225 2ms] outbound/shadowsocks[proxy]: outbound connection to addons.mozilla.org:443
-INFO[6162] [1843923780 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58970
-INFO[6162] [1843923780 0ms] inbound/mixed[mixed-in]: inbound connection to addons.mozilla.org:443
-INFO[6162] [1843923780 2ms] outbound/shadowsocks[proxy]: outbound connection to addons.mozilla.org:443
-INFO[6162] [1867035529 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58972
-INFO[6162] [1867035529 0ms] inbound/mixed[mixed-in]: inbound connection to addons.mozilla.org:443
-INFO[6162] [1867035529 2ms] outbound/shadowsocks[proxy]: outbound connection to addons.mozilla.org:443
-INFO[6162] [1414852759 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58974
-INFO[6162] [1414852759 0ms] inbound/mixed[mixed-in]: inbound connection to addons.mozilla.org:443
-INFO[6162] [1414852759 1ms] outbound/shadowsocks[proxy]: outbound connection to addons.mozilla.org:443
-INFO[6162] [3132261851 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58986
-INFO[6162] [3132261851 0ms] inbound/mixed[mixed-in]: inbound connection to addons.mozilla.org:443
-INFO[6162] [3187316344 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:59000
-INFO[6162] [3132261851 2ms] outbound/shadowsocks[proxy]: outbound connection to addons.mozilla.org:443
-INFO[6162] [3187316344 0ms] inbound/mixed[mixed-in]: inbound connection to addons.mozilla.org:443
-INFO[6162] [3417391935 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:59010
-INFO[6162] [2103065011 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:59012
-INFO[6162] [3187316344 2ms] outbound/shadowsocks[proxy]: outbound connection to addons.mozilla.org:443
-INFO[6162] [3495345573 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:59014
-INFO[6162] [2103065011 0ms] inbound/mixed[mixed-in]: inbound connection to addons.mozilla.org:443
-INFO[6162] [3495345573 0ms] inbound/mixed[mixed-in]: inbound connection to addons.mozilla.org:443
-INFO[6162] [1563400351 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:59026
-INFO[6162] [3417391935 0ms] inbound/mixed[mixed-in]: inbound connection to addons.mozilla.org:443
-INFO[6162] [1563400351 0ms] inbound/mixed[mixed-in]: inbound connection to addons.mozilla.org:443
-INFO[6162] [3495345573 2ms] outbound/shadowsocks[proxy]: outbound connection to addons.mozilla.org:443
-INFO[6162] [2103065011 4ms] outbound/shadowsocks[proxy]: outbound connection to addons.mozilla.org:443
-INFO[6162] [3417391935 6ms] outbound/shadowsocks[proxy]: outbound connection to addons.mozilla.org:443
-INFO[6162] [1563400351 7ms] outbound/shadowsocks[proxy]: outbound connection to addons.mozilla.org:443
-INFO[6186] [2654233461 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56444
-INFO[6186] [2654233461 0ms] inbound/mixed[mixed-in]: inbound connection to firefox.settings.services.mozilla.com:443
-INFO[6186] [2654233461 4ms] outbound/shadowsocks[proxy]: outbound connection to firefox.settings.services.mozilla.com:443
-INFO[6198] [3587986449 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:43742
-INFO[6198] [3587986449 0ms] inbound/mixed[mixed-in]: inbound connection to report.idqqimg.com:443
-INFO[6198] [3587986449 3ms] outbound/direct[bypass]: outbound connection to report.idqqimg.com:443
-INFO[6200] [3935798757 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:43746
-INFO[6200] [3935798757 0ms] inbound/mixed[mixed-in]: inbound connection to cn.bing.com:443
-INFO[6200] [3935798757 1ms] outbound/shadowsocks[proxy]: outbound connection to cn.bing.com:443
-INFO[6204] [3369534317 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:43748
-INFO[6204] [3369534317 0ms] inbound/mixed[mixed-in]: inbound connection to dict.cnki.net:443
-INFO[6204] [3369534317 2ms] outbound/direct[bypass]: outbound connection to dict.cnki.net:443
-INFO[6204] [1914343987 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:43754
-INFO[6204] [1914343987 0ms] inbound/mixed[mixed-in]: inbound connection to dict.cnki.net:443
-INFO[6204] [1914343987 3ms] outbound/direct[bypass]: outbound connection to dict.cnki.net:443
-INFO[6208] [717372082 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:53754
-INFO[6208] [717372082 0ms] inbound/mixed[mixed-in]: inbound connection to www.zotero.org:443
-INFO[6208] [717372082 1ms] outbound/shadowsocks[proxy]: outbound connection to www.zotero.org:443
-INFO[6209] [2158307247 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:53764
-INFO[6209] [2158307247 0ms] inbound/mixed[mixed-in]: inbound connection to ocsp.r2m01.amazontrust.com:80
-INFO[6209] [2158307247 1ms] outbound/shadowsocks[proxy]: outbound connection to ocsp.r2m01.amazontrust.com:80
-INFO[6216] [259278943 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:57902
-INFO[6216] [259278943 0ms] inbound/mixed[mixed-in]: inbound connection to download.zotero.org:443
-INFO[6216] [259278943 5ms] outbound/shadowsocks[proxy]: outbound connection to download.zotero.org:443
-INFO[6223] [2176795694 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:57910
-INFO[6223] [2176795694 0ms] inbound/mixed[mixed-in]: [] inbound connection to 104.18.32.115:443
-INFO[6223] [2176795694 2ms] outbound/shadowsocks[proxy]: outbound connection to 104.18.32.115:443
-INFO[6223] [401762735 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:57916
-INFO[6223] [401762735 0ms] inbound/mixed[mixed-in]: [] inbound connection to 104.18.32.115:443
-INFO[6223] [401762735 7ms] outbound/shadowsocks[proxy]: outbound connection to 104.18.32.115:443
-INFO[6223] [4182592451 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:57932
-INFO[6223] [4182592451 0ms] inbound/mixed[mixed-in]: [] inbound connection to 172.64.155.141:443
-INFO[6224] [4182592451 7ms] outbound/shadowsocks[proxy]: outbound connection to 172.64.155.141:443
-INFO[6224] [2239294554 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:57936
-INFO[6224] [2239294554 0ms] inbound/mixed[mixed-in]: [] inbound connection to 172.64.155.141:443
-INFO[6224] [2239294554 6ms] outbound/shadowsocks[proxy]: outbound connection to 172.64.155.141:443
-INFO[6224] [1766751468 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:57946
-INFO[6224] [1766751468 0ms] inbound/mixed[mixed-in]: inbound connection to stream.zotero.org:443
-INFO[6224] [1766751468 3ms] outbound/shadowsocks[proxy]: outbound connection to stream.zotero.org:443
-INFO[6226] [3726865798 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:39942
-INFO[6226] [3726865798 0ms] inbound/mixed[mixed-in]: [] inbound connection to 104.18.32.115:443
-INFO[6226] [3726865798 2ms] outbound/shadowsocks[proxy]: outbound connection to 104.18.32.115:443
-INFO[6226] [2841013310 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:39946
-INFO[6226] [2841013310 0ms] inbound/mixed[mixed-in]: [] inbound connection to 104.18.32.115:443
-INFO[6226] [2841013310 2ms] outbound/shadowsocks[proxy]: outbound connection to 104.18.32.115:443
-INFO[6227] [4115675856 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:39956
-INFO[6227] [4115675856 0ms] inbound/mixed[mixed-in]: [] inbound connection to 34.107.243.93:443
-INFO[6227] [4115675856 2ms] outbound/shadowsocks[proxy]: outbound connection to 34.107.243.93:443
-INFO[6228] [450499743 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:39968
-INFO[6228] [450499743 0ms] inbound/mixed[mixed-in]: [] inbound connection to 34.107.243.93:443
-INFO[6228] [450499743 2ms] outbound/shadowsocks[proxy]: outbound connection to 34.107.243.93:443
-INFO[6242] [3157682637 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:33816
-INFO[6242] [3157682637 0ms] inbound/mixed[mixed-in]: inbound connection to stream.zotero.org:443
-INFO[6242] [3157682637 1ms] outbound/shadowsocks[proxy]: outbound connection to stream.zotero.org:443
-INFO[6252] [238546013 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:45346
-INFO[6252] [238546013 0ms] inbound/mixed[mixed-in]: inbound connection to services.addons.mozilla.org:443
-INFO[6252] [238546013 0ms] outbound/shadowsocks[proxy]: outbound connection to services.addons.mozilla.org:443
-INFO[6258] [134123151 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:44618
-INFO[6258] [134123151 0ms] inbound/mixed[mixed-in]: inbound connection to incoming.telemetry.mozilla.org:443
-INFO[6258] [134123151 0ms] outbound/shadowsocks[proxy]: outbound connection to incoming.telemetry.mozilla.org:443
-INFO[6263] [457342530 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:44628
-INFO[6263] [457342530 0ms] inbound/mixed[mixed-in]: inbound connection to stream.zotero.org:443
-INFO[6263] [457342530 3ms] outbound/shadowsocks[proxy]: outbound connection to stream.zotero.org:443
-INFO[6277] [3696076090 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56126
-INFO[6277] [3696076090 0ms] inbound/mixed[mixed-in]: inbound connection to consoles.zju.edu.cn:443
-INFO[6277] [3696076090 5ms] outbound/direct[bypass]: outbound connection to consoles.zju.edu.cn:443
-INFO[6279] [4195854484 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56132
-INFO[6279] [4195854484 0ms] inbound/mixed[mixed-in]: inbound connection to courses.zju.edu.cn:443
-INFO[6279] [4195854484 1ms] outbound/direct[bypass]: outbound connection to courses.zju.edu.cn:443
-INFO[6285] [3070745251 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:46246
-INFO[6285] [3070745251 0ms] inbound/mixed[mixed-in]: inbound connection to dl.acm.org:443
-INFO[6285] [3070745251 3ms] outbound/shadowsocks[proxy]: outbound connection to dl.acm.org:443
-INFO[6287] [1334845613 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:46254
-INFO[6287] [1334845613 0ms] inbound/mixed[mixed-in]: inbound connection to dl.acm.org:443
-INFO[6287] [1334845613 2ms] outbound/shadowsocks[proxy]: outbound connection to dl.acm.org:443
-INFO[6289] [3853497202 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:46268
-INFO[6289] [3853497202 0ms] inbound/mixed[mixed-in]: inbound connection to ab.chatgpt.com:443
-INFO[6289] [3853497202 7ms] outbound/shadowsocks[proxy]: outbound connection to ab.chatgpt.com:443
-INFO[6291] [4042774129 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:46284
-INFO[6291] [4042774129 0ms] inbound/mixed[mixed-in]: inbound connection to stream.zotero.org:443
-INFO[6291] [4042774129 3ms] outbound/shadowsocks[proxy]: outbound connection to stream.zotero.org:443
-INFO[6306] [247558119 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:37702
-INFO[6306] [247558119 0ms] inbound/mixed[mixed-in]: inbound connection to transmart.qq.com:443
-INFO[6306] [247558119 2ms] outbound/direct[bypass]: outbound connection to transmart.qq.com:443
-INFO[6333] [3066213267 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:54142
-INFO[6335] [948604095 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:54150
-INFO[6335] [948604095 0ms] inbound/mixed[mixed-in]: inbound connection to scholar.google.com:443
-INFO[6335] [948604095 2ms] outbound/shadowsocks[proxy]: outbound connection to scholar.google.com:443
-INFO[6355] [2484917124 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:36302
-INFO[6355] [2484917124 0ms] inbound/mixed[mixed-in]: inbound connection to courses.zju.edu.cn:443
-INFO[6355] [2484917124 1ms] outbound/direct[bypass]: outbound connection to courses.zju.edu.cn:443
-INFO[6355] [2406354633 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:36312
-INFO[6355] [2406354633 0ms] inbound/mixed[mixed-in]: inbound connection to courses.zju.edu.cn:443
-INFO[6355] [2406354633 1ms] outbound/direct[bypass]: outbound connection to courses.zju.edu.cn:443
-INFO[6366] [1377781341 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58566
-INFO[6366] [1377781341 0ms] inbound/mixed[mixed-in]: inbound connection to static.addtoany.com:443
-INFO[6366] [1377781341 0ms] outbound/shadowsocks[proxy]: outbound connection to static.addtoany.com:443
-INFO[6367] [1683947459 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58570
-INFO[6367] [1683947459 0ms] inbound/mixed[mixed-in]: inbound connection to contile.services.mozilla.com:443
-INFO[6367] [1683947459 2ms] outbound/shadowsocks[proxy]: outbound connection to contile.services.mozilla.com:443
-INFO[6397] [3167901215 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:39538
-INFO[6397] [3167901215 0ms] inbound/mixed[mixed-in]: inbound connection to doi.org:443
-INFO[6397] [3167901215 4ms] outbound/shadowsocks[proxy]: outbound connection to doi.org:443
-INFO[6403] [3231473336 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:39544
-INFO[6403] [3231473336 0ms] inbound/mixed[mixed-in]: inbound connection to static.addtoany.com:443
-INFO[6403] [3231473336 4ms] outbound/shadowsocks[proxy]: outbound connection to static.addtoany.com:443
-INFO[6403] [2574168178 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:39548
-INFO[6464] [3096638646 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:45810
-INFO[6464] [3096638646 0ms] inbound/mixed[mixed-in]: inbound connection to report.idqqimg.com:443
-INFO[6464] [3096638646 2ms] outbound/direct[bypass]: outbound connection to report.idqqimg.com:443
-INFO[6497] [582160685 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:54802
-INFO[6497] [582160685 0ms] inbound/mixed[mixed-in]: inbound connection to incoming.telemetry.mozilla.org:443
-INFO[6497] [582160685 1ms] outbound/shadowsocks[proxy]: outbound connection to incoming.telemetry.mozilla.org:443
-INFO[6500] [3746707262 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:54804
-INFO[6500] [421838656 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:54820
-INFO[6500] [3746707262 33ms] inbound/mixed[mixed-in]: inbound connection to profile.accounts.firefox.com:443
-INFO[6500] [421838656 27ms] inbound/mixed[mixed-in]: inbound connection to token.services.mozilla.com:443
-INFO[6500] [3746707262 38ms] outbound/shadowsocks[proxy]: outbound connection to profile.accounts.firefox.com:443
-INFO[6500] [421838656 38ms] outbound/shadowsocks[proxy]: outbound connection to token.services.mozilla.com:443
-INFO[6501] [1903162369 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:54834
-INFO[6501] [1903162369 0ms] inbound/mixed[mixed-in]: inbound connection to sync-1-us-west1-g.sync.services.mozilla.com:443
-INFO[6501] [1903162369 2ms] outbound/shadowsocks[proxy]: outbound connection to sync-1-us-west1-g.sync.services.mozilla.com:443
-INFO[6507] [631867019 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58648
-INFO[6507] [631867019 0ms] inbound/mixed[mixed-in]: inbound connection to incoming.telemetry.mozilla.org:443
-INFO[6507] [631867019 6ms] outbound/shadowsocks[proxy]: outbound connection to incoming.telemetry.mozilla.org:443
-INFO[6508] [1576468986 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58664
-INFO[6508] [1576468986 0ms] inbound/mixed[mixed-in]: inbound connection to dl.acm.org:443
-INFO[6508] [1576468986 3ms] outbound/shadowsocks[proxy]: outbound connection to dl.acm.org:443
-INFO[6508] [631553205 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58670
-INFO[6508] [672059043 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58676
-INFO[6508] [672059043 0ms] inbound/mixed[mixed-in]: inbound connection to dl.acm.org:443
-INFO[6508] [631553205 0ms] inbound/mixed[mixed-in]: inbound connection to dl.acm.org:443
-INFO[6508] [672059043 2ms] outbound/shadowsocks[proxy]: outbound connection to dl.acm.org:443
-INFO[6508] [631553205 4ms] outbound/shadowsocks[proxy]: outbound connection to dl.acm.org:443
-INFO[6508] [4246093718 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58682
-INFO[6508] [4246093718 0ms] inbound/mixed[mixed-in]: inbound connection to dl.acm.org:443
-INFO[6508] [4246093718 2ms] outbound/shadowsocks[proxy]: outbound connection to dl.acm.org:443
-INFO[6508] [2548497142 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:58692
-INFO[6508] [2548497142 0ms] inbound/mixed[mixed-in]: inbound connection to dl.acm.org:443
-INFO[6508] [2548497142 2ms] outbound/shadowsocks[proxy]: outbound connection to dl.acm.org:443
-INFO[6517] [2769164255 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56430
-INFO[6517] [2769164255 0ms] inbound/mixed[mixed-in]: inbound connection to incoming.telemetry.mozilla.org:443
-INFO[6517] [2769164255 1ms] outbound/shadowsocks[proxy]: outbound connection to incoming.telemetry.mozilla.org:443
-INFO[6521] [157076056 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:56436
-INFO[6521] [157076056 0ms] inbound/mixed[mixed-in]: inbound connection to ab.chatgpt.com:443
-INFO[6521] [157076056 4ms] outbound/shadowsocks[proxy]: outbound connection to ab.chatgpt.com:443
-INFO[6543] [2961841822 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:54968
-INFO[6543] [2961841822 0ms] inbound/mixed[mixed-in]: inbound connection to ublockorigin.pages.dev:443
-INFO[6543] [2961841822 5ms] outbound/shadowsocks[proxy]: outbound connection to ublockorigin.pages.dev:443
-INFO[6546] [3403290961 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:36318
-INFO[6546] [3403290961 0ms] inbound/mixed[mixed-in]: inbound connection to malware-filter.gitlab.io:443
-INFO[6546] [3403290961 1ms] outbound/shadowsocks[proxy]: outbound connection to malware-filter.gitlab.io:443
-INFO[6548] [1151623548 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:36330
-INFO[6548] [1151623548 0ms] inbound/mixed[mixed-in]: inbound connection to ocsp.globalsign.com:80
-INFO[6548] [1151623548 0ms] outbound/shadowsocks[proxy]: outbound connection to ocsp.globalsign.com:80
-INFO[6575] [1876878263 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47148
-INFO[6575] [1876878263 0ms] inbound/mixed[mixed-in]: inbound connection to incoming.telemetry.mozilla.org:443
-INFO[6575] [1876878263 3ms] outbound/shadowsocks[proxy]: outbound connection to incoming.telemetry.mozilla.org:443
-INFO[6576] [1501237595 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47160
-INFO[6576] [1501237595 0ms] inbound/mixed[mixed-in]: inbound connection to malware-filter.pages.dev:443
-INFO[6576] [1501237595 4ms] outbound/shadowsocks[proxy]: outbound connection to malware-filter.pages.dev:443
-INFO[6580] [395277937 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47174
-INFO[6580] [395277937 0ms] inbound/mixed[mixed-in]: inbound connection to detectportal.firefox.com:80
-INFO[6580] [395277937 0ms] outbound/shadowsocks[proxy]: outbound connection to detectportal.firefox.com:80
-INFO[6580] [2401105770 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47186
-INFO[6580] [2401105770 0ms] inbound/mixed[mixed-in]: inbound connection to detectportal.firefox.com:80
-INFO[6580] [2401105770 0ms] outbound/shadowsocks[proxy]: outbound connection to detectportal.firefox.com:80
-INFO[6580] [2334199476 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47190
-INFO[6580] [2334199476 0ms] inbound/mixed[mixed-in]: inbound connection to detectportal.firefox.com:80
+ 0ms] inbound/mixed[mixed-in]: inbound connection to detectportal.firefox.com:80
 INFO[6580] [2334199476 0ms] outbound/shadowsocks[proxy]: outbound connection to detectportal.firefox.com:80
 INFO[6582] [232732544 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:47200
 INFO[6582] [232732544 0ms] inbound/mixed[mixed-in]: inbound connection to detectportal.firefox.com:80
@@ -813,3 +517,89 @@ INFO[2450] [119132111 0ms] inbound/mixed[mixed-in]: inbound connection to uat-i0
 INFO[2450] [119132111 2ms] outbound/direct[bypass]: outbound connection to uat-i0.hdslb.com:443
 ERROR[2450] [119132111 9ms] inbound/mixed[mixed-in]: process connection from 127.0.0.1:40840: name error
 2024/05/10 12:59:20 [Info] sing-box closed in 0 ms
+2024/05/10 15:06:02 nekobox_core grpc server listening at 127.0.0.1:34099
+2024/05/10 15:06:48 [Info] sing-box closed in 0 ms
+INFO[0000] [552928752 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:56126
+INFO[0000] [552928752 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0000] [202398333 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:45656
+INFO[0000] [202398333 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0000] [2534097413 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:38523
+INFO[0000] [2534097413 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0000] outbound/shadowsocks[proxy]: outbound connection to 8.8.8.8:443
+INFO[0000] [2487187458 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:37312
+INFO[0000] outbound/shadowsocks[proxy]: outbound connection to 8.8.8.8:443
+INFO[0000] [2487187458 0ms] inbound/tun[tun-in]: inbound connection to 95.216.195.133:80
+INFO[0000] outbound/shadowsocks[proxy]: outbound connection to 8.8.8.8:443
+INFO[0000] [2487187458 0ms] outbound/shadowsocks[proxy]: outbound connection to 95.216.195.133:80
+INFO[0000] [3701785204 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:37326
+INFO[0000] [3701785204 0ms] inbound/tun[tun-in]: inbound connection to 95.216.195.133:80
+INFO[0000] [3701785204 0ms] outbound/shadowsocks[proxy]: outbound connection to 95.216.195.133:80
+INFO[0000] [943895452 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:37336
+INFO[0000] [943895452 0ms] inbound/tun[tun-in]: inbound connection to 95.216.195.133:80
+INFO[0000] [943895452 0ms] outbound/shadowsocks[proxy]: outbound connection to 95.216.195.133:80
+INFO[0000] dns: exchanged ping.archlinux.org CNAME ping.archlinux.org. 624 IN CNAME redirect.archlinux.org.
+INFO[0000] dns: exchanged ping.archlinux.org AAAA redirect.archlinux.org. 624 IN AAAA 2a01:4f9:c010:2636::1
+INFO[0000] dns: exchanged ping.archlinux.org OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x0270, udp: 512
+INFO[0000] dns: exchanged ping.archlinux.org. CNAME ping.archlinux.org. 624 IN CNAME redirect.archlinux.org.
+INFO[0000] dns: exchanged redirect.archlinux.org AAAA redirect.archlinux.org. 2959 IN AAAA 2a01:4f9:c010:2636::1
+INFO[0000] dns: exchanged ping.archlinux.org. AAAA redirect.archlinux.org. 624 IN AAAA 2a01:4f9:c010:2636::1
+INFO[0000] dns: exchanged redirect.archlinux.org OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x0b8f, udp: 512
+INFO[0000] dns: exchanged ping.archlinux.org CNAME ping.archlinux.org. 623 IN CNAME redirect.archlinux.org.
+INFO[0000] dns: exchanged redirect.archlinux.org. AAAA redirect.archlinux.org. 2959 IN AAAA 2a01:4f9:c010:2636::1
+INFO[0000] dns: exchanged ping.archlinux.org A redirect.archlinux.org. 623 IN A 95.216.195.133
+INFO[0000] dns: exchanged ping.archlinux.org OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x026f, udp: 512
+INFO[0000] dns: exchanged ping.archlinux.org. CNAME ping.archlinux.org. 623 IN CNAME redirect.archlinux.org.
+INFO[0000] dns: exchanged ping.archlinux.org. A redirect.archlinux.org. 623 IN A 95.216.195.133
+INFO[0001] [2261913609 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:41719
+INFO[0001] [2261913609 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0001] [747892518 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:39482
+INFO[0001] [747892518 0ms] inbound/mixed[mixed-in]: inbound connection to detectportal.firefox.com:80
+INFO[0001] [4264703065 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60178
+INFO[0001] [4264703065 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0001] [732099183 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:38939
+INFO[0001] [732099183 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0001] [747892518 0ms] outbound/shadowsocks[proxy]: outbound connection to detectportal.firefox.com:80
+INFO[0001] [2543502001 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:39492
+INFO[0001] [3216935963 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:38215
+INFO[0001] [3216935963 0ms] inbound/tun[tun-in]: inbound packet connection to 10.10.2.21:53
+INFO[0001] [2543502001 0ms] inbound/mixed[mixed-in]: inbound connection to detectportal.firefox.com:80
+INFO[0001] [2543502001 0ms] outbound/shadowsocks[proxy]: outbound connection to detectportal.firefox.com:80
+INFO[0001] [2462325552 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:39496
+INFO[0001] [2462325552 0ms] inbound/mixed[mixed-in]: inbound connection to detectportal.firefox.com:80
+INFO[0001] [2462325552 0ms] outbound/shadowsocks[proxy]: outbound connection to detectportal.firefox.com:80
+INFO[0001] dns: exchanged example.org A example.org. 2916 IN A 93.184.215.14
+INFO[0001] dns: exchanged example.org OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x0b64, udp: 512
+INFO[0001] dns: exchanged example.org. A example.org. 2916 IN A 93.184.215.14
+INFO[0001] dns: exchanged ipv4only.arpa SOA ipv4only.arpa. 375 IN SOA sns.dns.icann.org. noc.dns.icann.org. 2022072100 7200 3600 604800 3600
+INFO[0001] dns: exchanged ipv4only.arpa OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x0177, udp: 512
+INFO[0001] dns: exchanged ipv4only.arpa A ipv4only.arpa. 10389 IN A 192.0.0.170
+INFO[0001] dns: exchanged example.org AAAA example.org. 3359 IN AAAA 2606:2800:21f:cb07:6820:80da:af6b:8b2c
+INFO[0001] dns: exchanged ipv4only.arpa A ipv4only.arpa. 10389 IN A 192.0.0.171
+INFO[0001] dns: exchanged example.org OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x0d1f, udp: 512
+INFO[0001] dns: exchanged ipv4only.arpa OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x2895, udp: 512
+INFO[0001] dns: exchanged example.org. AAAA example.org. 3359 IN AAAA 2606:2800:21f:cb07:6820:80da:af6b:8b2c
+INFO[0001] dns: exchanged ipv4only.arpa. A ipv4only.arpa. 10389 IN A 192.0.0.170
+INFO[0001] dns: exchanged ipv4only.arpa. A ipv4only.arpa. 10389 IN A 192.0.0.171
+INFO[0001] [33696480 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:39510
+INFO[0001] [33696480 0ms] inbound/mixed[mixed-in]: inbound connection to detectportal.firefox.com:80
+INFO[0001] [33696480 1ms] outbound/shadowsocks[proxy]: outbound connection to detectportal.firefox.com:80
+INFO[0001] [908395048 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:39516
+INFO[0001] [908395048 0ms] inbound/mixed[mixed-in]: inbound connection to detectportal.firefox.com:80
+INFO[0001] [908395048 1ms] outbound/shadowsocks[proxy]: outbound connection to detectportal.firefox.com:80
+INFO[0009] [2104292827 0ms] inbound/mixed[mixed-in]: inbound connection from 127.0.0.1:57104
+INFO[0009] [2104292827 0ms] inbound/mixed[mixed-in]: inbound connection to contile.services.mozilla.com:443
+INFO[0009] [2104292827 8ms] outbound/shadowsocks[proxy]: outbound connection to contile.services.mozilla.com:443
+INFO[0022] outbound/shadowsocks[proxy]: outbound connection to cp.cloudflare.com:80
+INFO[0024] outbound/shadowsocks[proxy]: outbound connection to cp.cloudflare.com:80
+INFO[0030] [330278644 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60693
+INFO[0030] [330278644 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0030] [1412511212 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60777
+INFO[0030] [1412511212 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0030] dns: cached ping.archlinux.org CNAME ping.archlinux.org. 594 IN CNAME redirect.archlinux.org.
+INFO[0030] dns: cached ping.archlinux.org AAAA redirect.archlinux.org. 594 IN AAAA 2a01:4f9:c010:2636::1
+INFO[0030] dns: cached ping.archlinux.org OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x0252, udp: 512
+INFO[0030] dns: cached redirect.archlinux.org AAAA redirect.archlinux.org. 2929 IN AAAA 2a01:4f9:c010:2636::1
+INFO[0030] dns: cached redirect.archlinux.org OPT OPT PSEUDOSECTION: EDNS: version 0 flags: MBZ: 0x0b71, udp: 512
+INFO[0030] dns: exchanged redirect.archlinux.org. AAAA redirect.archlinux.org. 2929 IN AAAA 2a01:4f9:c010:2636::1
+INFO[0030] dns: exchanged ping.archlinux.org. CNAME ping.archlinux.org. 594 IN CNAME redirect.archlinux.org.
+INFO[0030] dns: exchanged ping.archlinux.org. AAAA redirect.archlinux.org. 594 IN AAAA 2a01:4f9:c010:2636::1
