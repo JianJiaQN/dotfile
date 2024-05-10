@@ -24,7 +24,9 @@ source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 # List of plugins used
 plugins=(
-    git sudo z zsh-256color colored-man-pages
+    git sudo z 
+    zsh-256color 
+    colored-man-pages
     colorize # cat语法突出显示
     web-search # 网页搜索: google "url"
 
