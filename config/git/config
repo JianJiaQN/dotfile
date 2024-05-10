@@ -1,0 +1,17 @@
+[user]
+  name = jianjia
+  email = 1208872131@qq.com
+[core]
+  editor = neovim
+  excludesfile = ~/.config/git/gitignore
+  autocrlf = input
+[color]
+  status = auto
+#  branch = auto
+  interactive = auto
+  diff = auto
+[push]
+  default = current
+
+[init]
+	defaultBranch = main
