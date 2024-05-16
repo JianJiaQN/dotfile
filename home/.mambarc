@@ -26,6 +26,6 @@ allow_softlinks: true
 channel_priority: strict
 
 envs_dirs:
-  - /home/jianjia/micromamba/envs
+  - $HOME/micromamba/envs
 pkgs_dirs:
-  - /home/jianjia/micromamba/pkgs
+  - $HOME/micromamba/pkgs
