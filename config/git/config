@@ -7,7 +7,7 @@
   autocrlf = input
 [color]
   status = auto
-#  branch = auto
+  branch = auto
   interactive = auto
   diff = auto
 [push]
