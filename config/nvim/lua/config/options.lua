@@ -10,6 +10,14 @@ opt.fileencoding = "utf-8"
 opt.signcolumn = "yes"
 opt.signcolumn = "yes"
 
+if vim.fn.has("wsl") then
+  vim.cmd([[
+  augroup Yank
+  autocmd!
+  autocmd TextYankPost * :call system('/mnt/c/windows/system32/clip.exe ',@")
+  augroup END
+  ]])
+end
 -- override:
 -- opt.shiftwidth = 4 -- Size of an indent
 -- opt.tabstop = 4 -- Number of spaces tabs count for
