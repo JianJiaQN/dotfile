@@ -6,7 +6,7 @@
   "layer": "top",
   "position": "top",
   "mod": "dock",
-  "height": 40,
+  "height": 30,
   "exclusive": true,
   "passthrough": false,
   "gtk-layer-shell": true,
@@ -149,8 +149,8 @@
     "format": "{icon}",
     "rotate": 0,
     "format-icons": {
-      "activated": "󰥔",
-      "deactivated": "",
+      "activated": "󰥔 ",
+      "deactivated": " ",
     },
   },
 
@@ -261,15 +261,15 @@
       "phone": "",
       "portable": "",
       "car": "",
-      "default": ["", "", ""],
+      "default": [" ", " ", " "],
     },
   },
 
   "pulseaudio#microphone": {
-    "format": "{format_source}",
+    "format": "{format_source}{volume}",
     "rotate": 0,
-    "format-source": "",
-    "format-source-muted": "",
+    "format-source": " ",
+    "format-source-muted": "  ",
     "on-click": "pkill -x pavucontrol || pavucontrol -t 4",
     "on-click-right": "volumecontrol.sh -i m",
     "on-scroll-up": "volumecontrol.sh -i i",
@@ -307,7 +307,7 @@
   },
 
   "custom/wallchange": {
-    "format": "{}",
+    "format": " {}",
     "rotate": 0,
     "exec": "echo ; echo 󰆊 switch wallpaper",
     "on-click": "swwwallpaper.sh -n",
@@ -318,7 +318,7 @@
   },
 
   "custom/theme": {
-    "format": "{}",
+    "format": " {}",
     "rotate": 0,
     "exec": "echo ; echo 󰟡 switch theme",
     "on-click": "themeswitch.sh -n",
@@ -329,7 +329,7 @@
   },
 
   "custom/cliphist": {
-    "format": "{}",
+    "format": " {}",
     "rotate": 0,
     "exec": "echo ; echo 󰅇 clipboard history",
     "on-click": "sleep 0.1 && cliphist.sh c",
@@ -340,7 +340,7 @@
   },
 
   "custom/power": {
-    "format": "{}",
+    "format": " {}",
     "rotate": 0,
     "exec": "echo ; echo  logout",
     "on-click": "logoutlaunch.sh 2",
