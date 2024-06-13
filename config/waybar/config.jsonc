@@ -31,13 +31,15 @@
 
     "custom/r_end",
     "custom/l_end",
-    "hyprland/workspaces",
-    "custom/r_end",
-    "custom/l_end",
-    // "wlr/taskbar",
+
     "pulseaudio",
     "pulseaudio#microphone",
     "backlight",
+
+    "custom/r_end",
+    "custom/l_end",
+    // "wlr/taskbar",
+    "hyprland/workspaces",
     "custom/r_end",
     "custom/padd",
   ],
