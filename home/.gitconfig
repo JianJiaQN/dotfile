@@ -2,3 +2,6 @@
 	selected = manager
 [credential "http://10.39.15.252"]
 	provider = generic
+[user]
+	name = jianjia
+	email = 1208872131@qq.com
