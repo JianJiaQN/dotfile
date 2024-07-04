@@ -1,0 +1,6 @@
+[experimental]
+autoMemoryReclaim=gradual
+networkingMode=mirrored
+dnsTunneling=true
+firewall=true
+# autoProxy=true  #强制 WSL 使用 Windows 的 HTTP 代理信息

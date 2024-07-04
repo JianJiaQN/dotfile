@@ -1,0 +1,4 @@
+[credential "helperselector"]
+	selected = manager
+[credential "http://10.39.15.252"]
+	provider = generic
