@@ -2,12 +2,12 @@
     "block_domain": "geosite:category-ads-all\ndomain:appcenter.ms\ndomain:firebase.io\ndomain:crashlytics.com\n",
     "custom": "{\"rules\": []}",
     "def_outbound": "proxy",
-    "direct_dns": "localhost",
+    "direct_dns": "https://doh.pub/dns-query",
     "direct_domain": "geosite:cn",
     "direct_ip": "geoip:cn\ngeoip:private",
     "dns_final_out": "proxy",
     "dns_routing": true,
-    "remote_dns": "https://8.8.8.8/dns-query",
+    "remote_dns": "https://dns.google/dns-query",
     "sniffing_mode": 1,
     "use_dns_object": false
 }
