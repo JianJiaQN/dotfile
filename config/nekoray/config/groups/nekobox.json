@@ -3,16 +3,19 @@
     "check_include_pre": false,
     "conn_stat": false,
     "core_box_clash_api": -9090,
+    "core_ray_direct_dns": false,
     "current_group": 1,
     "custom_inbound": "{\"inbounds\": []}",
     "custom_route": "{\"rules\": []}",
+    "enable_js_hook": 0,
     "extraCore": {
-        "core_map": "{\"hysteria2\":\"\",\"naive\":\"\",\"tuic\":\"\"}"
+        "core_map": "{\"hysteria\":\"\",\"hysteria2\":\"\",\"naive\":\"\",\"tuic\":\"\"}"
     },
     "fakedns": false,
     "inbound_address": "127.0.0.1",
     "inbound_auth": {
     },
+    "inbound_http_port": 2081,
     "inbound_socks_port": 2080,
     "language": 0,
     "log_ignore": [
@@ -38,7 +41,7 @@
     "test_dl_timeout": 30,
     "test_url": "http://cp.cloudflare.com/",
     "test_url_dl": "http://cachefly.cachefly.net/10mb.test",
-    "theme": "3",
+    "theme": "0",
     "traffic_loop_interval": 1000,
     "v2ray_asset_dir": "/usr/share/sing-box",
     "vpn_hide_console": true,
