@@ -1,0 +1,8 @@
+oh-my-zsh-git
+zsh
+zsh-autosuggestions
+zsh-syntax-highlighting
+zsh-theme-powerlevel10k-git
+eza
+fastfetch
+ranger
