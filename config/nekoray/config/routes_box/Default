@@ -3,7 +3,7 @@
     "custom": "{\"rules\": []}",
     "def_outbound": "proxy",
     "direct_dns": "https://doh.pub/dns-query",
-    "direct_domain": "geosite:cn",
+    "direct_domain": "geosite:cn\nzjuers.com",
     "direct_ip": "geoip:cn\ngeoip:private",
     "dns_final_out": "proxy",
     "dns_routing": true,

@@ -1,0 +1,6 @@
+Server = https://mirrors.zju.edu.cn/archlinuxcn/$arch
+Server = https://mirrors.cloud.tencent.com/archlinuxcn/$arch
+Server = https://mirrors.cernet.edu.cn/archlinuxcn/$arch
+Server = https://mirrors.wsyu.edu.cn/archlinuxcn/$arch
+Server = https://mirrors.nju.edu.cn/archlinuxcn/$arch
+Server = https://mirrors.cicku.me/archlinuxcn/$arch

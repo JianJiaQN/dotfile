@@ -17,16 +17,28 @@
   "modules-left": [
     "custom/padd",
     "custom/l_end",
-    "battery",
-    "custom/r_end",
 
+    "custom/wallchange",
+    "custom/theme",
+    "custom/cliphist",
+    "custom/power",
+
+    "custom/r_end",
     "custom/l_end",
+
+    // "custom/notifications",
+    "battery",
+
+    "custom/r_end",
+    "custom/l_end",
+
     "pulseaudio",
     "pulseaudio#microphone",
     "backlight",
-    "custom/r_end",
 
+    "custom/r_end",
     "custom/l_end",
+    // "wlr/taskbar",
     "hyprland/workspaces",
     "custom/r_end",
     "custom/padd",
@@ -48,6 +60,10 @@
     "custom/l_end",
     "network",
     "bluetooth",
+    "custom/r_end",
+    "custom/l_end",
+    "custom/cpuinfo",
+    "custom/gpuinfo",
     "custom/r_end",
     "custom/l_end",
     "cpu",
