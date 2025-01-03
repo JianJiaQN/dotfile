@@ -1,4 +1,37 @@
-*.o
-.vscode
+# log
+logs/
+*.log
+
+# Temp
+*.tmp
+*.swp
 temp/
-bin/
+
+# Compiled source
+*.o
+*.so
+*.exe
+*.dll
+*.class
+
+# Dependency directory
+node_modules/
+vendor/
+.bundler/
+
+# Build
+dist/
+out/
+build/
+
+# Mac OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode
+
+# python
+__pycache__/
+*.py[cod]
+
