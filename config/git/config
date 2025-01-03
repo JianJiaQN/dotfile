@@ -2,7 +2,7 @@
   name = jianjia
   email = 1208872131@qq.com
 [core]
-  editor = neovim
+  editor = nvim
   excludesfile = ~/.config/git/gitignore
   autocrlf = input
 [color]
