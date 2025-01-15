@@ -38,7 +38,7 @@
     "test_dl_timeout": 30,
     "test_url": "http://cp.cloudflare.com/",
     "test_url_dl": "http://cachefly.cachefly.net/10mb.test",
-    "theme": "0",
+    "theme": "qt6ct-style",
     "traffic_loop_interval": 1000,
     "vpn_hide_console": true,
     "vpn_impl": 0,
