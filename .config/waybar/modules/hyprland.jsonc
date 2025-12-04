@@ -1,0 +1,80 @@
+{
+  "hyprland/window": {
+    "format": "{}",
+    "rewrite": {
+      "": "Desktop",
+      "kitty": "Terminal",
+      "zsh": "Terminal",
+      "~": "Terminal"
+    },
+    // "separate-outputs":
+    // "icon":
+    // "icon-size":
+    // "min-length":
+    // "max-length":
+    // "tooltip":
+    "swap-icon-label": false
+    // "expand":
+  },
+  
+	"hyprland/windowcount": {
+		"format": "[{}]",
+		// "format-empty":
+		// "format-windowed":
+		// "format-fullscreen":
+		// "separate-outputs":
+		// "min-length":
+		// "max-length":
+		"swap-icon-label": false
+	},
+  
+	"hyprland/workspaces": {
+		// "active-only":
+		// "hide-active":
+		// "all-outputs":
+		// "format": "{icon}",
+		// "format-icons": {
+		// 	"active": "",
+		// 	"default": ""
+		// },
+    "format": "{name}",
+    // "format-icons": {
+    //   "1": "",
+    //   "2": "",
+    //   "3": "",
+    //   "4": "",
+    //   "5": "",
+    //   "urgent": "",
+    //   "active": "",
+    //   "default": ""
+    // },
+    "sort-by-number": true,
+		"persistent-workspaces": {
+			// "*": 5
+		},
+		// "persistent-only":
+		// "show-special":
+		// "special-visible-only":
+		// "sort-by":
+		// "window-rewrite":
+		// "window-rewrite-default":
+		// "format-window-separator":
+		"workspace-taskbar": {
+			// "enable":
+			// "update-active-window":
+			// "format":
+			// "icon-size":
+			// "icon-theme":
+			// "orientation":
+			// "ignore-list":
+			// "on-click-window":
+		},
+		// "move-to-monitor":
+		// "ignore-workspaces":
+    "on-click": "activate",
+		"on-scroll-up": "hyprctl dispatch workspace +1",
+		"on-scroll-down": "hyprctl dispatch workspace -1",
+		// "expand":
+		"cursor": true
+	}
+}

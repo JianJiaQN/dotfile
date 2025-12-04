@@ -1,0 +1,45 @@
+{
+	"network": {
+		// "interface": "wlp2*", // (Optional) To force the use of this interface
+		// "rfkill":
+		"interval": 10,
+		// "family":
+		"format": "󰤨",
+		"format-linked": " ",
+		"format-ethernet": "󰈀",
+		"format-wifi": "{icon}",
+		"format-disconnected": " ", // 󰖪  󰤯
+		"format-disabled": "󰤮",
+		// "format-alt": "<span foreground='#99ffdd'> {bandwidthDownBytes}</span> <span foreground='#ffcc66'> {bandwidthUpBytes}</span>",
+		"format-icons": [
+			"󰤟",
+			"󰤢",
+			"󰤥",
+			"󰤨"
+		],
+		// "rotate":
+		"min-length": 2,
+		"max-length": 2,
+		// "align":
+		// "justify":
+		"on-click": "kitty -e ~/.config/waybar/scripts/network.sh",
+		// "on-click-middle":
+		// "on-click-right": "pkill -x nm-applet || nm-applet"
+		"on-click-right": "nmcli radio wifi off && notify-send 'Wi-Fi Disabled' -i 'network-wireless-off' -r 1125",
+    // "on-click-right": "nm-connection-editor",
+		// "on-update":
+		// "on-scroll-up":
+		// "on-scroll-down":
+		// "smooth-scrolling-threshold":
+		// "tooltip":
+		"tooltip-format": "Gateway: {gwaddr}",
+		"tooltip-format-ethernet": "Interface: {ifname}",
+		"tooltip-format-wifi": "Network: {essid}\nIP Addr: {ipaddr}/{cidr}\nStrength: {signalStrength}%\nFrequency: {frequency} GHz\n<span foreground='#99ffdd'> {bandwidthDownBytes}</span> <span foreground='#ffcc66'> {bandwidthUpBytes}</span>",
+		"tooltip-format-disconnected": "Wi-Fi Disconnected",
+		"tooltip-format-disabled": "Wi-Fi Disabled"
+		// "menu":
+		// "menu-file":
+		// "menu-actions":
+		// "expand":
+	}
+}

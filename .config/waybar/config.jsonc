@@ -1,0 +1,143 @@
+{
+	"include": [
+		"~/.config/waybar/modules/backlight.jsonc",
+		"~/.config/waybar/modules/battery.jsonc",
+		"~/.config/waybar/modules/bluetooth.jsonc",
+		"~/.config/waybar/modules/clock.jsonc",
+		"~/.config/waybar/modules/cpu.jsonc",
+		"~/.config/waybar/modules/hyprland.jsonc",
+		"~/.config/waybar/modules/idle_inhibitor.jsonc",
+		"~/.config/waybar/modules/memory.jsonc",
+		"~/.config/waybar/modules/mpris.jsonc",
+		"~/.config/waybar/modules/network.jsonc",
+		"~/.config/waybar/modules/temperature.jsonc",
+		"~/.config/waybar/modules/tray.jsonc",
+		"~/.config/waybar/modules/wireplumber.jsonc",
+		"~/.config/waybar/modules/niri.jsonc",
+		"~/.config/waybar/modules/power-profiles-daemon.jsonc",
+	],
+	"layer": "top",
+	// "position": "bottom",
+	// "height": 40,
+	"fixed-center": true,
+	"reload_style_on_change": true,
+	"modules-left": [
+		"niri/workspaces",
+		"custom/cava",
+		"mpris",
+		"custom/screenshot",
+		"custom/wfrec",
+		"custom/colorpicker",
+		"niri/window",
+	],
+	"modules-center": [
+		// "custom/applauncher",
+		"idle_inhibitor",
+		"clock#time"
+		// "custom/separator#2",
+	],
+	"modules-right": [
+		"custom/updates",
+		"tray",
+		"group/ddcutil",
+		"group/wireplumber",
+		"bluetooth",
+		"network",
+		"power-profiles-daemon",
+		"battery",
+		"group/powermenu"
+	],
+	
+	//音频可视化
+	"custom/cava": {
+		"tooltip": false,
+		"format": "{}",
+		"exec": "~/.config/waybar/scripts/cava.sh",
+  },  
+	//截图
+  "custom/screenshot" :{
+    "format": "",
+    "tooltip-format": "Click to easy Screenshot Right Click to power screenshot",
+    "on-click":"~/.config/waybar/scripts/screenshot.sh",
+    "on-click-right": "~/.config/waybar/scripts/power-screenshot.sh"
+  },
+  
+  //wf-recorder
+  "custom/wfrec": {
+		"exec": "~/.config/waybar/scripts/wf-recorder.sh status-json",
+		"return-type": "json",
+		"interval": 1,                 // 每秒刷新一次
+		"signal": 9,                   // 与脚本里的 WAYBAR_SIG 对应
+		"tooltip": true,
+		"on-click": "~/.config/waybar/scripts/wf-recorder.sh toggle",  // 左键：开始/停止
+		"on-click-right": "~/.config/waybar/scripts/wf-recorder.sh stop"
+	},
+  //获取屏幕颜色colorpicker
+  "custom/colorpicker": {
+    "tooltip": false,
+    "format": "󱏜",
+    "on-click": "hyprpicker | wl-copy",
+  },
+  //logo+程序启动器
+  "custom/applauncher": {
+    "tooltip-format": "Click to Open Applauncher or Right-Click to Select Wallpaper",
+    "format": "󰣇",
+    "on-click": "fuzzel",
+    "on-click-right": "waypaper",
+  },
+  //分隔符󰇝 󱋱
+  "custom/separator#1": {
+    "format": "󱋱",
+    "tooltip": false,
+  },
+  "custom/separator#2": {
+    "format": "",
+    "tooltip": false,
+  },
+  //archupdater
+  "custom/updates": {
+    "format": "{}{icon}",
+    "return-type": "json",
+    "format-icons": {
+      "has-updates": "",
+      "updated": "",
+    },
+    "exec-if": "which waybar-module-pacman-updates",
+    "exec": "waybar-module-pacman-updates --no-zero-output",
+    "on-click": "kitty -e yay",
+  },
+
+  //电源菜单
+  "group/powermenu": {
+    "orientation": "inherit",
+    "drawer": {
+      "transition-left-to-right": false,
+    },
+    "modules": [
+      "custom/wlogout",
+      "custom/reboot",
+      "custom/logout",
+      "custom/lockscreen",
+    ],
+  },
+  "custom/wlogout": {
+    "tooltip": false,
+    "format": "󰐥",
+    "on-click": "wlogout",
+  },
+  "custom/lockscreen": {
+    "tooltip": false,
+    "format": "",
+    "on-click": "swaylock || hyprlock",
+  },
+  "custom/reboot": {
+    "tooltip": false,
+    "format": "",
+    "on-click": "systemctl reboot",
+  },
+  "custom/logout": {
+    "format": "󰈆",
+    "on-click": "niri msg action quit",
+    "tooltip": false,
+  },
+}

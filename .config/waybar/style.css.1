@@ -1,0 +1,51 @@
+@import "colors.css";
+
+* {
+	border: none;
+	border-radius: 5px;
+	/* font-family: JetBrainsMono NFP; */
+	font-size: 16px; /* 1em（基准） */
+	min-height: 0;
+}
+
+window#waybar {
+	border-radius: 0px;
+	/* background: @surface; */
+	background: transparent;
+	color: @on_surface;
+}
+
+tooltip {
+	background: @surface_container_high;
+	border: 1px solid @outline;
+	opacity: 0.8;
+}
+
+tooltip label {
+	color: @on_surface;
+	font-size: 0.89em; /* 原 16px */
+}
+
+#workspaces {
+	/* background-color: @surface_container_high; */
+	background: transparent;
+	padding: 0px 5px;
+	margin: 5px;
+}
+
+#workspaces button {
+	padding: 0px 2px;
+	color: @tertiary_container;
+}
+
+#workspaces label {
+  font-size: 1.11em; 
+}
+
+#workspaces button:hover {
+  background: @surface_bright;
+}
+
+#workspaces button.active {
+  color: @tertiary;
+}

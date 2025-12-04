@@ -1,0 +1,149 @@
+{
+  //网络和蓝牙
+  "group/network-bluetooth": {
+    "orientation": "inherit",
+    "drawer": {
+      "transition-left-to-right": false,
+    },
+    "modules": ["network", "bluetooth"],
+  },
+  "network": {
+    "format-disconnected": "{icon}",
+    "format-wifi": "{icon}",
+    "format-ethernet": "{icon}",
+    "format-icons": {
+      "format-disconnected": " ", // 󰖪  󰤯
+		  "format-disabled": "󰤮",
+      "wifi": ["󰤯", "󰤟", "󰤢", "󰤥", "󰤨"],
+      "ethernet": "󰈀",
+    },
+    //鼠标悬浮在wifi图标上会显示wifi名称、信号强度、ip地址、设备名
+		"format-alt": "<span foreground='#99ffdd'> {bandwidthDownBytes}</span> <span foreground='#ffcc66'> {bandwidthUpBytes}</span>",
+		"tooltip-format": "Gateway: {gwaddr}",
+		"tooltip-format-ethernet": "Interface: {ifname} : {ipaddr}",
+		"tooltip-format-wifi": "Network: {essid}\nIP Addr: {ipaddr}/{cidr}\nStrength: {signalStrength}%\nFrequency: {frequency} GHz",
+		"tooltip-format-disconnected": "Wi-Fi Disconnected",
+		"tooltip-format-disabled": "Wi-Fi Disabled",
+    "on-click": "kitty -e nmtui",
+    "on-click-right": "nm-connection-editor",
+  },
+  "bluetooth": {
+    //蓝牙关闭状态下的图标和鼠标悬浮时的提示
+    "format-disabled": "󰂲",
+    "tooltip-format-disabled": "Click to enable",
+    "format": "󰂯",
+    "tooltip-format-on": " 󰂯 Click to disable or Right click to open GUI",
+    //连接状态下的图标和提示
+    "format-connected": "󰂱",
+    "tooltip-format-connected": "󰂱 {device_alias}Richt click to open GUI",
+    //点击功能
+    "on-click": "~/.config/waybar/scripts/toggle-bluetooth.sh",
+    "on-click-right": "blueberry",
+  },
+  //工具组
+  "group/tools": {
+    "orientation": "inherit",
+    "drawer": {
+      "transition-left-to-right": false,
+    },
+    "modules": ["network", "bluetooth"],
+  },
+
+  "pulseaudio": {
+    "tooltip-format": "Click to Mute | Right-Click to Mute Mic | Mid-Click to Open Pavucontrol",
+    "format": "{icon}{volume}% {format_source}",
+    //"format-bluetooth": "{volume}% {format_source}",
+    "format-source": "{volume}%",
+    "format-source-muted": "",
+    "format-muted": " {format_source}",
+    "format-icons": {
+      "headphone": "",
+      "bluetooth": "",
+      // "speaker":"󰓃"
+      "speaker": ["", "", ""],
+    },
+    "on-click": "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle",
+    "on-click-right": "wpctl set-mute @DEFAULT_AUDIO_SOURCE@ toggle",
+    "on-click-middle": "pavucontrol --tab=3",
+    "on-scroll-up": "wpctl set-volume @DEFAULT_AUDIO_SOURCE@ 5%+",
+    "on-scroll-down": "wpctl set-volume @DEFAULT_AUDIO_SOURCE@ 5%-",
+  },
+  "pulseaudio/slider": {
+    "min": 0,
+    "max": 100,
+    "orientation": "horizontal",
+  },
+  //多媒体
+  //内屏亮度
+  "backlight/slider": {
+    "min": 5,
+    "max": 100,
+    "orientation": "horizontal",
+  },
+  "backlight": {
+    "tooltip": false,
+    "format": "{icon}",
+    "format-icons": ["", "", "", "", "", "", "", "", ""],
+  },
+  //调节外接屏幕亮度
+  "group/ddcutil": {
+    "orientation": "inherit",
+    "drawer": {
+      "transition-left-to-right": false,
+    },
+    "modules": [
+      "custom/ddcutil-day",
+      "backlight/slider",
+      "backlight",
+      "custom/separator#1",
+      "custom/ddcutil-sleep",
+      "custom/ddcutil-night",
+    ],
+  },
+  "custom/ddcutil-day": {
+    "tooltip-format": "Ex.Monitor 100% brightness",
+    "format": "󰃠",
+    "on-click": "ddcutil --display 1 setvcp 10 100 ",
+  },
+  "custom/ddcutil-night": {
+    "tooltip-format": "Ex.Monitor 65% brightness",
+    "format": "󰃟",
+    "on-click": "ddcutil --display 1 setvcp 10 65 ",
+  },
+  "custom/ddcutil-sleep": {
+    "tooltip-format": "Ex.Monitor 5% brightness",
+    "format": "󰃞",
+    "on-click": "ddcutil --display 1 setvcp 10 5 ",
+  },
+  //swaync通知模块
+  "custom/swaync": {
+    "tooltip": false,
+    "format": "{icon}",
+    "format-icons": {
+      "notification": "<span foreground='red'><sup></sup></span>",
+      "none": "",
+      "dnd-notification": "<span foreground='red'><sup></sup></span>",
+      "dnd-none": "",
+      "inhibited-notification": "<span foreground='red'><sup></sup></span>",
+      "inhibited-none": "",
+      "dnd-inhibited-notification": "<span foreground='red'><sup></sup></span>",
+      "dnd-inhibited-none": "",
+    },
+    "return-type": "json",
+    "exec-if": "which swaync-client",
+    "exec": "swaync-client -swb",
+    "on-click": "swaync-client -t -sw",
+    "on-click-right": "swaync-client -d -sw",
+    "escape": true,
+  },
+  "custom/mako": {
+    "format": "",
+    "on-click": "makoctl restore",
+  },
+  //gnome-control-center 
+  "custom/settings": {
+    "format": "",
+    "on-click": "env XDG_CURRENT_DESKTOP=GNOME gnome-control-center",
+    "tooltip-format": "Open control center",
+  },
+}

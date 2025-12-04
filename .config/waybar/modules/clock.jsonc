@@ -1,0 +1,104 @@
+{
+	"clock#time": {
+		// "interval":
+		"format": "{:%H:%M}",
+    // "format-alt": "󰃭 {:%a, %m %d, %y}",
+		// "timezone":
+		// "timezones":
+		// "locale":
+		"min-length": 5,
+		"max-length": 25,
+		// "rotate": 0,
+		// "on-click":
+		// "on-click-middle":
+		// "on-click-right":
+		// "on-scroll-up":
+		// "on-scroll-down":
+		// "smooth-scrolling-threshold":
+		// "tooltip":
+    "tooltip-format": "{:%Y/%m/%d %A}",
+		// "tooltip-format": "Standard Time: {:%I:%M %p}"
+		// "menu":
+		// "menu-file":
+		// "menu-actions":
+		// "expand":
+	},
+
+	/*--------------
+	    calendar
+	--------------*/
+
+	"clock#date": {
+		// "interval":
+		"format": "󰸗 {:%m-%d}",
+		// "timezone":
+		// "timezones":
+		// "locale":
+		"min-length": 8,
+		"max-length": 8,
+		// "rotate":
+		// "on-click":
+		// "on-click-middle":
+		// "on-click-right":
+		// "on-scroll-up":
+		// "on-scroll-down":
+		// "smooth-scrolling-threshold":
+		// "tooltip":
+		"tooltip-format": "{calendar}",
+		// "menu":
+		// "menu-file":
+		// "menu-actions":
+		// "expand":
+		"calendar": {
+			"mode": "month",
+			"mode-mon-col": 6,
+			// "week-pos":
+			// "on-scroll":
+			"format": {
+				"months": "<span alpha='100%'><b>{}</b></span>",
+				"days": "<span alpha='90%'>{}</span>",
+				// "weeks":
+				"weekdays": "<span alpha='80%'><i>{}</i></span>",
+				"today": "<span alpha='100%'><b><u>{}</u></b></span>"
+			}
+		},
+		"actions": {
+			"on-click": "mode",
+			// "on-click-middle":
+			// "on-click-right":
+			// "on-scroll-up":
+			// "on-scroll-down":
+      "on-click-forward": "tz_up",
+      "on-click-backward": "tz_down",
+      "on-scroll-up": "shift_up",
+      "on-scroll-down": "shift_down"
+		}
+	}
+}
+	
+
+  // "clock": {
+  //   "format": " {:%H:%M}",
+  //   "format-alt": "󰃭 {:%a, %m %d, %y}",
+  //   "tooltip-format": "<tt>{calendar}</tt>",
+  //   "calendar": {
+  //       "mode": "month",
+  //       "mode-mon-col": 3,
+  //       "on-scroll": 1,
+  //       "on-click-right": "mode",
+  //       "format": {
+  //         "months":     "<span color='#ffead3'><b>{}</b></span>",
+  //         "days":       "<span color='#ecc6d9'><b>{}</b></span>",
+  //         "weeks":      "<span color='#99ffdd'><b>W{}</b></span>",
+  //         "weekdays":   "<span color='#ffcc66'><b>{}</b></span>",
+  //         "today":      "<span color='#ff6699'><b><u>{}</u></b></span>"
+  //       }
+  //   },
+  //   "actions": {
+  //     "on-click-right": "mode",
+  //     "on-click-forward": "tz_up",
+  //     "on-click-backward": "tz_down",
+  //     "on-scroll-up": "shift_up",
+  //     "on-scroll-down": "shift_down"
+  //   }
+  // },
